@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DFM",
+			"path": ".."
+		},
+		{
+			"name": "ECU Simulation",
+			"path": "..\\..\\ECU Simulation"
+		}
+	],
+	"settings": {}
+}

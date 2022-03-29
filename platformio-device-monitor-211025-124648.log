@@ -1,0 +1,647 @@
+Initializing I2C devices...
+Testing device connections...
+MPU6050 connection successful
+Initializing DMP...
+
+Reading sensors for first time...
+...
+4Seconds
+
+Calculating offsets...
+
+FINISHED!
+
+Sensor readings with offsets:	
+gyroX_offset = -142.00
+gyroY_offset = -111.00
+gyroZ_offset = 0.00
+accelX_offset = -3968.00
+accelY_offset = 845.00
+accelZ_offset = 1195.00
+>......>......
+
+//           X Accel  Y Accel  Z Accel   X Gyro   Y Gyro   Z Gyro
+//OFFSETS    -3984,     875,    1201,    -142,    -106,      -2
+Enabling DMP...
+Enabling interrupt detection (Arduino external interrupt 13)...
+DMP ready! Waiting for first interrupt...
+Clearing input serial buffer
+Sending the following command/query: AT D
+	Received char: \r
+	Received char: O
+	Received char: K
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: OK
+Clearing input serial buffer
+Sending the following command/query: AT Z
+	Received char: A
+	Received char: T
+	Received char:  
+	Received char: Z
+	Received char: \r
+	Received char: \r
+	Received char: \r
+	Received char: E
+	Received char: L
+	Received char: M
+	Received char: 3
+	Received char: 2
+	Received char: 7
+	Received char:  
+	Received char: v
+	Received char: 1
+	Received char: .
+	Received char: 5
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: ATZELM327v15
+Clearing input serial buffer
+Sending the following command/query: AT E0
+	Received char: A
+	Received char: T
+	Received char:  
+	Received char: E
+	Received char: 0
+	Received char: \r
+	Received char: O
+	Received char: K
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: ATE0OK
+Clearing input serial buffer
+Sending the following command/query: AT S0
+	Received char: O
+	Received char: K
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: OK
+Clearing input serial buffer
+Sending the following command/query: AT AL
+	Received char: O
+	Received char: K
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: OK
+Clearing input serial buffer
+Sending the following command/query: AT TP A0
+	Received char: O
+	Received char: K
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: OK
+ELM327 Connected
+Initializing SD card...card initialized.
+Logging to: LOG01688.CSV
+Free space KB: 29612960
+Free space in MB: 28918
+
+[MAIN] Waiting for Cat.M1 Module Ready...
+
+[MAIN] BG96 already available
+
+[MAIN] System Init Complete
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Checking APN...
+
+[BG96] APN Check Done
+
+[MAIN] [FILE] Save and check AWS certificates
+
+[MAIN] [FILE] Erase BG96 storage complete
+
+[BG96] File saved: AmazonRootCA1.pem, 1188, 2d13
+
+[BG96] File saved: certificate.pem.crt, 1224, 7a0f
+
+[BG96] File saved: private.pem.key, 1679, 7a50
+
+[MAIN] [SSL/TLS] Set BG96 SSL/TLS configuration
+
+[BG96] Set SSL/TLS ignore validity check option failed: ignorelocaltime
+
+[MAIN] [MQTT] Connect to AWS IoT "a3q2g5zrbgdsc1-ats.iot.us-east-1.amazonaws.com:8883"
+
+[BG96] GPS Power: On
+
+[MAIN] GPS On
+0.46
+0.08
+0.00
+-0.00
+GYRO data updated
+Distinguishing Powertrain
+Service: 9
+PID: 2
+Normal length query detected
+Query string: 0902
+Clearing input serial buffer
+Sending the following command/query: 0902
+	Received char: S
+	Received char: E
+	Received char: A
+	Received char: R
+	Received char: C
+	Received char: H
+	Received char: I
+	Received char: N
+	Received char: G
+	Received char: .
+	Received char: .
+	Received char: .
+	Received char: \r
+All chars received: SEARCHING
+Timeout detected with overflow of 0ms
+Service: 1
+PID: 12
+Normal length query detected
+Query string: 010C
+Clearing input serial buffer
+Sending the following command/query: 010C
+	Received char: S
+	Received char: E
+	Received char: A
+	Received char: R
+	Received char: C
+	Received char: H
+	Received char: I
+	Received char: N
+	Received char: G
+	Received char: .
+	Received char: .
+	Received char: .
+	Received char: \r
+All chars received: SEARCHING
+Timeout detected with overflow of 0ms
+Service: 1
+PID: 13
+Normal length query detected
+Query string: 010D
+Clearing input serial buffer
+Sending the following command/query: 010D
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 410D
+Response not detected
+Service: 1
+PID: 4
+Normal length query detected
+Query string: 0104
+Clearing input serial buffer
+Sending the following command/query: 0104
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4104
+Response not detected
+Service: 1
+PID: 31
+Normal length query detected
+Query string: 011F
+Clearing input serial buffer
+Sending the following command/query: 011F
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 411F
+Response not detected
+Service: 1
+PID: 81
+Normal length query detected
+Query string: 0151
+Clearing input serial buffer
+Sending the following command/query: 0151
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4151
+Response not detected
+Service: 1
+PID: 92
+Normal length query detected
+Query string: 015C
+Clearing input serial buffer
+Sending the following command/query: 015C
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 415C
+Response not detected
+Service: 1
+PID: 5
+Normal length query detected
+Query string: 0105
+Clearing input serial buffer
+Sending the following command/query: 0105
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4105
+Response not detected
+Service: 1
+PID: 90
+Normal length query detected
+Query string: 015A
+Clearing input serial buffer
+Sending the following command/query: 015A
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 415A
+Response not detected
+Service: 1
+PID: 17
+Normal length query detected
+Query string: 0111
+Clearing input serial buffer
+Sending the following command/query: 0111
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4111
+Response not detected
+Service: 1
+PID: 76
+Normal length query detected
+Query string: 014C
+Clearing input serial buffer
+Sending the following command/query: 014C
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 414C
+Response not detected
+Service: 1
+PID: 69
+Normal length query detected
+Query string: 0145
+Clearing input serial buffer
+Sending the following command/query: 0145
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4145
+Response not detected
+Service: 1
+PID: 15
+Normal length query detected
+Query string: 010F
+Clearing input serial buffer
+Sending the following command/query: 010F
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 410F
+Response not detected
+Service: 1
+PID: 11
+Normal length query detected
+Query string: 010B
+Clearing input serial buffer
+Sending the following command/query: 010B
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 410B
+Response not detected
+Service: 1
+PID: 47
+Normal length query detected
+Query string: 012F
+Clearing input serial buffer
+Sending the following command/query: 012F
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 412F
+Response not detected
+Service: 1
+PID: 28
+Normal length query detected
+Query string: 011C
+Clearing input serial buffer
+Sending the following command/query: 011C
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 411C
+Response not detected
+Service: 1
+PID: 66
+Normal length query detected
+Query string: 0142
+Clearing input serial buffer
+Sending the following command/query: 0142
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4142
+Response not detected
+Service: 1
+PID: 70
+Normal length query detected
+Query string: 0146
+Clearing input serial buffer
+Sending the following command/query: 0146
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4146
+Response not detected
+Service: 1
+PID: 33
+Normal length query detected
+Query string: 0121
+Clearing input serial buffer
+Sending the following command/query: 0121
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4121
+Response not detected
+Service: 1
+PID: 49
+Normal length query detected
+Query string: 0131
+Clearing input serial buffer
+Sending the following command/query: 0131
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4131
+Response not detected
+Service: 1
+PID: 16
+Normal length query detected
+Query string: 0110
+Clearing input serial buffer
+Sending the following command/query: 0110
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4110
+Response not detected
+Service: 1
+PID: 68
+Normal length query detected
+Query string: 0144
+Clearing input serial buffer
+Sending the following command/query: 0144
+	Received char: S
+	Received char: T
+	Received char: O
+	Received char: P
+	Received char: P
+	Received char: E
+	Received char: D
+	Received char: \r
+	Received char: \r
+	Received char: >
+Delimiter found
+All chars received: STOPPED
+ELM responded with errror "STOPPED"
+Expected response header: 4144
+Response not detected

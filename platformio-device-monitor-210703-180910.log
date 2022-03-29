@@ -1,0 +1,118 @@
+[37mI[37mnitial[37mi[37mzing I2C d[37me[37mvices...
+[37mT[37mesting device [37mc[37monnections[37m.[37m..
+MPU6050[37m [37mconnection[37m [37msuccessful[37m
+[37mInitializi[37mn[37mg DMP...
+[37m
+[37mReading sensors[37m [37mfor first [37mt[37mime...
+[37m.[37m..
+3Seconds
+
+C[37ma[37mlculating [37mo[37mffsets...
+[37m
+[37mFINIS[37mHED!
+
+Senso[37mr[37m readings [37mw[37mith offset[37ms[37m:	
+[37mg[37myroX_of[37mf[37mset = -132[37m.[37m00
+gyroY_o[37mf[37mfset = -10[37m8[37m.00
+gyroZ_[37mo[37mffset = -4[37m.[37m00
+accelX_[37mo[37mffset = -39[37m2[37m8.00
+acce[37ml[37mY_offset = [37m8[37m30.00
+acc[37me[37mlZ_offset [37m=[37m 1155.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//    [37m [37m      X Ac[37mc[37mel  Y Accel[37m [37m Z Accel  [37m [37mX Gyro   Y[37m [37mGyro   Z Gy[37mr[37mo
+//OFFSETS[37m [37m   -3948, [37m [37m   858,    [37m1[37m163,    -1[37m3[37m2,    -108,[37m [37m     -3
+En[37ma[37mbling DMP..[37m.[37m
+Enabling [37mi[37mnterrupt d[37me[37mtection (Ar[37md[37muino exter[37mn[37mal interru[37mp[37mt 13)...
+D[37mM[37mP ready! W[37ma[37miting for f[37mi[37mrst interr[37mu[37mpt...
+[37mE[37mLM327 Connect[37me[37md
+[37mI[37mnitial[37mi[37mzing SD car[37md[37m...[37mc[37mard ini[37mt[37mialized.
+[37mL[37moggin[37mg to: LOG00[37m6[37m41.CSV
+[37mF[37mree space K[37mB[37m: 3822784
+[37mF[37mree space [37mi[37mn MB: 3733[37m
+[37m[37m
+[MAIN] Wait[37mi[37mng for Cat.[37mM[37m1 Module R[37me[37mady...
+[37m[37m
+[MAIN][37m [37mBG96 alrea[37md[37my available[37m[37m
+
+[MAIN] [37mS[37mystem Init [37mC[37momplete
+[37m
+[37m[MAIN] WIZn[37me[37mt IoT Shie[37ml[37md for Ardui[37mn[37mo
+[MAIN] [37mL[37mTE Cat.M1 V[37me[37mrsion
+[MA[37mI[37mN] ========[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m=====
+[MA[37mI[37mN] >> Targ[37me[37mt Board: WI[37mo[37mT-QC01 (Qu[37me[37mctel BG96)[37m
+[37m[MAIN] >> [37mS[37mample Code:[37m [37m AWS IoT Pu[37mb[37m/Sub (Buil[37mt[37m-in TLS)
+[[37mM[37mAIN] =====[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m========
+[37m[37m
+[BG96] Ech[37mo[37m Off: Succ[37me[37mss
+
+[BG96[37m][37m USIM Stat[37mu[37ms: READY
+[37m
+[37m[BG96] Net[37mw[37mork Status:[37m [37mAttach
+[37m[37m
+[37m[BG96] Ech[37mo[37m Off: Succ[37me[37mss
+[37m[37m
+[BG96] [37mU[37mSIM Status[37m:[37m READY
+[37m[37m
+[37m[BG96] Net[37mw[37mork Status[37m:[37m Attach
+
+[37m[[37mBG96] Chec[37mk[37ming APN...[37m
+[37m[37m
+[37m[BG96][37m [37mAPN Check [37mD[37mone
+
+[MAI[37mN[37m] [FILE] Sa[37mv[37me and chec[37mk[37m AWS certif[37mi[37mcates
+[37m[37m
+[37m[BG96] PDP C[37mo[37mntext Activ[37ma[37mtion: Succ[37me[37mss
+[37m[37m
+[MAIN[37m][37m [FILE] Er[37ma[37mse BG96 sto[37mr[37mage comple[37mt[37me
+[37m[37m
+[BG96] [37mF[37mile saved:[37m [37mAmazonRootC[37mA[37m1.pem, 118[37m8[37m, 2d13
+[37m[37m
+[BG96] [37mF[37mile saved:[37m [37mcertificate[37m.[37mpem.crt, 12[37m2[37m4, 7a0f
+[37m[37m
+[BG96] File[37m [37msaved: pri[37mv[37mate.pem.key[37m,[37m 1679, 7a5[37m0[37m
+[37m[37m
+[MAIN[37m] [SSL/TLS][37m [37mSet BG96 SS[37mL[37m/TLS confi[37mg[37muration
+[37m[37m
+[MAI[37mN[37m] [MQTT] C[37mo[37mnnect to AW[37mS[37m IoT "a3q2[37mg[37m5zrbgdsc1-a[37mt[37ms.iot.us-e[37ma[37mst-1.amazo[37mn[37maws.com:888[37m3[37m"
+[37m[37m
+[37m[BG9[37m6[37m] GPS Powe[37mr[37m: On
+
+[M[37mA[37mIN] GPS On[37m
+[37m0[37m.[37m20
+0.00[37m[37m
+-0.00
+-0[37m.[37m00
+GYRO da[37mt[37ma updated[37m
+[37mOK[37mE[37mLM327 data re[37mp[37mresenting..[37m.[37m..
+[37mE[37mr[37mror Valu[37me[37m Reset!
+in[37ms[37mtantFuelCon[37ms[37mume : 0.00[37m[37m
+commandedA[37mi[37mrFuelRatio[37m [37m: 0.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37mp[37mr[37me_instan[37mt[37mFuelConsume[37m [37m= 0.00
+pr[37me[37m_f_accelX =[37m [37m-0.00
+pre[37m_[37mf_accelY = [37m-[37m0.00
+pre_[37mr[37mpm = 700
+p[37mr[37me_runTime [37m=[37m 0
+pre_kph[37m [37m= 1
+pre_D[37ma[37mta Updated[37m
+[37mflag_aws_p[37mu[37mblish = tru[37me[37m
+[37m[37m
+[MAI[37mN[37m] [MQTT] S[37mo[37mcket open s[37mu[37mccess
+[37m0[37m.[37m17
+-0[37m.[37m02
+-0.00
+[37m0[37m.00
+GYRO [37md[37mata updated[37m[37m
+[37mL[37mogging to: LOG00642.CS[37mV[37m<<---------[37m-[37m----------[37m-[37m------Creat[37me[37md New File[37m.[37m..
+[37mE[37mRRO[37mR[37m: ELM_STOPP[37mE[37mD
+ELM_ERR[37mO[37mR LOGGED
+[37m0[37m.0[37m6
+-0.03
+0.[37m0[37m1
+0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mE[37mRROR: ELM_STO[37mP[37mPED
+ELM_E[37mR[37mROR LOGGED[37m
+[37mf[37mla[37mg_aws_publi[37ms[37mh = true

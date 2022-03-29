@@ -1,0 +1,125 @@
+[37m3fff0018,len:4
+load:0x3[37m�load:[37m0[37mx40078000,l[37me[37mn:10124
+l[37mo[37mad:0x400804[37m0[37m0,len:5856[37m
+[37mentry 0x400[37m8[37m06a8
+[37mI[37mn[37mitializi[37mn[37mg I2C devic[37me[37ms...
+[37mT[37me[37mstin[37mg[37m device con[37mn[37mections...[37m
+[37mMPU6050 co[37mn[37mnection suc[37mc[37messful
+In[37mi[37mtializing [37mD[37mMP...
+[37m
+[37mReading sensors f[37mo[37mr first tim[37me[37m...
+[37m.[37m..
+3Se[37mconds
+
+Cal[37mc[37mulating off[37ms[37mets...
+[37m
+[37mFINISHED[37m![37m
+
+Sensor [37mr[37meadings wit[37mh[37m offsets:	[37m[37m
+[37mg[37my[37mroX_offset[37m [37m= -135.00[37m
+[37mgyroY_offse[37mt[37m = -107.00[37m[37m
+gyroZ_offs[37me[37mt = -4.00[37m
+[37maccelX_offs[37me[37mt = -3976.[37m0[37m0
+accelY_o[37mf[37mfset = 840.[37m0[37m0
+accelZ_[37mo[37mffset = 116[37m1[37m.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//      [37m [37m    X Accel[37m [37m Y Accel  Z[37m [37mAccel   X [37mG[37myro   Y Gyr[37mo[37m   Z Gyro
+[37m/[37m/OFFSETS   [37m [37m-3990,    [37m [37m868,    116[37m3[37m,    -134, [37m [37m  -106,   [37m [37m  -4
+Enabl[37mi[37mng DMP...
+[37mE[37mnabling in[37mt[37merrupt dete[37mc[37mtion (Ardu[37mi[37mno external[37m [37minterrupt [37m1[37m3)...
+DMP [37mr[37meady! Wait[37mi[37mng for firs[37mt[37m interrupt.[37m.[37m.
+[37mE[37mLM327[37m [37mConnected[37m
+[37mI[37mnitializi[37mn[37mg SD card..[37m.[37mc[37ma[37mrd initia[37ml[37mized.
+[37mL[37moggin[37mg to: LOG00884.CSV
+[37mF[37mree s[37mpace KB: 29[37m6[37m49024
+Free[37m space in MB: 28954
+[37m[37m
+[MAIN] Waitin[37mg[37m for Cat.M[37m1 Module Rea[37md[37my...
+[37m[37m
+[MAIN] BG[37m9[37m6 ready
+
+[37m[[37mMAIN] Syst[37me[37mm Init Comp[37ml[37mete
+
+[MA[37mI[37mN] WIZnet I[37mo[37mT Shield f[37mo[37mr Arduino
+[37m[MAIN] LTE [37mC[37mat.M1 Versi[37mo[37mn
+[MAIN] [37m=[37m===========[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m=
+[MAIN] [37m>[37m> Target B[37mo[37mard: WIoT-Q[37mC[37m01 (Quecte[37ml[37m BG96)
+[MA[37mI[37mN] >> Sampl[37me[37m Code:  AW[37mS[37m IoT Pub/Su[37mb[37m (Built-in[37m [37mTLS)
+[MAIN[37m][37m =========[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m====
+
+[B[37mG[37m96] Echo Of[37mf[37m: Success[37m
+[37m[37m
+[BG96][37m [37mPlease Che[37mc[37mk your H/W [37mS[37mtatus
+[37m[37m
+[BG96] [37mE[37mcho Off: Su[37mc[37mcess
+[37m[37m
+[37m[[37mBG96] USIM[37m [37mStatus: RE[37mA[37mDY
+[37m[37m
+[BG96[37m][37m Network S[37mt[37matus: Attac[37mh
+[37m[37m
+[BG96] Ec[37mh[37mo Off: Suc[37mc[37mess
+[37m[37m
+[BG[37m9[37m6] USIM Sta[37mt[37mus: READY[37m
+[37m
+[[37mB[37mG96] Netwo[37mr[37mk Status: A[37mt[37mtach
+
+[B[37mG[37m96] Checkin[37mg[37m APN...
+[37m[37m
+[37m[BG96] A[37mP[37mN Check Do[37mn[37me
+
+[MAIN][37m [37m[FILE] Sav[37me[37m and check [37mA[37mWS certifi[37mc[37mates
+[37m[37m
+[37m[BG96] P[37mD[37mP Context A[37mc[37mtivation: [37mS[37muccess
+[37m[37m
+[MAIN][37m [37m[FILE] Era[37ms[37me BG96 stor[37ma[37mge complet[37me[37m
+[37m[37m
+[37m[BG96] Fil[37me[37m saved: Am[37ma[37mzonRootCA1.[37mp[37mem, 1188, [37m2[37md13
+[37m[37m
+[[37mBG96] File s[37ma[37mved: certi[37mf[37micate.pem.c[37mr[37mt, 1224, 7[37ma[37m0f
+[37m[37m
+[BG96][37m [37mFile saved[37m:[37m private.pe[37mm[37m.key, 1679, 7a50
+[37m[37m
+[MAIN][37m [37m[SSL/TLS] S[37me[37mt BG96 SSL[37m/[37mTLS configu[37mr[37mation
+[37m[37m
+[MAIN][37m [37m[MQTT] Conn[37me[37mct to AWS [37mI[37moT "a3q2g5z[37mr[37mbgdsc1-ats[37m.[37miot.us-east[37m-[37m1.amazonaws[37m.[37mcom:8883"[37m
+[37m[37m
+[BG9[37m6[37m] GPS Power[37m:[37m On
+
+[MA[37mI[37mN] GPS On
+[37m0[37m.[37m03
+-0[37m.[37m05
+0.00
+[37m0[37m.00
+GYRO d[37ma[37mta updated[37m[37m
+Distinguis[37mh[37ming Powert[37mr[37main
+[37mL[37mogging to:[37m [37mLOG00885.CS[37mV[37m<<--------[37m------------[37m-[37m------Crea[37mt[37med New File...
+[37mE[37mR[37mROR: ELM_TIM[37mE[37mOUT
+ELM_E[37mR[37mROR LOGGED[37m[37m
+[37m[37m
+[MAIN[37m][37m [MQTT] Soc[37mk[37met open su[37mc[37mcess
+[37m0[37m.0[37m9[37m
+-0.05
+0.[37m0[37m0
+0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mL[37moggi[37mng to: LOG0[37m0[37m886.CSV<<--[37m-[37m----------[37m-[37m-----------[37m-[37m-Created N[37me[37mw File...
+[37mE[37mR[37mROR: EL[37mM[37m_STOPPED
+[37mE[37mLM_ERROR LO[37mG[37mGED
+[37m[37m
+[MAIN] [[37mM[37mQTT] Connec[37mt[37med, ClientI[37mD[37m: "car-dat[37ma[37mloggera"
+[37m[37m
+[MAIN][37m [37m[MQTT] Top[37mi[37mc subscribe[37md[37m: "$aws/th[37mi[37mngs/car-da[37mt[37maloggera/sh[37ma[37mdow/update/[37ma[37mccepted"
+[37m[37m
+[MAIN] [37m[[37mMQTT] Messa[37mg[37me publishe[37md[37m: "$aws/thi[37mn[37mgs/car-dat[37ma[37mloggera/sha[37md[37mow/update",[37m [37mMessage: {[37m"[37mstate":{"re[37mp[37morted":{"n[37ma[37mme":"car-da[37mt[37maloggera",[37m"[37menabled":"E[37mL[37mM_STOPPED"[37m,[37m"geo":{"lat[37mi[37mtude":"37.[37m4[37m0002","long[37mi[37mtude":"126[37m.[37m94254"}}}}[37m
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messag[37me[37m published[37m:[37m "dt/cardat[37ma[37m/logger/ca[37mr[37m-datalogger[37ma[37m/car-data"[37m,[37m Message: {[37m"[37mefficiency[37mM[37mark": 0.000[37m0[37m00,"safety[37mM[37mark": 0.000[37m0[37m00,"drivin[37mg[37mMark": 10.0[37m0[37m0000,"aver[37ma[37mgedrivingMa[37mr[37mk": 10.000[37m0[37m00,"rpm": 0[37m,[37m"kph": 0,"e[37mn[37mgineLoad":[37m [37m0,"runTime"[37m: 0,"fuelTy[37mp[37me": 0,"oilT[37memp": 0,"re[37ml[37mativePedal[37mP[37mos": 0,"throttle": 0,"r[37me[37mlativeThro[37mt[37mtle": 0,"in[37mt[37makeAirTemp[37m"[37m: 0,"fuelLe[37mv[37mel": 0,"ma[37mf[37mRate": 0.00[37m0[37m000,"obdSt[37ma[37mndards": 0,[37m"[37mdistTravel[37mW[37mithMIL": 0,[37m"[37mdistSinceC[37mo[37mdesCleared"[37m:[37m 0,"ctrlMod[37mV[37moltage": 0[37m,[37m"ambientAir[37mT[37memp": 0,"m[37ma[37mnifoldPres[37ms[37mure": 0,"en[37mg[37mineCoolant[37mT[37memp": 0,"co[37mm[37mmandedThro[37mt[37mtleActuator[37m"[37m: 0.000000,[37m"[37mtimestamp"[37m:[37m 12345678}[37m
+[37m0.03
+-0.0[37m4[37m
+0.02
+0.0[37m0[37m
+GYRO dat[37ma[37m updated
+[37mE[37mRROR[37m: ELM_STOPPE[37mD[37m
+ELM_ERRO[37mR[37m LOGGED
+[37m[37m
+[[37mMAIN] [MQTT][37m [37mTopic subs[37mc[37mribed: "$aw[37ms[37m/things/ca[37mr[37m-datalogger[37ma[37m/shadow/up[37md[37mate/accepte[37md[37m"

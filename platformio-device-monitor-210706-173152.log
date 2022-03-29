@@ -1,0 +1,133 @@
+[37mI[37mn[37mitializin[37mg[37m I2C device[37ms[37m...
+[37mT[37me[37msting [37md[37mevice conn[37me[37mctions...
+[37mM[37mPU6050 con[37mn[37mection succ[37me[37mssful
+Ini[37mt[37mializing DM[37mP[37m...
+[37m
+[37mR[37meading[37m [37msensors for[37m [37mfirst time[37m.[37m..
+[37m.[37m.[37m.
+3Sec[37mo[37mnds
+
+Calcu[37ml[37mating offs[37me[37mts...
+[37m
+[37mFINISHED![37m[37m
+
+Sensor re[37ma[37mdings with [37mo[37mffsets:	
+[37mg[37my[37mroX_offset [37m=[37m -143.00
+[37mg[37myroY_offset[37m [37m= -107.00[37m
+[37mgyroZ_offse[37mt[37m = -7.00
+a[37mc[37mcelX_offse[37mt[37m = -3938.00[37m[37m
+accelY_of[37mf[37mset = 828.0[37m0[37m
+accelZ_o[37mf[37mfset = 116[37m8[37m.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+[37m//        [37m [37m  X Accel [37m [37mY Accel  Z [37mA[37mccel   X G[37my[37mro   Y Gyro[37m [37m  Z Gyro
+//[37mO[37mFFSETS    [37m-[37m3960,     8[37m5[37m6,    1176[37m,[37m    -143,  [37m [37m -106,    [37m [37m -6
+Enabli[37mn[37mg DMP...
+E[37mn[37mabling inte[37mr[37mrupt detec[37mt[37mion (Arduin[37mo[37m external [37mi[37mnterrupt 13[37m)[37m...
+DMP r[37me[37mady! Waitin[37mg[37m for first[37m [37minterrupt..[37m.[37m
+[37mE[37mLM327 [37mC[37monnected
+[37mI[37mnitializing[37m [37mSD card...[37mc[37ma[37mrd initial[37mi[37mzed.
+[37mL[37mogging to: L[37mO[37mG00856.CSV[37m
+[37mF[37mree[37m [37mspace KB: [37m2[37m9649920
+Fr[37me[37me space in[37m [37mMB: 28955
+[37m[37m
+[M[37mAIN] Waitin[37mg[37m for Cat.M1[37m [37mModule Rea[37md[37my...
+[37m[37m
+[MAI[37mN[37m] BG96 alre[37ma[37mdy availab[37ml[37me
+
+[MAIN][37m [37mSystem Ini[37mt[37m Complete
+[37m[37m
+[MAIN] WIZ[37mn[37met IoT Shi[37me[37mld for Ardu[37mi[37mno
+[MAIN][37m [37mLTE Cat.M1 [37mV[37mersion
+[M[37mA[37mIN] ======[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m=======
+[M[37mA[37mIN] >> Tar[37mg[37met Board: W[37mI[37moT-QC01 (Q[37mu[37mectel BG96)[37m[37m
+[MAIN] >>[37m [37mSample Code[37m:[37m  AWS IoT [37mP[37mub/Sub (Bui[37ml[37mt-in TLS)[37m
+[37m[MAIN] ====[37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m==========[37m
+[37m
+[BG96] Ec[37mh[37mo Off: Suc[37mc[37mess
+
+[BG9[37m6[37m] USIM Sta[37mt[37mus: READY[37m
+[37m
+[BG96] Ne[37mt[37mwork Statu[37ms[37m: Attach
+[37m[37m
+[BG96] [37mE[37mcho Off: S[37mu[37mccess
+[37m[37m
+[B[37mG[37m96] USIM S[37mt[37matus: READY[37m[37m
+[37m
+[37m[BG96] Net[37mw[37mork Status:[37m [37mAttach
+
+[37m[[37mBG96] Check[37mi[37mng APN...[37m
+[37m[37m
+[37m[BG96] APN[37m [37mCheck Done[37m
+[37m
+[MAIN] [[37mF[37mILE] Save a[37mn[37md check AW[37mS[37m certificat[37me[37ms
+[37m[37m
+[BG96] [37mP[37mDP Context [37mA[37mctivation:[37m [37mSuccess
+[37m[37m
+[MAIN][37m [37m[FILE] Eras[37me[37m BG96 stor[37ma[37mge complete[37m[37m
+[37m[37m
+[BG96] Fi[37ml[37me saved: Am[37ma[37mzonRootCA1[37m.[37mpem, 1188, [37m2[37md13
+[37m[37m
+[37m[BG96] Fi[37ml[37me saved: ce[37mr[37mtificate.p[37me[37mm.crt, 1224[37m,[37m 7a0f
+[37m[37m
+[BG96] File[37m [37msaved: priv[37ma[37mte.pem.key[37m,[37m 1679, 7a5[37m0[37m
+[37m[37m
+[37m[MAIN][37m [37m[SSL/TLS] S[37me[37mt BG96 SSL[37m/[37mTLS configu[37mr[37mation
+[37m[37m
+[37m[MAIN] [37m[[37mMQTT] Conne[37mc[37mt to AWS I[37mo[37mT "a3q2g5z[37mr[37mbgdsc1-ats.[37mi[37mot.us-east[37m-[37m1.amazonaws[37m.[37mcom:8883"[37m
+[37m[37m
+[37m[BG96] GP[37mS[37m Power: On[37m[37m
+
+[MAIN] G[37mP[37mS On
+-0.0[37m6[37m
+-0.01
+0.[37m0[37m1
+0.02
+G[37mY[37mRO data upd[37ma[37mted
+Disti[37mn[37mguishing Po[37mw[37mertrain
+[37m7[37m
+[37mL[37mogging to: LO[37mG[37m00857.CSV<<[37m-[37m----------[37m-[37m-----------[37m-[37m---Created [37mN[37mew File...[37m[37m
+[37mE[37mR[37mROR: ELM_TI[37mM[37mEOUT
+ELM_E[37mR[37mROR LOGGED[37m[37m
+[37mf[37mlag_[37ma[37mws_publish [37m=[37m true
+[37m[37m
+[MAIN][37m [37m[MQTT] Sock[37me[37mt open suc[37mc[37mess
+[37m-[37m0.12
+-[37m0[37m.03
+0.00[37m
+[37m0.00
+GYRO [37md[37mata updated[37m[37m
+6
+[37mL[37mo[37mgging t[37mo[37m: LOG00858[37m.[37mCSV<<------[37m-[37m----------[37m-[37m---------Cr[37me[37mated New F[37mi[37mle...
+[37mE[37mRROR: ELM_STOPPED
+ELM_ERROR LOGGED
+[37mf[37mla[37mg[37m_aws_publis[37mh[37m = true
+[37m[37m
+[MAIN] [37m[[37mMQTT] Conne[37mc[37mted, Clien[37mt[37mID: "car-da[37mt[37maloggera"[37m
+[37m[37m
+[37m[MAIN] [MQTT[37m][37m Topic sub[37ms[37mcribed: "$a[37mw[37ms/things/c[37ma[37mr-datalogge[37mr[37ma/shadow/u[37mp[37mdate/accept[37me[37md"
+[37m[37m
+[MAIN] [MQTT][37m [37mMessage pu[37mb[37mlished: "$a[37mw[37ms/things/c[37ma[37mr-datalogge[37mr[37ma/shadow/u[37mp[37mdate", Mess[37ma[37mge: {"state[37m"[37m:{"reporte[37md[37m":{"name":[37m"[37mcar-datalog[37mg[37mera","enab[37ml[37med":"ELM_ST[37mO[37mPPED","geo[37m"[37m:{"latitude[37m"[37m:"37.40002"[37m,[37m"longitude[37m"[37m:"126.94254[37m"[37m}}}}
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Message[37m [37mpublished:[37m [37m"dt/cardata[37m/[37mlogger/car[37m-[37mdataloggera[37m/[37mcar-data",[37m [37mMessage: {"[37me[37mfficiencyM[37ma[37mrk": 0.0000[37m0[37m0,"safetyMa[37mr[37mk": 0.0000[37m0[37m0,"drivingM[37ma[37mrk": 10.00[37m0[37m000,"averag[37me[37mdrivingMar[37mk[37m": 10.0000[37m0[37m0,"rpm": 0,[37m"[37mkph": 0,"en[37mg[37mineLoad": [37m0[37m,"runTime":[37m [37m0,"fuelTyp[37me[37m": 0,"oilTe[37mm[37mp": 0,"rel[37ma[37mtivePedalPo[37ms[37m": 0,"thro[37mt[37mtle": 0,"re[37ml[37mativeThrot[37mt[37mle": 0,"int[37ma[37mkeAirTemp"[37m:[37m 0,"fuelLev[37me[37ml": 0,"maf[37mR[37mate": 0.000[37m0[37m00,"obdSta[37mn[37mdards": 0,"[37md[37mistTravelWi[37mt[37mhMIL": 0,"[37md[37mistSinceCod[37me[37msCleared":[37m [37m0,"ctrlMod[37mV[37moltage": 0,[37m"[37mambientAir[37mT[37memp": 0,"ma[37mn[37mifoldPressu[37mr[37me": 0,"eng[37mi[37mneCoolantTe[37mm[37mp": 0,"com[37mm[37mandedThrott[37ml[37meActuator"[37m:[37m 0.000000,"[37mt[37mimestamp":[37m [37m12345678}
+[37m-[37m0.00
+-0.0[37m2[37m
+-0.00
+0.[37m0[37m0
+GYRO dat[37ma[37m updated
+[37m6[37m
+[37mE[37mRRO[37mR[37m: ELM_STOP[37mP[37mED
+ELM_ERR[37mO[37mR LOGGED
+[37mf[37mlag_aws[37m_[37mpublish = [37mt[37mrue
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Topic su[37mb[37mscribed: "[37m$[37maws/things/[37mc[37mar-datalog[37mg[37mera/shadow/[37mu[37mpdate/acce[37mp[37mted"
+[37m[37m
+[M[37mAIN] [MQTT][37m [37mMessage pub[37ml[37mished: "$a[37mw[37ms/things/car-datalogge[37mr[37ma/shadow/up[37md[37mate", Mess[37ma[37mge: {"state[37m"[37m:{"reporte[37md[37m":{"name":"[37mc[37mar-datalog[37mg[37mera","enabl[37me[37md":"ELM_ST[37mO[37mPPED","geo"[37m:[37m{"latitude[37m"[37m:"37.40002"[37m,[37m"longitude"[37m:[37m"126.94254[37m"[37m}}}}
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Message p[37mu[37mblished: "d[37mt[37m/cardata/l[37mo[37mgger/car-da[37mt[37maloggera/c[37ma[37mr-data", Me[37ms[37msage: {"ef[37mf[37miciencyMark[37m"[37m: 0.000000[37m,[37m"safetyMar[37mk[37m": 0.000000[37m,[37m"drivingMar[37mk[37m": 10.000000,"averagedrivingMark"[37m:[37m 10.000000,[37m"[37mrpm": 0,"k[37mp[37mh": 0,"engi[37mn[37meLoad": 0,[37m"[37mrunTime": 0[37m,[37m"fuelType"[37m:[37m 0,"oilTemp[37m"[37m: 0,"relat[37mi[37mvePedalPos"[37m:[37m 0,"throttl[37me[37m": 0,"rela[37mt[37miveThrottle[37m"[37m: 0,"intak[37me[37mAirTemp": [37m0[37m,"fuelLevel[37m"[37m: 0,"mafRa[37mt[37me": 0.00000[37m0[37m,"obdStanda[37mr[37mds": 0,"di[37ms[37mtTravelWith[37mM[37mIL": 0,"di[37ms[37mtSinceCodes[37mC[37mleared": 0[37m,[37m"ctrlModVol[37mt[37mage": 0,"a[37mm[37mbientAirTem[37mp[37m": 0,"mani[37mf[37moldPressure[37m"[37m: 0,"engin[37me[37mCoolantTemp[37m"[37m: 0,"comma[37mn[37mdedThrottle[37mA[37mctuator": [37m0[37m.000000,"ti[37mm[37mestamp": 12[37m3[37m45678}
+-0[37m.[37m06
+-0.03
+[37m0[37m.01
+0.01[37m
+[37mGYRO data [37mu[37mpdated
+6

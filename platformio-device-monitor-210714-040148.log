@@ -1,0 +1,34 @@
+[37mI[37mn[37mitializing [37mI[37m2C devices[37m.[37m..
+[37mT[37me[37msting d[37me[37mvice connec[37mt[37mions...
+M[37mP[37mU6050 conne[37mc[37mtion succes[37ms[37mful
+Initi[37ma[37mlizing DMP[37m.[37m..
+[37m
+[37mReading s[37me[37mnsors for f[37mi[37mrst time..[37m.[37m
+[37m.[37m..
+3Secon[37md[37ms
+
+Calcul[37ma[37mting offset[37ms[37m...
+[37m
+[37mFINISHED!
+[37m
+[37mSensor read[37mi[37mngs with o[37mf[37mfsets:	
+[37mg[37myr[37moX_offset =[37m [37m-142.00
+gy[37mr[37moY_offset [37m=[37m -104.00
+g[37my[37mroZ_offset[37m [37m= -6.00
+a[37mc[37mcelX_offset[37m [37m= -4094.00[37m
+[37maccelY_off[37ms[37met = 827.00[37m[37m
+accelZ_of[37mf[37mset = 1163.[37m0[37m0
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+[37m/[37m/         [37m [37m X Accel  Y[37m [37mAccel  Z Ac[37mc[37mel   X Gyr[37mo[37m   Y Gyro  [37m [37mZ Gyro
+//O[37mF[37mFSETS    -4[37m0[37m94,     85[37m7[37m,    1171, [37m [37m  -142,   [37m [37m-103,      [37m-[37m6
+Enabling[37m [37mDMP...
+Ena[37mb[37mling inter[37mr[37mupt detecti[37mo[37mn (Arduino[37m [37mexternal in[37mt[37merrupt 13)[37m.[37m..
+DMP rea[37md[37my! Waiting[37m [37mfor first i[37mn[37mterrupt...[37m[37m
+[37mE[37mLM327 Co[37mn[37mnected
+[37mI[37mnitializing [37mS[37mD card...[37mc[37ma[37mrd initializ[37me[37md.
+[37mL[37mogging to: LOG0[37m1548.CSV
+[37mF[37mree spa[37mc[37me KB: 2961[37m9[37m296
+Free s[37mp[37mace in MB:[37m [37m28925
+[37m[37m
+[37m[MAIN] Waiti[37mn[37mg for Cat.[37mM[37m1 Module Re[37ma[37mdy...

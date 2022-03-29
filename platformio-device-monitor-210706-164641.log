@@ -1,0 +1,135 @@
+[37mI[37mnitializing I2C devices.[37m.[37m.
+[37mT[37mesting de[37mv[37mice connec[37mt[37mions...
+M[37mP[37mU6050 conne[37mc[37mtion succes[37ms[37mful
+Initi[37ma[37mlizing DMP.[37m.[37m.
+[37m
+[37mReading s[37me[37mnsors for f[37mi[37mrst time..[37m.
+[37m.[37m..
+3Secon[37md[37ms
+
+Calcula[37mt[37ming offset[37ms[37m...
+[37m
+[37mFINISHED!
+[37m
+[37mSensor read[37mi[37mngs with of[37mf[37msets:	
+[37mg[37myr[37moX_offset = [37m-[37m134.00
+gy[37mr[37moY_offset =[37m [37m-109.00
+g[37my[37mroZ_offset [37m=[37m -52.00
+ac[37mc[37melX_offset[37m [37m= -3946.00[37m
+[37maccelY_off[37ms[37met = 834.00[37m[37m
+accelZ_of[37mf[37mset = 1171.[37m0[37m0
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//     [37m [37m     X Acc[37me[37ml  Y Accel [37m [37mZ Accel   [37mX[37m Gyro   Y G[37my[37mro   Z Gyro[37m
+[37m//OFFSETS [37m [37m  -3966,   [37m [37m 856,    1[37m1[37m75,    -14[37m5[37m,     -97, [37m [37m    -1
+Ena[37mb[37mling DMP...[37m[37m
+Enabling i[37mn[37mterrupt de[37mt[37mection (Ard[37mu[37mino extern[37ma[37ml interrupt[37m [37m13)...
+DM[37mP[37m ready! Wai[37mt[37ming for fi[37mr[37mst interrup[37mt[37m...
+[37mE[37mLM327 Con[37mn[37mected
+[37mI[37mni[37mtializing S[37mD[37m card...[37mc[37mar[37md[37m initialize[37md[37m.
+[37mL[37mogging t[37mo[37m: LOG00851[37m.[37mCSV
+[37mF[37mree spac[37me[37m KB: 296500[37m8[37m0
+Free sp[37ma[37mce in MB: 2[37m8[37m955
+[37m[37m
+[MAIN[37m][37m Waiting f[37mo[37mr Cat.M1 M[37mo[37mdule Ready.[37m.[37m.
+[37m[37m
+[MAIN[37m][37m BG96 alre[37ma[37mdy availabl[37me[37m
+
+[MAIN][37m [37mSystem Init[37m [37mComplete
+[37m[37m
+[MAIN] WIZ[37mn[37met IoT Shi[37me[37mld for Ardu[37mi[37mno
+[MAIN][37m [37mLTE Cat.M1 [37mV[37mersion
+[M[37mA[37mIN] =======[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m======
+[M[37mA[37mIN] >> Tar[37mg[37met Board: W[37mI[37moT-QC01 (Q[37mu[37mectel BG96)[37m[37m
+[MAIN] >> [37mS[37mample Code[37m:[37m  AWS IoT P[37mu[37mb/Sub (Bui[37ml[37mt-in TLS)
+[37m[[37mMAIN] ====[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m=========[37m
+[37m
+[BG96] Ec[37mh[37mo Off: Suc[37mc[37mess
+
+[BG9[37m6[37m] USIM Stat[37mu[37ms: READY
+[37m[37m
+[BG96] Ne[37mt[37mwork Status[37m:[37m 0, 2
+[BG[37m9[37m6] Please C[37mh[37meck your H[37m/[37mW Status
+[37m[37m
+[BG96] Echo O[37mf[37mf: Success[37m
+[37m[37m
+[BG96] US[37mI[37mM Status: [37mR[37mEADY
+[37m[37m
+[BG96][37m [37mNetwork Sta[37mt[37mus: Attach[37m[37m
+[37m[37m
+[B[37mG96] Echo Of[37mf[37m: Success[37m
+[37m[37m
+[BG96] US[37mI[37mM Status: R[37mE[37mADY
+[37m[37m
+[BG96] [37mN[37metwork Sta[37mt[37mus: Attach[37m
+[37m
+[BG96] C[37mh[37mecking APN[37m.[37m..
+[37m[37m
+[37m[B[37mG[37m96] APN Che[37mc[37mk Done
+
+[[37mM[37mAIN] [FILE[37m][37m Save and c[37mh[37meck AWS ce[37mr[37mtificates
+[37m[37m
+[37m[BG96] PDP[37m [37mContext Ac[37mt[37mivation: Su[37mc[37mcess
+[37m[37m
+[MAIN] [F[37mI[37mLE] Erase B[37mG[37m96 storage[37m [37mcomplete
+[37m[37m
+[37m[BG96] Fil[37me[37m saved: Ama[37mz[37monRootCA1.[37mp[37mem, 1188, 2[37md[37m13
+[37m[37m
+[BG[37m9[37m6] File sav[37me[37md: certific[37ma[37mte.pem.crt[37m,[37m 1224, 7a0f[37m[37m
+[37m[37m
+[BG9[37m6[37m] File save[37md[37m: private.[37mp[37mem.key, 167[37m9[37m, 7a50
+[37m[37m
+[MAIN] [SS[37mL[37m/TLS] Set [37mB[37mG96 SSL/TL[37mS[37m configurat[37mi[37mon
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Connect t[37mo[37m AWS IoT "[37ma[37m3q2g5zrbgd[37ms[37mc1-ats.iot.[37mu[37ms-east-1.am[37ma[37mzonaws.com[37m:[37m8883"
+[37m[37m
+[37m[B[37mG[37m96] GPS Pow[37me[37mr: On
+
+[[37mM[37mAIN] GPS On[37m[37m
+-0.58[37m[37m
+-0.35
+0.0[37m0[37m
+0.00
+GY[37mR[37mO data upd[37ma[37mted
+0
+Dis[37mt[37minguishing[37m [37mPowertrain[37m
+[37mE[37mL[37mM327 data r[37me[37mpresenting.[37m.[37m...
+[37mE[37mr[37mror Val[37mu[37me Reset!
+[37mi[37mnstantFuel[37mC[37monsume : 0.[37m0[37m0
+command[37me[37mdAirFuelRat[37mi[37mo : 0.00
+A[37mF[37mR : 14.70[37m
+[37mE[37mL[37mM327 Dat[37ma[37m Logging..[37m.[37m
+[37mp[37mre[37m_[37minstantFuel[37mC[37monsume = 0[37m.[37m00
+pre_f_a[37mc[37mcelX = 0.0[37m0[37m
+pre_f_acc[37me[37mlY = 0.00
+[37mp[37mre_rpm = 7[37m0[37m0
+pre_runT[37mi[37mme = 0
+pr[37me[37m_kph = 1
+p[37mr[37me_Data Upd[37ma[37mted
+flag_a[37mw[37ms_publish [37m=[37m true
+[37m[37m
+[MAIN] [MQT[37mT[37m] Socket o[37mp[37men success[37m
+[37m-[37m0.28
+-0[37m.[37m09
+0.00
+[37m0[37m.01
+GYRO d[37ma[37mta updated[37m[37m
+6
+[37mL[37mogging to: LO[37mG[37m00852.CSV<<[37m-[37m----------[37m-[37m-----------[37m-[37m---Created[37m [37mNew File...[37m[37m
+[37mE[37mRR[37mO[37mR: ELM_STOP[37mP[37mED
+ELM_ER[37mR[37mOR LOGGED[37m
+[37mf[37ml[37mag_aws_pub[37ml[37mish = true[37m
+[37m[37m
+[37m[MAIN] [[37mM[37mQTT] Conne[37mc[37mted, Client[37mI[37mD: "car-da[37mt[37maloggera"
+[37m[37m
+[MAI[37mN[37m] [MQTT] T[37mo[37mpic subscri[37mb[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/[37ms[37mhadow/updat[37me[37m/accepted"[37m[37m
+[37m[37m
+[MAI[37mN[37m] [MQTT] Me[37ms[37msage publi[37ms[37mhed: "$aws/[37mt[37mhings/car-[37md[37mataloggera/[37ms[37mhadow/upda[37mt[37me", Message[37m:[37m {"state":{[37m"[37mreported":[37m{[37m"name":"car[37m-[37mdatalogger[37ma[37m","enabled"[37m:[37m"ELM_STOPP[37mE[37mD","geo":{[37m"[37mlatitude":"[37m3[37m7.40002","[37ml[37mongitude":"[37m1[37m26.94254"}}[37m}[37m}
+[37m[37m
+[MAI[37mN[37m] [MQTT] Me[37ms[37msage publi[37ms[37mhed: "dt/ca[37mr[37mdata/logge[37mr[37m/car-datalo[37mg[37mgera/car-d[37ma[37mta", Messag[37me[37m: {"effici[37me[37mncyMark": 0[37m.[37m000000,"sa[37mf[37metyMark": 0[37m.[37m000000,"dri[37mv[37mingMark": [37m1[37m0.000000,"a[37mv[37meragedrivi[37mn[37mgMark": 10[37m.[37m000000,"rpm[37m"[37m: 700,"kph[37m"[37m: 1,"engine[37mL[37moad": 19,"r[37mu[37mnTime": 0,[37m"[37mfuelType":[37m [37m255,"oilTem[37mp[37m": 85,"rela[37mt[37mivePedalPo[37ms[37m": 10,"thro[37mt[37mtle": 13,"[37mr[37melativeThro[37mt[37mtle": 3,"i[37mn[37mtakeAirTemp[37m"[37m: 15,"fuel[37mL[37mevel": 0,"m[37ma[37mfRate": 2.[37m0[37m10000,"obdS[37mt[37mandards": [37m0[37m,"distTrave[37ml[37mWithMIL": [37m0[37m,"distSince[37mC[37modesCleare[37md[37m": 0,"ctrlM[37mo[37mdVoltage":[37m [37m14,"ambient[37mA[37mirTemp": 15[37m,[37m"manifoldP[37mr[37messure": 32[37m,[37m"engineCoo[37ml[37mantTemp": 8[37m5[37m,"commande[37md[37mThrottleAct[37mu[37mator": 5.0[37m0[37m0000,"times[37mt[37mamp": 1234[37m5[37m678}
+[37m-[37m0[37m.11
+-0.0[37m9[37m
+0.00
+-0[37m.[37m00
+GYRO da[37mt[37ma updated[37m
+[37m6

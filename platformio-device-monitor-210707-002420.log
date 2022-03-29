@@ -1,0 +1,30 @@
+[37mI[37mn[37mitializin[37mg[37m I2C device[37ms[37m...
+[37mT[37me[37msting[37m [37mdevice conn[37me[37mctions...[37m
+[37mMPU6050 con[37mn[37mection suc[37mc[37messful
+Ini[37mt[37mializing DM[37mP[37m...
+[37m
+[37mReading[37m [37msensors for[37m [37mfirst time[37m.[37m..
+[37m.[37m..
+3Sec[37mo[37mnds
+
+Calc[37mu[37mlating offs[37me[37mts...
+[37m
+[37mFINISHED![37m[37m
+
+Sensor re[37ma[37mdings with[37m [37moffsets:	
+[37mg[37my[37mroX_offset[37m [37m= -135.00
+[37mg[37myroY_offse[37mt[37m = -108.00[37m
+[37mgyroZ_offse[37mt[37m = -4.00
+[37ma[37mccelX_offse[37mt[37m = -3924.0[37m0[37m
+accelY_of[37mf[37mset = 832.[37m0[37m0
+accelZ_[37mo[37mffset = 116[37m8[37m.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//        [37m [37m  X Accel [37m [37mY Accel  Z [37mA[37mccel   X G[37my[37mro   Y Gyro[37m [37m  Z Gyro
+/[37m/[37mOFFSETS    [37m-[37m3946,     [37m8[37m60,    1168[37m,[37m    -135, [37m [37m  -107,    [37m [37m -4
+Enabli[37mn[37mg DMP...
+E[37mn[37mabling int[37me[37mrrupt detec[37mt[37mion (Ardui[37mn[37mo external [37mi[37mnterrupt 1[37m3[37m)...
+DMP r[37me[37mady! Waitin[37mg[37m for first[37m [37minterrupt..[37m.[37m
+[37mE[37mLM327 [37mC[37monnected
+[37mI[37mn[37mitializin[37mg[37m SD card...[37mc[37ma[37mrd initial[37mi[37mzed.
+[37m[37m�.[37m*[37m�[37mR

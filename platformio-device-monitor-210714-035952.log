@@ -1,0 +1,38 @@
+[37m
+load:0x400�����j
+load:0x40080400,len:5856
+entry 0x400806a8[37m
+[37mI[37mnit[37mi[37malizing I2[37mC[37m devices...[37m[37m
+[37mT[37mesting devic[37me[37m connectio[37mn[37ms...
+MPU60[37m5[37m0 connecti[37mo[37mn successfu[37ml[37m
+Initiali[37mz[37ming DMP...[37m[37m
+[37m
+[37mR[37meading sens[37mo[37mrs for firs[37mt[37m time...
+[37m.[37m..[37m
+3Seconds[37m
+[37m
+Calculatin[37mg[37m offsets..[37m.[37m
+[37m
+[37mFIN[37mISHED!
+
+Se[37mn[37msor reading[37ms[37m with offs[37me[37mts:	
+[37mg[37myroX_[37mo[37mffset = -1[37m4[37m3.00
+gyroY[37m_[37moffset = -[37m1[37m02.00
+gyro[37mZ[37m_offset = [37m-[37m6.00
+accel[37mX[37m_offset = [37m-[37m4094.00
+ac[37mc[37melY_offset[37m [37m= 827.00
+a[37mc[37mcelZ_offse[37mt[37m = 1159.00[37m
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+// [37m [37m         X [37mA[37mccel  Y Ac[37mc[37mel  Z Acce[37ml[37m   X Gyro  [37m [37mY Gyro   Z [37mG[37myro
+//OFFS[37mE[37mTS    -4098[37m,[37m     855, [37m [37m  1167,    [37m-[37m142,    -1[37m0[37m3,      -6
+[37mE[37mnabling DMP[37m.[37m..
+Enabli[37mn[37mg interrupt[37m [37mdetection [37m([37mArduino ex[37mt[37mernal inter[37mr[37mupt 13)...[37m
+[37mDMP ready![37m [37mWaiting for[37m [37mfirst inte[37mr[37mrupt...
+[37mE[37mLM327 Conne[37mc[37mted
+[37mI[37mniti[37ma[37mlizing SD c[37ma[37mrd...[37mc[37mard [37mi[37mnitialized.[37m[37m
+[37mL[37mogging to: LOG01547.CS[37mV[37m
+[37mF[37mree s[37mp[37mace KB: 296[37m1[37m9328
+Free[37m [37mspace in MB[37m:[37m 28925
+[37m[37m
+[MA[37mI[37mN] Waiting [37mf[37mor Cat.M1 [37mM[37module Ready[37m.[37m..

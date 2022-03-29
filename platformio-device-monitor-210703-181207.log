@@ -1,0 +1,312 @@
+[37mI[37mn[37mitiali[37mz[37ming I2C dev[37mi[37mces...
+[37mT[37mesti[37mn[37mg device c[37mo[37mnnections..[37m.[37m
+MPU6050 [37mc[37monnection s[37mu[37mccessful
+[37mI[37mnitializing[37m [37mDMP...
+[37m
+[37mReading sensors [37mf[37mor first t[37mi[37mme...
+[37m.[37m..
+3Seconds
+
+Calculating offsets...
+[37m
+[37mFINISH[37mE[37mD!
+
+Sensor[37m [37mreadings w[37mi[37mth offsets:[37m	[37m
+[37mg[37myroX_off[37ms[37met = -134.[37m0[37m0
+gyroY_of[37mf[37mset = -109[37m.[37m00
+gyroZ_o[37mf[37mfset = -4.[37m0[37m0
+accelX_o[37mf[37mfset = -393[37m1[37m.00
+accel[37mY[37m_offset = 8[37m3[37m0.00
+acce[37ml[37mZ_offset =[37m [37m1162.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//     [37m [37m     X Acc[37me[37ml  Y Accel [37m [37mZ Accel   [37mX[37m Gyro   Y G[37my[37mro   Z Gyr[37mo[37m
+//OFFSETS [37m [37m  -3951,  [37m [37m  858,    1[37m1[37m68,    -134[37m,[37m    -108, [37m [37m    -3
+Enab[37ml[37ming DMP...[37m[37m
+Enabling i[37mn[37mterrupt de[37mt[37mection (Ard[37mu[37mino extern[37ma[37ml interrupt[37m [37m13)...
+DM[37mP[37m ready! Wai[37mt[37ming for fi[37mr[37mst interrup[37mt[37m...
+[37mE[37mLM3[37m2[37m7 Connected[37m[37m
+[37mI[37mnitializ[37mi[37mng SD card[37m.[37m..[37mc[37mard init[37mi[37malized.
+[37mL[37mo[37mgging to: L[37mO[37mG00643.CSV[37m
+[37mF[37mr[37mee space KB[37m:[37m 3822720
+Free space i[37mn[37m MB: 3733[37m
+[37m[37m
+[[37mMAIN] Waitin[37mg[37m for Cat.M[37m1 Module Rea[37md[37my...
+[37m[37m
+[MAIN] BG96[37m [37malready ava[37mi[37mlable
+
+[[37mM[37mAIN] System[37m [37mInit Compl[37me[37mte
+
+[MAIN[37m][37m WIZnet Io[37mT[37m Shield for[37m [37mArduino
+[[37mM[37mAIN] LTE Ca[37mt[37m.M1 Versio[37mn[37m
+[MAIN] ==[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m
+[MAIN] >[37m>[37m Target Boa[37mr[37md: WIoT-QC[37m0[37m1 (Quectel [37mB[37mG96)
+[MAIN[37m][37m >> Sample[37m [37mCode:  AWS [37mI[37moT Pub/Sub[37m [37m(Built-in T[37mL[37mS)
+[MAIN][37m [37m===========[37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m===
+
+[BG9[37m6[37m] Echo Off[37m:[37m Success
+[37m
+[37m[BG96] USI[37mM[37m Status: RE[37mA[37mDY
+
+[BG9[37m6[37m] Network S[37mt[37matus: Atta[37mc[37mh
+[37m[37m
+[37m[BG96] Echo[37m [37mOff: Succe[37ms[37ms
+[37m[37m
+[BG96] [37mU[37mSIM Status:[37m [37mREADY
+[37m[37m
+[BG9[37m6[37m] Network [37mS[37mtatus: Atta[37mc[37mh
+
+[BG96][37m [37mChecking A[37mP[37mN...
+[37m[37m
+[37m[BG96] APN [37mC[37mheck Done
+[37m[37m
+[MAIN] [F[37mI[37mLE] Save an[37md[37m check AWS [37mc[37mertificate[37ms[37m
+[37m[37m
+[[37mBG96] PDP Co[37mn[37mtext Activ[37ma[37mtion: Succe[37ms[37ms
+[37m[37m
+[MAIN][37m [37m[FILE] Era[37ms[37me BG96 stor[37ma[37mge complet[37me[37m
+[37m[37m
+[BG96] File sav[37me[37md: AmazonRo[37mo[37mtCA1.pem, [37m1[37m188, 2d13[37m
+[37m[37m
+[BG[37m9[37m6] File sav[37me[37md: certific[37ma[37mte.pem.crt[37m,[37m 1224, 7a0f[37m[37m
+[37m[37m
+[B[37mG96] File s[37ma[37mved: privat[37me[37m.pem.key, [37m1[37m679, 7a50
+[37m[37m
+[MAIN][37m [37m[SSL/TLS] S[37me[37mt BG96 SSL/[37mT[37mLS configu[37mr[37mation
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Connect [37mt[37mo AWS IoT "[37ma[37m3q2g5zrbgd[37ms[37mc1-ats.iot.[37mu[37ms-east-1.a[37mm[37mazonaws.com[37m:[37m8883"
+[37m[37m
+[37m[[37mB[37mG96] GPS Po[37mw[37mer: On
+
+[37m[[37mMAIN] GPS O[37mn[37m
+[37m-[37m0[37m.06[37m[37m
+-0.01
+0.0[37m0[37m
+0.01
+GY[37mR[37mO data upda[37mt[37med
+OK[37mE[37mL[37mM327 data [37mr[37mepresentin[37mg[37m.....
+[37mE[37mrror V[37ma[37mlue Reset![37m
+[37minstantFue[37ml[37mConsume : -[37m1[37m.44
+comma[37mn[37mdedAirFuelR[37ma[37mtio : -1.0[37m0[37m
+AFR : 14.[37m7[37m0
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m[37m
+[37mp[37mr[37me_instantF[37mu[37melConsume [37m=[37m -1.44
+pre[37m_[37mf_accelX =[37m [37m0.00
+pre_f[37m_[37maccelY = 0[37m.[37m01
+pre_rpm[37m [37m= 700
+pre[37m_[37mrunTime = 0[37m[37m
+pre_kph =[37m [37m1
+pre_Data[37m [37mUpdated
+fl[37ma[37mg_aws_publ[37mi[37msh = true
+[37m[37m
+[MA[37mI[37mN] [MQTT] S[37mo[37mcket open [37mf[37mailed
+[37m-[37m0[37m.01
+-0.0[37m1[37m
+-0.00
+-[37m0[37m.02
+GYRO d[37ma[37mta updated[37m[37m
+[37mL[37moggin[37mg[37m to: LOG00[37m6[37m44.CSV<<---[37m-[37m----------[37m-[37m-----------[37m-[37mCreated Ne[37mw[37m File...
+[37mE[37mR[37mROR: ELM_TIM[37mE[37mOUT
+ELM_E[37mR[37mROR LOGGED[37m
+[37mf[37mlag_[37maws_publish[37m [37m= true
+[37m[37m
+[MA[37mIN] [MQTT] [37mS[37mocket open [37ms[37muccess
+[37m-[37m0[37m.[37m05
+-0.02[37m
+[37m-0.01
+0.00[37m[37m
+GYRO data[37m [37mupdated
+[37mL[37moggi[37mn[37mg to: LOG00[37m6[37m45.CSV<<--[37m-[37m----------------------[37m-[37m-Created Ne[37mw[37m File...
+[37mE[37mR[37mROR: ELM_S[37mT[37mOPPED
+ELM[37m_[37mERROR LOGGE[37mD[37m
+[37m-[37m0[37m.11
+-0.03
+[37m0[37m.00
+0.01[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mRROR: [37mE[37mLM_STOPPED[37m
+[37mELM_ERROR L[37mO[37mGGED
+[37m-[37m0.09[37m[37m
+-0.03
+0.[37m00
+0.00
+GY[37mR[37mO data upd[37ma[37mted
+[37mE[37mR[37mROR: ELM[37m_[37mSTOPPED
+E[37mL[37mM_ERROR LOG[37mG[37mED
+[37mf[37mlag_aws_pub[37ml[37mish = true[37m
+[37m[37m
+[MAIN] [[37mM[37mQTT] Conne[37mc[37mt failed
+[37m0[37m.08
+-0[37m.[37m02
+-0.00[37m
+[37m0.02
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mRROR: E[37mL[37mM_STOPPED[37m
+[37mELM_ERROR L[37mO[37mGGED
+[37m0[37m.0[37m7[37m
+-0.02
+-[37m0[37m.00
+-0.00[37m
+[37mGYRO data [37mu[37mpdated
+[37mE[37mRROR: EL[37mM[37m_STOPPED
+[37mE[37mLM_ERROR LO[37mG[37mGED
+[37mC[37mount[37me[37mr Reset
+[37mf[37mlag_a[37mw[37ms_publish [37m=[37m true
+[37m0[37m.08
+-0.01[37m
+[37m-0.00
+0.00[37m[37m
+GYRO data[37m [37mupdated
+[37mE[37mRROR: EL[37mM[37m_STOPPED
+E[37mL[37mM_ERROR LO[37mG[37mGED
+[37mC[37mounte[37mr[37m Reset
+[37m0[37m.[37m08
+-0.01
+0.00
+0.01
+GYRO data updated
+[37mE[37mRROR: ELM_[37mS[37mTOPPED
+ELM[37m_[37mERROR LOGGE[37mD[37m
+[37mC[37mo[37munter Re[37ms[37met
+[37m0[37m.[37m07
+-0.02
+[37m-[37m0.00
+-0.0[37m1[37m
+GYRO data[37m [37mupdated
+[37mE[37mR[37mROR: ELM_S[37mT[37mOPPED
+ELM_[37mE[37mRROR LOGGE[37mD[37m
+[37mC[37mounter Reset[37m
+[37mf[37ml[37mag_aws_publi[37ms[37mh = true
+[37m[37m
+[MAIN] [37m[MQTT] Sock[37me[37mt open succ[37me[37mss
+[37m0[37m.[37m08
+-0.0[37m2[37m
+0.01
+-0[37m.[37m01
+GYRO da[37mt[37ma updated[37m
+[37mE[37mRROR: ELM_[37mS[37mTOPPED
+ELM[37m_[37mERROR LOGG[37mE[37mD
+[37mC[37mounte[37mr Reset
+[37m0[37m.05
+-[37m0[37m.02
+-0.01[37m
+[37m0.00
+GYRO[37m [37mdata update[37md[37m
+[37mE[37mR[37mROR: ELM_STOPPED
+ELM_E[37mR[37mROR LOGGED[37m
+[37mC[37mounter Re[37ms[37met
+[37m0[37m.02
+[37m-[37m0.00
+0.01[37m
+[37m0.00
+GYRO[37m [37mdata update[37md[37m
+[37mL[37mogging [37mt[37mo: LOG00646[37m.[37mCSV<<------[37m-[37m----------[37m-[37m---------Cr[37me[37mated New F[37mi[37mle...
+[37mE[37mRROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+[37mC[37mo[37munter Re[37ms[37met
+[37mf[37ml[37mag_aws_[37mp[37mublish = tr[37mu[37me
+[37m[37m
+[MAIN[37m] [MQTT] Con[37mn[37mect failed[37m[37m
+[37m0[37m.07
+-0.0[37m2[37m
+0.01
+0.0[37m0[37m
+GYRO dat[37ma[37m updated
+[37mL[37moggin[37mg[37m to: LOG006[37m4[37m7.CSV<<---[37m-[37m-----------[37m-[37m----------[37m-[37mCreated New[37m [37mFile...
+[37mE[37mRR[37mO[37mR: ELM_STO[37mP[37mPED
+ELM_ER[37mR[37mOR LOGGED
+[37mC[37mounter[37m [37mReset
+[37mf[37ml[37mag_aw[37ms[37m_publish = [37mt[37mrue
+[37me[37mt[37ms Jun  8 2[37m0[37m16 00:22:57[37m[37m
+
+rst:0x1[37m [37m(POWERON_RE[37mS[37mET),boot:0x[37m1[37m7 (SPI_FAS[37mT[37m_FLASH_BOOT[37m)[37m
+configsip[37m:[37m 0, SPIWP:0[37mx[37mee
+clk_drv[37m:[37m0x00,q_drv:[37m0[37mx00,d_drv:[37m0[37mx00,cs0_drv[37m:[37m0x00,hd_drv[37m:[37m0x00,wp_drv[37m:[37m0x00
+mode:[37mD[37mIO, clock [37md[37miv:1
+load:[37m0[37mx3fff0018,l[37me[37mn:4
+load:0[37mx[37m3fff001c,l[37me[37mn:1044
+loa[37md[37m:0x40078000[37m,[37mlen:10124
+[37ml[37moad:0x40080[37m4[37m00,len:585[37m6[37m
+entry 0x4[37m0[37m0806a8
+[37mI[37mnitia[37ml[37mizing I2C [37md[37mevices...
+[37mT[37me[37msting device[37m [37mconnection[37ms[37m...
+MPU605[37m0[37m connectio[37mn[37m successful[37m[37m
+Initializ[37mi[37mng DMP...
+[37m
+[37mRe[37mading senso[37mr[37ms for first[37m [37mtime...
+[37m.[37m..[37m
+[37m3Seconds
+[37m
+[37mCalculating[37m [37moffsets...[37m[37m
+[37m
+[37mFINI[37mS[37mHED!
+
+Sens[37mo[37mr readings[37m [37mwith offset[37ms[37m:	
+[37mg[37myroX_o[37mf[37mfset = -13[37m7[37m.00
+gyroY_[37mo[37mffset = -1[37m0[37m8.00
+gyroZ[37m_[37moffset = -[37m5.00
+accelX[37m_[37moffset = -[37m3[37m930.00
+acc[37me[37mlY_offset [37m=[37m 829.00
+ac[37mc[37melZ_offset[37m [37m= 1169.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//   [37m [37m       X A[37mc[37mcel  Y Acce[37ml[37m  Z Accel [37m [37m X Gyro   Y[37m [37mGyro   Z G[37my[37mro
+//OFFSE[37mT[37mS    -3952,[37m [37m    859,  [37m [37m 1177,    -[37m1[37m36,    -108[37m,[37m      -5
+E[37mn[37mabling DMP.[37m.[37m.
+Enablin[37mg[37m interrupt [37md[37metection ([37mA[37mrduino exte[37mr[37mnal interr[37mu[37mpt 13)...
+[37mD[37mMP ready! [37mW[37maiting for [37mf[37mirst inter[37mr[37mupt...
+[37mE[37mL[37mM327 Connec[37mt[37med
+[37mI[37mnitial[37mi[37mzing SD ca[37mr[37md...[37mc[37mard in[37mi[37mtialized.[37m
+[37mL[37mogging to: [37mLOG00648.CS[37mV[37m
+[37mF[37mr[37mee space K[37mB[37m: 3822560
+[37mF[37mree space [37mi[37mn MB: 3732[37m
+[37m[37m
+[37m[MAIN] Wai[37mt[37ming for Cat[37m.[37mM1 Module [37mR[37meady...
+[37m[37m
+[37m[MAIN] [37mB[37mG96 ready[37m
+[37m
+[MAIN] Sy[37ms[37mtem Init C[37mo[37mmplete
+
+[[37mM[37mAIN] WIZne[37mt[37m IoT Shield[37m [37mfor Arduin[37mo[37m
+[MAIN] LT[37mE[37m Cat.M1 Ve[37mr[37msion
+[MAIN[37m][37m =========[37m=[37m===========[37m=[37m===========[37m=[37m==========[37m=[37m====
+[MAIN[37m][37m >> Target[37m [37mBoard: WIo[37mT[37m-QC01 (Quec[37mt[37mel BG96)
+[37m[[37mMAIN] >> Sample Code:  AWS IoT Pub/Sub (Built-[37min TLS)
+[M[37mA[37mIN] =======[37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m=======
+
+[37m[[37mBG96] Echo[37m [37mOff: Succes[37ms[37m
+[37m[37m
+[BG96[37m][37m Please Che[37mc[37mk your H/W[37m [37mStatus
+[37m[37m
+[37m[BG96] [37mE[37mcho Off: F[37ma[37miled
+
+[B[37mG[37m96] Please [37mC[37mheck your [37mH[37m/W Status
+[37m[37m
+[BG96] [37mE[37mcho Off: Fa[37mi[37mled
+
+[BG[37m9[37m6] Please C[37mh[37meck your H[37m/[37mW Status
+[37m[37m
+[BG96] E[37mc[37mho Off: Fa[37mi[37mled
+
+[BG9[37m6[37m] Please C[37mh[37meck your H/[37mW[37m Status
+[37m[37m
+[37m[BG96] E[37mc[37mho Off: Fai[37ml[37med
+
+[BG9[37m6[37m] Please Ch[37me[37mck your H/[37mW[37m Status
+[37m[37m
+[37m[BG96] Ec[37mh[37mo Off: Fail[37me[37md
+[37m[37m
+[37m[BG96][37m [37mUSIM Status[37m:[37m READY
+[37m[37m
+[37m[BG96][37m [37mNetwork Sta[37mt[37mus: 0, 2
+[37m[[37mBG96] Check[37mi[37mng APN...[37m
+[37m[37m
+[37m[BG96] AP[37mN[37m Check Don[37me[37m
+
+[MAIN] [37m[[37mFILE] Save[37m [37mand check A[37mW[37mS certific[37ma[37mtes
+[37m[37m
+[BG96] Era[37ms[37me storage [37mf[37mailed
+[37m[37m
+[BG96] Save[37m [37ma file to [37ms[37mtorage fail[37me[37md: AmazonR[37mo[37motCA1.pem
+[37m[37m
+[BG96] Save [37ma[37m file to st[37mo[37mrage failed: certifica[37mt[37me.pem.crt[37m

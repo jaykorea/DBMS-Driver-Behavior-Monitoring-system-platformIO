@@ -1,0 +1,216 @@
+Initializing I2C devices...
+Testing device connections...
+MPU6050 connection successful
+Initializing DMP...
+
+Reading sensors for first time...
+...
+4Seconds
+
+Calculating offsets...
+
+FINISHED!
+
+Sensor readings with offsets:	
+gyroX_offset = -141.00
+gyroY_offset = -128.00
+gyroZ_offset = -12.00
+accelX_offset = -3988.00
+accelY_offset = 846.00
+accelZ_offset = 1191.00
+>......>......
+
+//           X Accel  Y Accel  Z Accel   X Gyro   Y Gyro   Z Gyro
+//OFFSETS    -3998,     878,    1199,    -141,    -113,     -27
+Enabling DMP...
+Enabling interrupt detection (Arduino external interrupt 13)...
+DMP ready! Waiting for first interrupt...
+ELM327 Connected
+Initializing SD card...card initialized.
+Logging to: LOG01682.CSV
+Free space KB: 29613152
+Free space in MB: 28919
+
+[MAIN] Waiting for Cat.M1 Module Ready...
+
+[MAIN] BG96 already available
+
+[MAIN] System Init Complete
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Checking APN...
+
+[BG96] APN Check Done
+
+[MAIN] [FILE] Save and check AWS certificates
+
+[MAIN] [FILE] Erase BG96 storage complete
+
+[BG96] File saved: AmazonRootCA1.pem, 1188, 2d13
+
+[BG96] File saved: certificate.pem.crt, 1224, 7a0f
+
+[BG96] File saved: private.pem.key, 1679, 7a50
+
+[MAIN] [SSL/TLS] Set BG96 SSL/TLS configuration
+
+[MAIN] [MQTT] Connect to AWS IoT "a3q2g5zrbgdsc1-ats.iot.us-east-1.amazonaws.com:8883"
+
+[BG96] GPS Power: On
+
+[MAIN] GPS On
+0.16
+0.22
+-0.00
+-0.00
+GYRO data updated
+Distinguishing Powertrain
+Logging to: LOG01683.CSV<<---------------------------Created New File...
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.19
+0.25
+-0.00
+0.01
+GYRO data updated
+ets Jun  8 2016 00:22:57
+
+rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:10124
+load:0x40080400,len:5856
+entry 0x400806a8
+Initializing I2C devices...
+Testing device connections...
+MPU6050 connection successful
+Initializing DMP...
+
+Reading sensors for first time...
+...
+4Seconds
+
+Calculating offsets...
+
+FINISHED!
+
+Sensor readings with offsets:	
+gyroX_offset = -143.00
+gyroY_offset = -107.00
+gyroZ_offset = 20.00
+accelX_offset = -3982.00
+accelY_offset = 844.00
+accelZ_offset = 1194.00
+>......>......
+
+//           X Accel  Y Accel  Z Accel   X Gyro   Y Gyro   Z Gyro
+//OFFSETS    -4000,     872,    1198,    -137,    -112,     -18
+Enabling DMP...
+Enabling interrupt detection (Arduino external interrupt 13)...
+DMP ready! Waiting for first interrupt...
+ELM327 Connected
+Initializing SD card...card initialized.
+Logging to: LOG01684.CSV
+Free space KB: 29613088
+Free space in MB: 28919
+
+[MAIN] Waiting for Cat.M1 Module Ready...
+
+[MAIN] BG96 already available
+
+[MAIN] System Init Complete
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status

@@ -1,0 +1,971 @@
+[37mI[37mnit[37mializing I2C[37m [37mdevices...[37m[37m
+[37mT[37me[37msting devi[37mc[37me connecti[37mo[37mns...
+MPU6[37m0[37m50 connect[37mi[37mon successf[37mu[37ml
+Initial[37mi[37mzing DMP...[37m[37m
+[37m
+[37mReading sen[37ms[37mors for fir[37ms[37mt time...[37m
+[37m.[37m.[37m.
+3Seconds[37m
+[37m
+Calculati[37mn[37mg offsets.[37m.[37m.
+[37m
+[37mFINISHED!
+
+Se[37mnsor readin[37mg[37ms with off[37ms[37mets:	
+[37mg[37my[37mroX[37m_[37moffset = -[37m1[37m41.00
+gyro[37mY[37m_offset = -[37m1[37m06.00
+gyr[37mo[37mZ_offset = [37m-[37m5.00
+acce[37ml[37mX_offset = [37m-[37m3923.00
+a[37mc[37mcelY_offset[37m [37m= 836.00
+accelZ_offse[37mt[37m = 1165.00[37m[37m
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+
+//[37m [37m          X[37m [37mAccel  Y A[37mc[37mcel  Z Acce[37ml[37m   X Gyro  [37m [37mY Gyro   Z[37m [37mGyro
+//OFFS[37mE[37mTS    -394[37m3[37m,     864, [37m [37m  1173,   [37m [37m-141,    -1[37m0[37m6,      -5[37m
+[37mEnabling DM[37mP[37m...
+Enabl[37mi[37mng interrup[37mt[37m detection[37m [37m(Arduino ex[37mt[37mernal inte[37mr[37mrupt 13)...[37m[37m
+DMP ready[37m![37m Waiting fo[37mr[37m first inte[37mr[37mrupt...
+[37mE[37mL[37mM327 Conn[37me[37mcted
+[37mI[37mnit[37mi[37malizing SD [37mc[37mard...[37mc[37ma[37mrd [37mi[37mnitialized[37m.[37m
+[37mL[37mogging to: LOG0[37m1[37m425.CSV
+[37mF[37mree sp[37ma[37mce KB: 296[37m3[37m1552
+Free [37ms[37mpace in MB:[37m [37m28937
+[37m[37m
+[M[37mA[37mIN] Waiting[37m [37mfor Cat.M1[37m [37mModule Read[37my[37m...
+[37m[37m
+[MAIN] BG96 already [37ma[37mvailable
+[37m
+[37m[MAIN] Sys[37mt[37mem Init Com[37mp[37mlete
+
+[M[37mA[37mIN] WIZnet [37mI[37moT Shield [37mf[37mor Arduino[37m
+[37m[MAIN] LTE[37m [37mCat.M1 Vers[37mi[37mon
+[MAIN] [37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m==
+[MAIN][37m >> Target B[37mo[37mard: WIoT-[37mQ[37mC01 (Quecte[37ml[37m BG96)
+[M[37mA[37mIN] >> Samp[37ml[37me Code:  A[37mW[37mS IoT Pub/S[37mu[37mb (Built-i[37mn[37m TLS)
+[MAI[37mN[37m] ========[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m=====
+
+[B[37mG[37m96] Echo O[37mf[37mf: Success[37m
+[37m
+[BG96] U[37mS[37mIM Status:[37m [37mREADY
+
+[B[37mG[37m96] Networ[37mk[37m Status: At[37mt[37mach
+[37m[37m
+[BG96] Echo [37mOff: Succes[37ms[37m
+[37m[37m
+[BG96] US[37mI[37mM Status: [37mR[37mEADY
+[37m[37m
+[BG96][37m [37mNetwork St[37ma[37mtus: Attach[37m[37m
+
+[BG96] [37mC[37mhecking APN[37m.[37m..
+[37m[37m
+[B[37mG[37m96] APN Che[37mc[37mk Done
+
+[37m[[37mMAIN] [FILE] Save and c[37mh[37meck AWS certificates
+[37m[37m
+[[37mB[37mG96] PDP Co[37mn[37mtext Activ[37ma[37mtion: Succe[37ms[37ms
+[37m[37m
+[MAIN][37m [37m[FILE] Eras[37me[37m BG96 stor[37ma[37mge complete[37m[37m
+[37m[37m
+[37m[BG96] Fi[37ml[37me saved: Am[37ma[37mzonRootCA1[37m.[37mpem, 1188, [37m2[37md13
+[37m[37m
+[BG9[37m6[37m] File sav[37me[37md: certific[37ma[37mte.pem.crt[37m,[37m 1224, 7a0f[37m[37m
+[37m[37m
+[BG96[37m][37m File saved[37m:[37m private.p[37me[37mm.key, 1679, 7a50
+[37m[37m
+[MAIN] [37m[SSL/TLS] S[37met BG96 SSL/TLS configu[37mr[37mation
+[37m[37m
+[BG96] Set SSL/[37mT[37mLS Ciphersu[37mite failed:[37m 1061164793[37m
+[37m[37m
+[[37mM[37mAIN] [MQTT][37m [37mConnect to[37m [37mAWS IoT "a3[37mq[37m2g5zrbgdsc[37m1[37m-ats.iot.us[37m-[37meast-1.ama[37mz[37monaws.com:8[37m8[37m83"
+[37m[37m
+[[37mB[37mG96] GPS Po[37mw[37mer: On
+
+[37m[[37mMAIN] GPS O[37mn[37m
+[37m0[37m.[37m09[37m[37m
+-0.01
+0.[37m0[37m1
+-0.00
+G[37mY[37mRO data up[37md[37mated
+Disti[37mn[37mguishing P[37mo[37mwertrain
+[37mL[37mogging to:[37m [37mLOG01426.CS[37mV[37m<<---------[37m-[37m----------[37m-[37m------Creat[37me[37md New File[37m.[37m..
+[37mE[37mRROR: EL[37mM[37m_TIMEOUT
+ELM_ERROR LOGGED
+[37m[37m
+[M[37mAIN] [MQTT] [37mS[37mocket open[37m [37mfailed
+[37m0[37m.10[37m
+[37m-0.02
+0.0[37m1[37m
+-0.00
+GY[37mR[37mO data upd[37ma[37mted
+[37mL[37mogging to: LOG[37m0[37m1427.CSV<<-[37m-[37m----------[37m-[37m-----------[37m-[37m--Created [37mN[37mew File...[37m
+[37mE[37mL[37mM_ERRO[37mR[37m LOGGED
+[37m[37m
+[MAIN] [[37mM[37mQTT] Socket[37m [37mopen faile[37md[37m
+[37m0[37m.13[37m
+[37m-0.02
+0.01
+0.00
+GYR[37mO[37m data upda[37mt[37med
+[37mL[37mogging to: LOG0[37m1[37m428.CSV<<--[37m-[37m-----------[37m-[37m----------[37m-[37m-Created N[37me[37mw File...
+[37mE[37mLM327 data rep[37mr[37mesenting...[37m.[37m.
+[37mi[37mn[37mstantFu[37me[37mlConsume : [37m7[37m.97
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.[37m7[37m0
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m
+[37mp[37mr[37me_instan[37mt[37mFuelConsume[37m [37m= 7.97
+pr[37me[37m_f_accelX =[37m [37m0.01
+pre_[37mf[37m_accelY = 0[37m.[37m00
+pre_rp[37mm[37m = 2848
+pr[37me[37m_runTime =[37m [37m16798
+pre_[37mk[37mph = 11
+pr[37me[37m_Data Upda[37mt[37med
+[37m[37m
+[MAIN] [MQTT] [37mS[37mocket open[37m [37mfailed
+[37m0[37m.06
+-0[37m.02
+0.00
+[37m0[37m.00
+GYRO d[37ma[37mta updated[37m
+[37mE[37mL[37mM327 da[37mt[37ma represen[37mting.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 2.09[37m[37m
+commanded[37mA[37mirFuelRatio[37m [37m: 1.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37me[37mff[37mi[37mciencyMark [37m:[37m 5.00 / 10[37m [37m
+averageFu[37me[37mlConsume : [37m2[37m.09
+safet[37my[37mMark : 10.0[37m0[37m / 10 
+Co[37mu[37mnter_Time :[37m [37m0
+safetyS[37mc[37moreBuf : go[37mo[37md
+driving[37mM[37mark : 7.50 [37m/[37m 10 
+aver[37ma[37mgedrivingMa[37mr[37mk : 7.50 /[37m [37m10 
+pre_in[37ms[37mtantFuelCo[37mn[37msume = 2.09[37m[37m
+pre_f_acc[37me[37mlX = 0.00
+[37mp[37mre_f_accel[37mY[37m = 0.00
+pr[37me[37m_rpm = 815[37m
+[37mpre_runTim[37me[37m = 21671
+[37mp[37mre_kph = 13[37m[37m
+pre_Data U[37mp[37mdated
+0.0[37m6[37m
+-0.03
+0.[37m0[37m1
+0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mE[37mL[37mM327 da[37mt[37ma represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelCon[37ms[37mume : 10.1[37m5[37m
+commanded[37mA[37mirFuelRati[37mo : 1.00
+AF[37mR[37m : 14.70
+[37mE[37mLM[37m3[37m27 Data Log[37mg[37ming...
+[37me[37mffi[37mc[37miencyMark :[37m [37m5.00 / 10 [37m[37m
+averageFue[37ml[37mConsume : [37m1[37m0.15
+safet[37my[37mMark : 10.[37m0[37m0 / 10 
+Co[37munter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : go[37mo[37md
+driving[37mM[37mark : 7.50[37m [37m/ 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 7.50 /[37m [37m10 
+pre_i[37mn[37mstantFuelCo[37mn[37msume = 10.[37m1[37m5
+pre_f_ac[37mc[37melX = 0.01[37m[37m
+pre_f_acce[37ml[37mY = 0.00
+p[37mr[37me_rpm = 16[37m4[37m3
+pre_runT[37mi[37mme = 21740[37m[37m
+pre_kph = [37m4[37m2
+pre_Dat[37ma[37m Updated
+[37m0[37m.[37m08
+-0[37m.[37m03
+-0.01[37m
+[37m0.00
+GYRO [37md[37mata update[37md[37m
+[37mE[37mL[37mM327 d[37ma[37mta represe[37mn[37mting.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 0.4[37m0[37m
+commande[37md[37mAirFuelRati[37mo[37m : 1.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327 Data [37mL[37mogging...
+[37mc[37mo[37munt[37me[37mr_Fuel : 1[37m[37m
+efficiency[37mM[37mark : 5.00[37m [37m/ 10 
+aver[37ma[37mgeFuelCons[37mu[37mme : 0.40
+[37ms[37mafetyMark [37m:[37m 10.00 / 10[37m [37m
+Counter_[37mT[37mime : 0
+sa[37mf[37metyScoreBu[37mf[37m : good
+dr[37mivingMark :[37m [37m7.50 / 10 [37m
+[37maveragedri[37mv[37mingMark : 7[37m.[37m50 / 10 
+[37mp[37mre_instantF[37mu[37melConsume =[37m [37m0.40
+pre_[37mf[37m_accelX = -[37m0[37m.01
+pre_f[37m_[37maccelY = 0[37m.[37m00
+pre_rpm[37m [37m= 1805
+pre[37m_[37mrunTime = [37m2[37m1811
+pre_k[37mp[37mh = 3
+pre[37m_[37mData Update[37md[37m
+[37m[37m
+[MAIN] [[37mM[37mQTT] Socket[37m [37mopen faile[37md[37m
+[37m0[37m.08[37m
+[37m-0.01
+-0.[37m0[37m1
+0.00
+GY[37mR[37mO data updated
+[37mE[37mL[37mM327[37m [37mdata repre[37ms[37menting.....[37m[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : 3[37m0[37m.00
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mLM327 Data Logging...[37m[37m
+[37mc[37mo[37munter_Rp[37mm[37m : 1
+effi[37mc[37miencyMark :[37m [37m9.99 / 10 [37m
+averageFue[37ml[37mConsume : [37m3[37m0.00
+safet[37my[37mMark : 10.[37m0[37m0 / 10 
+Co[37mu[37mnter_Time :[37m [37m0
+safetyS[37mc[37moreBuf : ve[37mr[37mygood
+dri[37mv[37mingMark : 1[37m0[37m.00 / 10 [37m
+[37maveragedriv[37mi[37mngMark : 8[37m.[37m12 / 10 
+p[37mr[37me_instantF[37mu[37melConsume =[37m [37m30.00
+pre[37m_[37mf_accelX = [37m-[37m0.01
+pre_[37mf[37m_accelY = 0[37m.[37m00
+pre_rp[37mm[37m = 2378
+pr[37me[37m_runTime =[37m [37m23317
+pre_[37mk[37mph = 38
+p[37mr[37me_Data Upda[37mt[37med
+[37m0[37m.[37m08[37m[37m
+-0.01
+-0[37m.[37m01
+0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mE[37mLM32[37m7[37m data repr[37me[37msenting....[37m.[37m
+[37mi[37mnstantFu[37me[37mlConsume :[37m [37m12.65
+comm[37ma[37mndedAirFue[37ml[37mRatio : 1.0[37m0[37m
+AFR : 14.[37m7[37m0
+[37mE[37mL[37mM327 Da[37mt[37ma Logging..[37m.[37m
+[37me[37mf[37mficiency[37mM[37mark : 9.99 [37m/[37m 10 
+aver[37ma[37mgeFuelConsu[37mm[37me : 12.65[37m
+[37msafetyMark [37m:[37m 10.00 / 1[37m0[37m 
+Counter_[37mT[37mime : 0
+s[37ma[37mfetyScoreBu[37mf[37m : verygoo[37md[37m
+drivingMa[37mr[37mk : 10.00 [37m/[37m 10 
+avera[37mg[37medrivingMa[37mr[37mk : 8.50 / [37m1[37m0 
+pre_ins[37mt[37mantFuelCon[37ms[37mume = 12.65[37m[37m
+pre_f_acc[37me[37mlX = -0.01[37m
+[37mpre_f_accelY = 0.00
+[37mp[37mre_rpm = 17[37m1[37m9
+pre_run[37mT[37mime = 23387[37m[37m
+pre_kph =[37m [37m48
+pre_Dat[37ma[37m Updated
+[37m[37m
+[MAIN] [MQTT] [37mSocket open[37m [37mfailed
+[37m0[37m.[37m06
+-0.01
+[37m0[37m.00
+0.01
+[37mG[37mYRO data u[37mp[37mdated
+[37mE[37mL[37mM327 [37md[37mata repres[37me[37mnting.....[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : 7[37m.[37m06
+comman[37mdedAirFuelRatio : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37mc[37mo[37mun[37mt[37mer_Fuel : [37m2[37m
+counter_R[37mp[37mm : 2
+effi[37mc[37miencyMark [37m:[37m 5.00 / 10 [37m[37m
+averageFu[37me[37mlConsume : [37m7[37m.06
+count[37me[37mr_KphRpm : [37m1[37m
+safetyMa[37mr[37mk : 10.00 /[37m [37m10 
+Count[37me[37mr_Time : 0[37m
+[37msafetyScor[37me[37mBuf : good[37m
+[37mdrivingMar[37mk[37m : 7.50 / 1[37m0[37m 
+average[37md[37mrivingMark [37m:[37m 8.33 / 10[37m [37m
+pre_insta[37mn[37mtFuelConsu[37mm[37me = 7.06
+p[37mr[37me_f_accelX[37m [37m= 0.00
+pre[37m_[37mf_accelY = [37m0[37m.01
+pre_r[37mp[37mm = 2618
+p[37mr[37me_runTime [37m=[37m 24890
+pre[37m_[37mkph = 56
+[37mp[37mre_Data Upd[37ma[37mted
+[37m[37m
+[37m[MAIN] [[37mM[37mQTT] Socke[37mt[37m open faile[37md[37m
+[37m0[37m.08[37m[37m
+-0.01
+0.0[37m0[37m
+-0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mE[37mLM327[37m data repre[37ms[37menting.....[37m[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : 7.54
+commandedAirFuelR[37ma[37mtio : 1.00[37m
+[37mAFR : 14.7[37m0[37m
+[37mE[37mL[37mM327 Dat[37ma[37m Logging...[37m[37m
+[37me[37mf[37mficienc[37my[37mMark : 5.00[37m [37m/ 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 7.54[37m
+[37msafetyMark [37m:[37m 10.00 / 1[37m0[37m 
+Counter_[37mT[37mime : 0
+s[37ma[37mfetyScoreBu[37mf[37m : good
+d[37mr[37mivingMark :[37m [37m7.50 / 10 [37m[37m
+averagedri[37mv[37mingMark : [37m8[37m.21 / 10 
+[37mp[37mre_instant[37mF[37muelConsume [37m=[37m 7.54
+pre[37m_[37mf_accelX = [37m0[37m.00
+pre_f_[37ma[37mccelY = -0[37m.[37m00
+pre_rpm[37m [37m= 1698
+pr[37me[37m_runTime = [37m2[37m6413
+pre_[37mk[37mph = 39
+p[37mr[37me_Data Upda[37mt[37med
+[37m0[37m.[37m08
+-0.02
+0[37m.[37m01
+0.01
+[37mG[37mYRO data up[37md[37mated
+[37mE[37mLM32[37m7[37m data repr[37me[37msenting....[37m.[37m
+[37mi[37mn[37mstantFu[37me[37mlConsume :[37m [37m9.53
+comma[37mn[37mdedAirFuel[37mR[37matio : 1.00[37m[37m
+AFR : 14.[37m70
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m
+[37me[37mf[37mficienc[37my[37mMark : 5.00[37m [37m/ 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 9.53[37m
+[37msafetyMark [37m:[37m 10.00 / 1[37m0[37m 
+Counter_[37mT[37mime : 0
+sa[37mf[37metyScoreBu[37mf[37m : good
+dr[37mi[37mvingMark :[37m [37m7.50 / 10 [37m
+[37maveragedri[37mv[37mingMark : 8[37m.[37m12 / 10 
+[37mp[37mre_instantF[37mu[37melConsume [37m=[37m 9.53
+pre_[37mf[37m_accelX = [37m0[37m.01
+pre_f_[37ma[37mccelY = 0.[37m0[37m1
+pre_rpm [37m=[37m 1432
+pre[37m_[37mrunTime = 2[37m6[37m483
+pre_k[37mp[37mh = 46
+pre[37m_[37mData Updat[37me[37md
+[37m[37m
+[M[37mA[37mIN] [MQTT][37m [37mSocket open[37m [37mfailed
+[37m0[37m.03
+[37m0[37m.01
+-0.00[37m
+[37m0.01
+GYRO data update[37md[37m
+[37mE[37mL[37mM327 data re[37mp[37mresenting.[37m.[37m...
+[37mi[37mnstan[37mt[37mFuelConsum[37me[37m : 4.04
+co[37mmmandedAirFuelRatio : 1.00
+AFR : 1[37m4.70
+[37mE[37mL[37mM327 D[37ma[37mta Logging.[37m.[37m.
+[37mc[37mo[37mu[37mn[37mter_Fuel : [37m3[37m
+efficien[37mc[37myMark : 5.0[37m0[37m / 10 
+av[37me[37mrageFuelCon[37ms[37mume : 4.04[37m[37m
+safetyMark[37m [37m: 10.00 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+s[37ma[37mfetyScoreB[37mu[37mf : good
+d[37mr[37mivingMark [37m:[37m 7.50 / 10 [37m[37m
+averagedr[37mi[37mvingMark : [37m8[37m.05 / 10 [37m
+[37mpre_instant[37mF[37muelConsume[37m [37m= 4.04
+pre[37m_[37mf_accelX =[37m [37m-0.00
+pre_[37mf[37m_accelY = [37m0[37m.01
+pre_rp[37mm[37m = 2093
+p[37mr[37me_runTime =[37m [37m28004
+pre[37m_[37mkph = 39
+p[37mr[37me_Data Upda[37mt[37med
+[37m[37m
+[MAIN] [37m[MQTT] Sock[37me[37mt open fail[37me[37md
+[37m0[37m.1[37m0[37m
+-0.02
+-0[37m.[37m00
+-0.00[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mL[37mM327 d[37ma[37mta represen[37mt[37ming.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 30[37m.[37m00
+command[37me[37mdAirFuelRa[37mt[37mio : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37me[37mf[37mficien[37mc[37myMark : 9.9[37m8[37m / 10 
+ave[37mr[37mageFuelCon[37ms[37mume : 30.00[37m[37m
+counter_K[37mp[37mhRpm : 2
+s[37ma[37mfetyMark :[37m [37m9.99 / 10 [37m
+[37mCounter_Ti[37mm[37me : 0
+safe[37mt[37myScoreBuf [37m:[37m verygood
+[37md[37mrivingMark[37m [37m: 9.99 / 10[37m [37m
+averaged[37mr[37mivingMark :[37m [37m8.25 / 10 [37m[37m
+pre_instan[37mt[37mFuelConsum[37me[37m = 30.00
+p[37mr[37me_f_accelX[37m [37m= -0.00
+pr[37me[37m_f_accelY =[37m [37m-0.00
+pre[37m_[37mrpm = 2036[37m
+[37mpre_runTim[37me[37m = 29506
+p[37mr[37me_kph = 77[37m[37m
+pre_Data U[37mp[37mdated
+[37m0[37m.[37m10
+-0.01
+[37m-[37m0.00
+-0.01[37m[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM327[37m [37mdata repres[37me[37mnting.....[37m[37m
+[37mi[37mn[37mstantFuel[37mC[37monsume : 0[37m.[37m00
+command[37me[37mdAirFuelRa[37mt[37mio : 1.00[37m
+[37mAFR : 14.70[37m[37m
+[37mE[37mLM327 Da[37mt[37ma Logging..[37m.[37m
+[37mc[37mounter_F[37mu[37mel : 4
+cou[37mn[37mter_Rpm : [37m3[37m
+efficienc[37my[37mMark : 5.0[37m0[37m / 10 
+ave[37mr[37mageFuelCon[37ms[37mume : 0.00[37m[37m
+safetyMark[37m [37m: 9.99 / 10[37m [37m
+Counter_Time : 0
+sa[37mf[37metyScoreBu[37mf : good
+dr[37mivingMark :[37m [37m7.50 / 10 [37m
+[37maveragedri[37mv[37mingMark : 8[37m.[37m18 / 10 
+[37mp[37mre_instantF[37mu[37melConsume [37m=[37m 0.00
+pre_[37mf[37m_accelX = -[37m0[37m.00
+pre_f[37m_[37maccelY = -0[37m.[37m01
+pre_rp[37mm[37m = 2341
+pr[37me_runTime =[37m [37m29576
+pre[37m_[37mkph = 0
+pr[37me[37m_Data Updat[37me[37md
+[37m[37m
+[MAIN] [MQTT] Socket open failed
+[37m0[37m.[37m09
+[37m-[37m0.02
+-0.0[37m1[37m
+-0.00
+GY[37mR[37mO data upda[37mt[37med
+[37mE[37mLM327 dat[37ma[37m representi[37mn[37mg.....
+[37mi[37mnstantFuelConsum[37me[37m : 13.53
+[37mc[37mommandedAir[37mF[37muelRatio :[37m [37m1.00
+AFR :[37m [37m14.70
+[37mE[37mLM327 Data Logging...
+[37me[37mff[37mi[37mciencyMark[37m [37m: 9.97 / 10[37m [37m
+averageFuelConsume : 13.53
+saf[37metyMark : 9.[37m9[37m9 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safety[37mS[37mcoreBuf : v[37me[37mrygood
+dr[37mi[37mvingMark : [37m9[37m.98 / 10 [37m
+[37maveragedriv[37mi[37mngMark : 8.[37m3[37m3 / 10 
+p[37mr[37me_instantFu[37me[37mlConsume =[37m [37m13.53
+pre_[37mf[37m_accelX = [37m-[37m0.01
+pre_f_accelY = -[37m0[37m.00
+pre_rp[37mm[37m = 2712
+p[37mr[37me_runTime =[37m [37m31099
+pre[37m_[37mkph = 42
+p[37mr[37me_Data Upd[37ma[37mted
+[37m[37m
+[MAIN][37m [37m[MQTT] Sock[37me[37mt open fai[37ml[37med
+[37m0[37m.01
+[37m-[37m0.04
+-0.0[37m0[37m
+0.00
+GYR[37mO[37m data updat[37me[37md
+[37mE[37mL[37mM327 d[37ma[37mta represen[37mt[37ming.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 6.[37m8[37m2
+commande[37md[37mAirFuelRat[37mi[37mo : 1.00
+A[37mF[37mR : 14.70[37m
+[37mE[37mLM[37m3[37m27 Data Lo[37mg[37mging...
+[37mc[37mounter_[37mF[37muel : 5
+ef[37mf[37miciencyMar[37mk[37m : 5.00 / 1[37m0[37m 
+average[37mF[37muelConsume [37m:[37m 6.82
+saf[37me[37mtyMark : 10[37m.[37m00 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 7.5[37m0[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 8.26 [37m/[37m 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 6.[37m8[37m2
+pre_f_ac[37mc[37melX = -0.0[37m0[37m
+pre_f_acc[37me[37mlY = 0.00[37m
+[37mpre_rpm = 2[37m6[37m07
+pre_ru[37mn[37mTime = 3267[37m3[37m
+pre_kph [37m=[37m 40
+pre_Da[37mt[37ma Updated[37m
+[37m0.01
+-0.04[37m[37m
+-0.00
+-0[37m.[37m01
+GYRO data updated
+[37mE[37mL[37mM327 da[37mt[37ma represent[37mi[37mng.....
+[37mE[37mLM327 Data Logging...
+[37mc[37mo[37munter_[37mT[37mhrottle Zer[37mo[37med 0
+effic[37mi[37mencyMark :[37m [37m10.00 / 10 [37m[37m
+averageco[37mm[37mmandedThrot[37mt[37mleActuator[37m [37m: 0.00
+cou[37mn[37mter_KphRpm[37m [37m: 3
+safety[37mM[37mark : 9.99[37m [37m/ 10 
+Coun[37mt[37mer_Time : [37m0[37m
+safetySc[37mo[37mreBuf : ver[37my[37mgood
+drivi[37mn[37mgMark : 9.[37m9[37m9 / 10 
+av[37me[37mragedrivin[37mg[37mMark : 8.39[37m [37m/ 10 
+pre[37m_[37mcommandedTh[37mr[37mottleActua[37mt[37mor : 0.00
+[37mp[37mre_f_accelX[37m [37m= -0.00
+p[37mr[37me_f_accelY [37m=[37m -0.01
+pr[37me[37m_rpm = 685[37m[37m
+pre_runTim[37me[37m = 32742
+[37mp[37mre_kph = 62[37m[37m
+pre_Data [37mU[37mpdated
+[37m[37m
+[MAIN] [MQTT[37m][37m Socket ope[37mn[37m failed
+[37m0[37m.[37m10
+-0.03[37m
+[37m-0.01
+-0.[37m0[37m1
+GYRO da[37mt[37ma updated
+[37mL[37mogging to: LOG0[37m1[37m429.CSV<<-[37m-[37m-----------[37m-[37m----------[37m-[37m--Created N[37me[37mw File...[37m
+[37mE[37mL[37mM_ERROR L[37mO[37mGGED
+[37m[37m
+[MAIN] [MQTT] Sock[37me[37mt open fai[37ml[37med
+[37m0[37m.1[37m0[37m
+-0.02
+-0[37m.[37m01
+-0.01[37m
+[37mGYRO data updated
+[37mL[37mogging to: LOG01430.[37mC[37mSV<<------[37m-[37m-----------[37m-[37m--------Cr[37me[37mated New File...
+[37mE[37mLM32[37m7[37m data repr[37me[37msenting....[37m.[37m
+[37mi[37mnstantFu[37me[37mlConsume : [37m1[37m0.26
+comm[37ma[37mndedAirFuel[37mR[37matio : 1.0[37m0[37m
+AFR : 14.[37m7[37m0
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37me[37mf[37mficien[37mc[37myMark : 5.0[37m0[37m / 10 
+av[37me[37mrageFuelCon[37ms[37mume : 10.2[37m6[37m
+safetyMar[37mk[37m : 9.99 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+[37ms[37mafetyScoreB[37mu[37mf : good
+[37md[37mrivingMark[37m [37m: 7.50 / 10[37m [37m
+averaged[37mr[37mivingMark :[37m [37m8.33 / 10 [37m
+[37mpre_instan[37mt[37mFuelConsume[37m [37m= 10.26
+pre_f_accelX [37m=[37m -0.01
+pr[37me[37m_f_accelY =[37m [37m-0.01
+pre[37m_[37mrpm = 2102[37m
+[37mpre_runTim[37me[37m = 39289
+p[37mr[37me_kph = 46[37m
+[37mpre_Data U[37mp[37mdated
+[37m[37m
+[MAIN] [MQT[37mT[37m] Socket op[37me[37mn failed
+[37m0[37m.04
+[37m0[37m.01
+0.01[37m
+[37m0.00
+GYRO [37md[37mata update[37md[37m
+[37mE[37mLM327 da[37mt[37ma represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 5.5[37m8[37m
+commanded[37mA[37mirFuelRati[37mo[37m : 1.00
+AF[37mR[37m : 14.70
+[37mE[37mLM3[37m2[37m7 Data Log[37mg[37ming...
+[37mc[37mo[37munter_Fuel :[37m [37m6
+efficie[37mn[37mcyMark : 5[37m.[37m00 / 10 
+a[37mv[37merageFuelC[37mo[37mnsume : 5.58
+counter_KphRpm : 4
+safetyMark [37m:[37m 9.99 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingMark : 7[37m.[37m50 / 10 
+averagedrivingMark : 8.[37m2[37m8 / 10 
+pre_instantFu[37melConsume = [37m5[37m.58
+pre_f[37m_accelX = 0.[37m0[37m1
+pre_f_accelY = 0.00[37m[37m
+pre_rpm =[37m [37m1560
+pre_r[37mu[37mnTime = 44[37m3[37m27
+pre_kph = 52
+pre_[37mD[37mata Updated[37m[37m
+[37m[37m
+[MAIN] [MQTT] Soc[37mk[37met open fa[37mi[37mled
+[37m0[37m.[37m06
+-0.01
+-[37m0[37m.01
+0.00[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mL[37mM327 da[37mt[37ma represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 22.[37m4[37m7
+commande[37mdAirFuelRati[37mo[37m : 1.00
+A[37mF[37mR : 14.70
+[37mE[37mLM32[37m7[37m Data Loggi[37mn[37mg...
+[37mc[37mo[37munter[37m_[37mRpm : 4
+ef[37mf[37miciencyMar[37mk[37m : 9.97 / 1[37m0[37m 
+average[37mF[37muelConsume [37m:[37m 22.47
+sa[37mf[37metyMark : 9[37m.[37m99 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : verygood
+d[37mr[37mivingMark :[37m [37m9.98 / 10 [37m[37m
+averagedri[37mv[37mingMark : [37m8[37m.38 / 10 
+[37mp[37mre_instant[37mF[37muelConsume [37m=[37m 22.47
+pre[37m_[37mf_accelX =[37m [37m-0.01
+pre_[37mf[37m_accelY = [37m0[37m.00
+pre_rp[37mm[37m = 2383
+p[37mr[37me_runTime =[37m [37m45862
+pre[37m_[37mkph = 31
+p[37mr[37me_Data Upd[37ma[37mted
+[37m[37m
+[MAIN] [MQTT] Socket open failed
+[37m0[37m.06
+0.[37m0[37m1
+0.01
+-0[37m.[37m00
+GYRO d[37ma[37mta updated[37m
+[37mE[37mLM327[37m [37mdata repres[37me[37mnting.....[37m[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : 5[37m.[37m01
+comman[37md[37medAirFuelR[37matio : 1.00[37m
+AFR : 14.7[37m0
+[37mE[37mL[37mM327 Data [37mL[37mogging...
+[37mc[37mo[37munter_Fuel [37m:[37m 7
+effici[37me[37mncyMark : 5[37m.[37m00 / 10 
+[37ma[37mverageFuelC[37mo[37mnsume : 5.[37m0[37m1
+safetyMa[37mr[37mk : 9.99 /[37m [37m10 
+Counte[37mr[37m_Time : 0[37m
+[37msafetyScor[37me[37mBuf : good[37m
+[37mdrivingMark : 7.50 / 1[37m0[37m 
+averaged[37mr[37mivingMark [37m:[37m 8.33 / 10 [37m[37m
+pre_insta[37mn[37mtFuelConsum[37me[37m = 5.01
+p[37mr[37me_f_accelX [37m=[37m 0.01
+pre_[37mf[37m_accelY = [37m-[37m0.00
+pre_r[37mp[37mm = 2212
+[37mp[37mre_runTime [37m=[37m 47404
+pr[37me[37m_kph = 19[37m
+[37mpre_Data Up[37md[37mated
+0.05[37m[37m
+0.01
+0.00[37m[37m
+-0.00
+GY[37mR[37mO data upda[37mt[37med
+[37mE[37mLM327 [37md[37mata represe[37mn[37mting.....[37m
+[37mi[37mn[37mstantFuel[37mC[37monsume : 4.[37m5[37m4
+command[37me[37mdAirFuelRat[37mi[37mo : 1.00
+[37mA[37mFR : 14.70[37m
+[37mE[37mLM[37m327 Data Lo[37mg[37mging...
+[37me[37mf[37mficiencyMa[37mr[37mk : 5.00 / [37m1[37m0 
+average[37mF[37muelConsume : 4.54
+saf[37me[37mtyMark : 9[37m.[37m99 / 10 
+C[37mo[37munter_Time[37m [37m: 0
+safety[37mS[37mcoreBuf : [37mg[37mood
+drivin[37mg[37mMark : 7.5[37m0[37m / 10 
+ave[37mr[37magedriving[37mM[37mark : 8.28 [37m/[37m 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 4.[37m5[37m4
+pre_f_ac[37mc[37melX = 0.00[37m[37m
+pre_f_acce[37ml[37mY = -0.00
+pre_rpm = 8[37m80
+pre_runT[37mi[37mme = 47475[37m[37m
+pre_kph = [37m3[37m6
+pre_Dat[37ma[37m Updated
+[37m[37m
+[37m[MAIN[37m][37m [MQTT] So[37mc[37mket open fa[37mi[37mled
+[37m0[37m.[37m00
+0.01
+-[37m0[37m.00
+-0.01[37m[37m
+GYRO data [37mu[37mpdated
+[37mE[37mL[37mM327 dat[37ma[37m represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 1.34[37m[37m
+commanded[37mA[37mirFuelRatio[37m [37m: 1.00
+AF[37mR[37m : 14.70
+[37mE[37mLM3[37m2[37m7 Data Logg[37mi[37mng...
+[37me[37mffici[37me[37mncyMark : 5[37m.[37m00 / 10 
+[37ma[37mverageFuelC[37mo[37mnsume : 1.[37m3[37m4
+safetyMa[37mr[37mk : 9.99 / [37m1[37m0 
+Counte[37mr[37m_Time : 0
+[37ms[37mafetyScore[37mB[37muf : good[37m
+[37mdrivingMark[37m [37m: 7.50 / 10[37m [37m
+averaged[37mr[37mivingMark :[37m [37m8.24 / 10 [37m[37m
+pre_instan[37mt[37mFuelConsum[37me[37m = 1.34
+pr[37me[37m_f_accelX [37m=[37m -0.00
+pre[37m_[37mf_accelY =[37m [37m-0.01
+pre_[37mr[37mpm = 908
+[37mp[37mre_runTime [37m=[37m 49016
+pr[37me[37m_kph = 6
+p[37mr[37me_Data Upd[37ma[37mted
+0.06
+[37m-[37m0.01
+-0.0[37m1[37m
+0.00
+GYR[37mO[37m data upda[37mt[37med
+[37mE[37mLM327 dat[37ma[37m representi[37mn[37mg.....
+[37mi[37mn[37mstantFuelCon[37ms[37mume : 3.73[37m
+[37mcommandedA[37mi[37mrFuelRatio [37m:[37m 1.00
+AFR[37m [37m: 14.70
+[37mE[37mLM3[37m2[37m7 Data Logg[37mi[37mng...
+[37mc[37mo[37munter[37m_[37mRpm : 5
+e[37mf[37mficiencyMar[37mk[37m : 5.00 / [37m1[37m0 
+average[37mF[37muelConsume[37m [37m: 3.73
+saf[37me[37mtyMark : 9.[37m9[37m9 / 10 
+C[37mo[37munter_Time [37m:[37m 0
+safety[37mS[37mcoreBuf : [37mg[37mood
+drivin[37mg[37mMark : 7.5[37m0[37m / 10 
+ave[37mr[37magedrivingM[37ma[37mrk : 8.21 [37m/[37m 10 
+pre_i[37mn[37mstantFuelC[37mo[37mnsume = 3.73
+pre_f_ac[37mcelX = -0.01[37m[37m
+pre_f_acc[37me[37mlY = 0.00
+[37mp[37mre_rpm = 2[37m5[37m71
+pre_run[37mT[37mime = 4908[37m7[37m
+pre_kph =[37m [37m9
+pre_Dat[37ma[37m Updated
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Socket o[37mp[37men failed[37m
+[37m0[37m.06
+-0[37m.[37m02
+0.00
+[37m-[37m0.00
+GYRO[37m [37mdata update[37md[37m
+[37mE[37mL[37mM327 d[37ma[37mta represen[37mt[37ming.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 7.1[37m0[37m
+commandedAirFuelRati[37mo[37m : 1.00
+A[37mF[37mR : 14.70
+[37mE[37mLM[37m3[37m27 Data Log[37mg[37ming...
+[37me[37mf[37mficiencyMa[37mr[37mk : 5.00 /[37m [37m10 
+averag[37me[37mFuelConsume[37m [37m: 7.10
+sa[37mf[37metyMark : 9[37m.[37m99 / 10 
+Counter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 7.5[37m0[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 8.18[37m [37m/ 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 7.[37m1[37m0
+pre_f_a[37mc[37mcelX = 0.00[37m[37m
+pre_f_acc[37me[37mlY = -0.00[37m
+[37mpre_rpm = [37m9[37m21
+pre_run[37mT[37mime = 50622[37m[37m
+pre_kph =[37m [37m49
+pre_Dat[37ma[37m Updated
+[37m0[37m.[37m04
+-0[37m.[37m01
+0.01
+0[37m.[37m01
+GYRO d[37ma[37mta updated[37m
+[37mE[37mL[37mM327 [37md[37mata repres[37me[37mnting.....[37m
+[37mi[37mnstantFuel[37mC[37monsume : 2[37m.[37m78
+command[37me[37mdAirFuelRa[37mt[37mio : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37mc[37mo[37munter_Rpm :[37m [37m6
+efficie[37mn[37mcyMark : 5[37m.[37m00 / 10 
+a[37mv[37merageFuelC[37mo[37mnsume : 2.7[37m8[37m
+safetyMa[37mr[37mk : 9.99 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+[37ms[37mafetyScoreB[37mu[37mf : good
+[37md[37mrivingMark [37m:[37m 7.50 / 10[37m [37m
+averagedr[37mi[37mvingMark :[37m [37m8.15 / 10 [37m
+[37mpre_instan[37mt[37mFuelConsume[37m [37m= 2.78
+pre[37m_[37mf_accelX =[37m [37m0.01
+pre_[37mf[37m_accelY = 0[37m.[37m01
+pre_rp[37mm[37m = 2863
+pr[37me[37m_runTime =[37m [37m50693
+pre_[37mk[37mph = 24
+pr[37me[37m_Data Upda[37mt[37med
+[37m[37m
+[MAIN[37m][37m [MQTT] So[37mc[37mket open f[37ma[37miled
+[37m0[37m.[37m04
+-0.01
+[37m-[37m0.01
+-0.00[37m[37m
+GYRO data[37m [37mupdated
+[37mE[37mL[37mM327 data[37m [37mrepresenti[37mn[37mg.....
+[37mi[37mns[37mt[37mantFuelCons[37mu[37mme : 11.33[37m[37m
+commandedA[37mirFuelRatio[37m [37m: 1.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327[37m [37mData Loggi[37mn[37mg...
+[37me[37mf[37mfici[37me[37mncyMark : 5[37m.[37m00 / 10 
+[37ma[37mverageFuelC[37mo[37mnsume : 11[37m.[37m33
+safetyM[37ma[37mrk : 9.99 [37m/[37m 10 
+Count[37me[37mr_Time : 0[37m[37m
+safetyScor[37me[37mBuf : good[37m[37m
+drivingMar[37mk[37m : 7.50 / [37m1[37m0 
+average[37md[37mrivingMark : 8.12 / 10[37m [37m
+pre_inst[37ma[37mntFuelConsu[37mm[37me = 11.33
+[37mp[37mre_f_accel[37mX[37m = -0.01
+p[37mr[37me_f_accelY[37m [37m= -0.00
+pr[37me[37m_rpm = 107[37m4[37m
+pre_runTi[37mm[37me = 52230[37m
+[37mpre_kph = 4[37m3[37m
+pre_Data[37m [37mUpdated
+[37m[37m
+[MAIN] [MQTT] Socket o[37mp[37men failed[37m
+[37m0[37m.06
+-0.[37m0[37m0
+0.01
+-[37m0[37m.01
+GYRO d[37ma[37mta updated[37m[37m
+[37mE[37mLM327[37m [37mdata repres[37me[37mnting.....[37m[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : [37m5[37m.48
+comman[37md[37medAirFuelR[37ma[37mtio : 1.00[37m
+[37mAFR : 14.7[37m0[37m
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m[37m
+[37mc[37mo[37munter_Fuel[37m [37m: 8
+count[37me[37mr_Rpm : 7
+[37me[37mfficiencyM[37ma[37mrk : 5.00 /[37m [37m10 
+avera[37mg[37meFuelConsum[37me[37m : 5.48
+s[37ma[37mfetyMark : [37m9[37m.99 / 10 [37m
+[37mCounter_Tim[37me[37m : 0
+safet[37my[37mScoreBuf :[37m [37mgood
+drivi[37mn[37mgMark : 7.[37m5[37m0 / 10 
+a[37mveragedrivingMark : 8.10 / 10 
+pre[37m_[37minstantFuel[37mC[37monsume = 5[37m.[37m48
+pre_f_a[37mc[37mcelX = 0.0[37m1[37m
+pre_f_acc[37me[37mlY = -0.01[37m[37m
+pre_rpm = [37m2[37m287
+pre_r[37mu[37mnTime = 537[37m6[37m9
+pre_kph[37m [37m= 17
+pre_D[37ma[37mta Updated[37m[37m
+[37m0[37m.05
+-0.[37m0[37m2
+-0.00
+-[37m0[37m.01
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mLM3[37m2[37m7 data repr[37me[37msenting....[37m.[37m
+[37mi[37mnstantFuelConsume :[37m [37m16.98
+comm[37ma[37mndedAirFue[37ml[37mRatio : 1.[37m0[37m0
+AFR : 14[37m.[37m70
+[37mE[37mL[37mM327 Data [37mL[37mogging...[37m
+[37me[37mf[37mficiencyMa[37mr[37mk : 9.97 / [37m1[37m0 
+averag[37meFuelConsum[37me : 16.98
+s[37ma[37mfetyMark :[37m [37m9.99 / 10 [37m
+[37mCounter_Ti[37mm[37me : 0
+safe[37mt[37myScoreBuf :[37m [37mverygood
+[37md[37mrivingMark [37m:[37m 9.98 / 10[37m [37m
+averagedr[37mi[37mvingMark :[37m [37m8.17 / 10 [37m
+[37mpre_instan[37mt[37mFuelConsume[37m [37m= 16.98
+p[37mr[37me_f_accelX [37m=[37m -0.00
+pr[37me_f_accelY =[37m [37m-0.01
+pre[37m_[37mrpm = 1846[37m
+[37mpre_runTime[37m [37m= 53841
+p[37mr[37me_kph = 41[37m
+[37mpre_Data Updated
+[37m[37m
+[MAI[37mN[37m] [MQTT] S[37mo[37mcket open f[37ma[37miled
+[37m0[37m.[37m06
+-0.00
+[37m-[37m0.01
+-0.0[37m0[37m
+GYRO data[37m updated
+[37mE[37mL[37mM327 data[37m [37mrepresenti[37mn[37mg.....
+[37mi[37mns[37mt[37mantFuelCons[37mu[37mme : 10.35[37m
+commandedA[37mi[37mrFuelRatio[37m [37m: 1.00
+AFR[37m [37m: 14.70
+[37mE[37mLM32[37m7[37m Data Logg[37mi[37mng...
+[37me[37mf[37mfici[37me[37mncyMark : [37m5[37m.00 / 10 
+[37ma[37mverageFuel[37mC[37monsume : 10[37m.[37m35
+safety[37mM[37mark : 9.99 [37m/[37m 10 
+Coun[37mt[37mer_Time : 0[37m
+safetySco[37mr[37meBuf : good[37m[37m
+drivingMar[37mk[37m : 7.50 / [37m1[37m0 
+average[37md[37mrivingMark[37m [37m: 8.14 / 1[37m0[37m 
+pre_inst[37ma[37mntFuelCons[37mu[37mme = 10.35[37m
+[37mpre_f_accel[37mX[37m = -0.01
+[37mp[37mre_f_accelY[37m [37m= -0.00
+p[37mr[37me_rpm = 131[37m8[37m
+pre_runT[37mi[37mme = 55385[37m
+[37mpre_kph = [37m2[37m5
+pre_Data[37m [37mUpdated
+0[37m.[37m06
+-0.02
+[37m0[37m.00
+-0.01[37m[37m
+GYRO data [37mu[37mpdated
+[37mE[37mL[37mM327 data [37mr[37mepresenting.....
+[37mi[37mnst[37ma[37mntFuelConsu[37mm[37me : 6.71
+[37mc[37mommandedAir[37mF[37muelRatio :[37m [37m1.00
+AFR :[37m [37m14.70
+[37mE[37mL[37mM327[37m [37mData Loggin[37mg[37m...
+[37mc[37mo[37munte[37mr[37m_Fuel : 9
+[37me[37mfficiencyM[37ma[37mrk : 5.00 / 10 
+avera[37mg[37meFuelConsum[37me[37m : 6.71
+s[37ma[37mfetyMark : [37m9[37m.99 / 10 [37m
+[37mCounter_Tim[37me[37m : 0
+safe[37mt[37myScoreBuf :[37m [37mgood
+driv[37mi[37mngMark : 7.[37m5[37m0 / 10 
+av[37me[37mragedrivin[37mg[37mMark : 8.12[37m [37m/ 10 
+pre_instantFuel[37mConsume = 6[37m.[37m71
+pre_f_accelX = 0.0[37m0[37m
+pre_f_acc[37me[37mlY = -0.01[37m[37m
+pre_rpm = [37m1[37m466
+pre_r[37mu[37mnTime = 554[37m5[37m6
+pre_kph[37m [37m= 44
+pre_D[37mata Updated[37m[37m
+[37m[37m
+[37m[MAIN] [MQ[37mT[37mT] Socket [37mo[37mpen failed[37m
+[37m0.06
+-[37m0[37m.02
+0.00
+[37m0[37m.00
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mLM[37m3[37m27 data rep[37mr[37mesenting...[37m.[37m.
+[37mi[37mnstant[37mF[37muelConsume[37m [37m: 7.38
+com[37mm[37mandedAirFue[37ml[37mRatio : 1.[37m0[37m0
+AFR : 14[37m.[37m70
+[37mE[37mL[37mM327 Dat[37ma[37m Logging...[37m[37m
+[37me[37mf[37mficiencyMa[37mr[37mk : 5.00 /[37m [37m10 
+avera[37mg[37meFuelConsum[37me[37m : 7.38
+s[37ma[37mfetyMark : [37m9[37m.99 / 10 [37m
+[37mCounter_Time : 0
+safe[37mt[37myScoreBuf :[37m [37mgood
+driv[37mi[37mngMark : 7.[37m5[37m0 / 10 
+av[37me[37mragedrivin[37mg[37mMark : 8.10[37m [37m/ 10 
+pre[37m_[37minstantFuel[37mC[37monsume = 7[37m.[37m38
+pre_f_a[37mc[37mcelX = 0.0[37m0[37m
+pre_f_acc[37me[37mlY = 0.00
+[37mp[37mre_rpm = 1[37m4[37m20
+pre_run[37mT[37mime = 5700[37m4[37m
+pre_kph [37m=[37m 28
+pre_Da[37mt[37ma Updated[37m
+[37m[37m
+[MAI[37mN[37m] [MQTT] S[37mo[37mcket open [37mf[37mailed
+[37m0[37m.[37m06
+-0.00
+[37m0.01
+-0.00[37m[37m
+GYRO data [37mu[37mpdated
+[37mE[37mL[37mM327 data represent[37ming.....
+[37mi[37mn[37mstantFuelCon[37ms[37mume : 8.08[37m[37m
+commandedA[37mi[37mrFuelRatio[37m [37m: 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM32[37m7[37m Data Logg[37mi[37mng...
+[37me[37mf[37mfic[37mi[37mencyMark :[37m [37m5.00 / 10 [37m
+[37maverageFuel[37mC[37monsume : 8[37m.[37m08
+safetyM[37ma[37mrk : 9.99 /[37m [37m10 
+Count[37me[37mr_Time : 0[37m[37m
+safetyScor[37me[37mBuf : good[37m[37m
+drivingMar[37mk[37m : 7.50 / [37m1[37m0 
+average[37md[37mrivingMark [37m:[37m 8.08 / 10[37m [37m
+pre_insta[37mn[37mtFuelConsu[37mm[37me = 8.08
+p[37mr[37me_f_accelX[37m [37m= 0.01
+pr[37me[37m_f_accelY =[37m [37m-0.00
+pre_[37mr[37mpm = 892
+[37mp[37mre_runTime [37m=[37m 58540
+pr[37me[37m_kph = 39
+[37mp[37mre_Data Up[37md[37mated
+[37m0[37m.[37m06
+-0.00
+[37m0[37m.01
+-0.00[37m[37m
+GYRO data [37mu[37mpdated
+[37mE[37mLM327 d[37ma[37mta representing.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 3.7[37m0[37m
+commande[37md[37mAirFuelRati[37mo[37m : 1.00
+A[37mF[37mR : 14.70
+[37mE[37mL[37mM3[37m2[37m7 Data Logg[37mi[37mng...
+[37mc[37mo[37munte[37mr[37m_Fuel : 10[37m[37m
+counter_Rp[37mm[37m : 8
+effi[37mc[37miencyMark :[37m [37m5.00 / 10 [37m[37m
+averageFue[37ml[37mConsume : [37m3[37m.70
+safety[37mM[37mark : 9.99 [37m/[37m 10 
+Coun[37mt[37mer_Time : [37m0[37m
+safetySco[37mr[37meBuf : goo[37md[37m
+drivingMa[37mr[37mk : 7.50 /[37m [37m10 
+averag[37me[37mdrivingMark[37m [37m: 8.06 / 1[37m0[37m 
+pre_inst[37ma[37mntFuelCons[37mu[37mme = 3.70
+[37mp[37mre_f_accel[37mX[37m = 0.01
+pr[37me[37m_f_accelY [37m=[37m -0.00
+pre[37m_[37mrpm = 2560[37m[37m
+pre_runTim[37me[37m = 58612
+[37mp[37mre_kph = 23[37m[37m
+pre_Data [37mU[37mpdated
+[37m[37m
+[MAIN] [M[37mQTT] Socket [37mo[37mpen failed[37m[37m
+0.06
+0.01[37m[37m
+0.00
+0.0[37m0[37m
+GYRO dat[37ma[37m updated
+[37mE[37mLM327 data repr[37me[37msenting...[37m.[37m.
+[37mE[37mL[37mM327 Data [37mL[37mogging...
+[37mp[37mr[37me_command[37me[37mdThrottleAc[37mt[37muator : 0.[37m0[37m0
+pre_f_ac[37mc[37melX = 0.00[37m[37m
+pre_f_acc[37me[37mlY = 0.00
+[37mp[37mre_rpm = 0[37m[37m
+pre_runTim[37me[37m = 0
+pre_k[37mp[37mh = 0
+pre[37m_[37mData Update[37md[37m
+[37m0[37m.[37m06[37m
+[37m-0.01
+-0.0[37m1[37m
+-0.01
+G[37mY[37mRO data upd[37ma[37mted
+[37mL[37mogging to: LOG01431.CSV<<---------------------------[37mCreated New[37m [37mFile...
+[37mE[37mLM_ERROR[37m [37mLOGGED
+[37m[37m
+[MAIN] [MQTT] So[37mc[37mket open f[37ma[37miled
+[37m0[37m.[37m06
+-0.02
+0[37m.[37m02
+-0.00[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mLM_ERR[37mO[37mR LOGGED
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Socket o[37mp[37men failed[37m
+[37m0[37m.[37m10
+-0[37m.[37m02
+0.00
+-[37m0[37m.00
+GYRO [37md[37mata updated[37m[37m

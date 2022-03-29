@@ -1,0 +1,3232 @@
+Initializing I2C devices...
+Testing device connections...
+MPU6050 connection successful
+Initializing DMP...
+
+Reading sensors for first time...
+...
+4Seconds
+
+Calculating offsets...
+
+FINISHED!
+
+Sensor readings with offsets:	
+gyroX_offset = -143.00
+gyroY_offset = -107.00
+gyroZ_offset = -6.00
+accelX_offset = -4001.00
+accelY_offset = 838.00
+accelZ_offset = 1191.00
+>......>......
+
+//           X Accel  Y Accel  Z Accel   X Gyro   Y Gyro   Z Gyro
+//OFFSETS    -4011,     866,    1197,    -142,    -107,      -6
+Enabling DMP...
+Enabling interrupt detection (Arduino external interrupt 13)...
+DMP ready! Waiting for first interrupt...
+ELM327 Connected
+Initializing SD card...card initialized.
+Logging to: LOG01654.CSV
+Free space KB: 29614048
+Free space in MB: 28919
+
+[MAIN] Waiting for Cat.M1 Module Ready...
+
+[MAIN] BG96 already available
+
+[MAIN] System Init Complete
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Checking APN...
+
+[BG96] APN Check Done
+
+[MAIN] [FILE] Save and check AWS certificates
+
+[MAIN] [FILE] Erase BG96 storage complete
+
+[BG96] File saved: AmazonRootCA1.pem, 1188, 2d13
+
+[BG96] File saved: certificate.pem.crt, 1224, 7a0f
+
+[BG96] File saved: private.pem.key, 1679, 7a50
+
+[MAIN] [SSL/TLS] Set BG96 SSL/TLS configuration
+
+[MAIN] [MQTT] Connect to AWS IoT "a3q2g5zrbgdsc1-ats.iot.us-east-1.amazonaws.com:8883"
+
+[BG96] GPS Power: On
+
+[MAIN] GPS On
+Distinguishing Powertrain
+Logging to: LOG01655.CSV<<---------------------------Created New File...
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.03
+-0.08
+-0.00
+-0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+-0.00
+-0.02
+0.01
+-0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.04
+-0.11
+-0.00
+-0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.03
+-0.10
+0.00
+-0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.64
+-1.09
+-0.00
+0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+Counter Reset
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+-0.04
+-0.21
+0.01
+0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+Counter Reset
+0.02
+-0.08
+-0.00
+0.00
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+Counter Reset
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.04
+-0.11
+-0.01
+-0.01
+GYRO data updated
+Logging to: LOG01656.CSV<<---------------------------Created New File...
+ERROR: ELM_STOPPED
+ELM_ERROR LOGGED
+Counter Reset
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.20
+0.03
+0.18
+0.21
+GYRO data updated
+Logging to: LOG01657.CSV<<---------------------------Created New File...
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+Counter Reset
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+-0.13
+0.01
+-0.04
+-0.08
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+Counter Reset
+0.02
+-0.06
+0.00
+0.02
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+Counter Reset
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+-0.04
+0.03
+-0.00
+-0.01
+GYRO data updated
+ets Jun  8 2016 00:22:57
+
+rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1044
+load:0x40078000,len:10124
+load:0x40080400,len:5856
+entry 0x400806a8
+Initializing I2C devices...
+Testing device connections...
+MPU6050 connection successful
+Initializing DMP...
+
+Reading sensors for first time...
+...
+4Seconds
+
+Calculating offsets...
+
+FINISHED!
+
+Sensor readings with offsets:	
+gyroX_offset = -145.00
+gyroY_offset = -108.00
+gyroZ_offset = -7.00
+accelX_offset = -4001.00
+accelY_offset = 835.00
+accelZ_offset = 1199.00
+>......>......
+
+//           X Accel  Y Accel  Z Accel   X Gyro   Y Gyro   Z Gyro
+//OFFSETS    -4001,     869,    1199,    -144,    -107,      -6
+Enabling DMP...
+Enabling interrupt detection (Arduino external interrupt 13)...
+DMP ready! Waiting for first interrupt...
+ELM327 Connected
+Initializing SD card...card initialized.
+Logging to: LOG01658.CSV
+Free space KB: 29613920
+Free space in MB: 28919
+
+[MAIN] Waiting for Cat.M1 Module Ready...
+
+[MAIN] BG96 already available
+
+[MAIN] System Init Complete
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Please Check your H/W Status
+
+[BG96] Echo Off: Success
+
+[BG96] USIM Status: READY
+
+[BG96] Network Status: 0, 2
+[BG96] Checking APN...
+
+[BG96] APN Check Done
+
+[MAIN] [FILE] Save and check AWS certificates
+
+[MAIN] [FILE] Erase BG96 storage complete
+
+[BG96] File saved: AmazonRootCA1.pem, 1188, 2d13
+
+[BG96] File saved: certificate.pem.crt, 1224, 7a0f
+
+[BG96] File saved: private.pem.key, 1679, 7a50
+
+[MAIN] [SSL/TLS] Set BG96 SSL/TLS configuration
+
+[BG96] Set SSL/TLS ignore validity check option failed: ignorelocaltime
+
+[MAIN] [MQTT] Connect to AWS IoT "a3q2g5zrbgdsc1-ats.iot.us-east-1.amazonaws.com:8883"
+
+[BG96] GPS Power: On
+
+[MAIN] GPS On
+0.35
+0.12
+-0.01
+0.02
+GYRO data updated
+Distinguishing Powertrain
+Logging to: LOG01659.CSV<<---------------------------Created New File...
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.31
+0.10
+-0.00
+0.00
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+-0.12
+-0.01
+0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.27
+0.11
+0.00
+-0.02
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.44
+0.10
+-0.01
+-0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.32
+0.10
+-0.01
+0.00
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+Counter Reset
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+1.40
+-0.93
+-0.02
+-0.01
+GYRO data updated
+ERROR: ELM_TIMEOUT
+ELM_ERROR LOGGED
+Counter Reset
+0.42
+0.11
+-0.00
+0.01
+GYRO data updated
+Logging to: LOG01660.CSV<<---------------------------Created New File...
+ELM327 data representing.....
+instantFuelConsume : 0.43
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+pre_instantFuelConsume = 0.43
+pre_f_accelX = -0.00
+pre_f_accelY = 0.01
+pre_rpm = 1425
+pre_runTime = 22
+pre_kph = 3
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.35
+0.12
+-0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.00
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 5.00 / 10 
+averageFuelConsume : 0.00
+safetyScore : 10.00 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.50 / 10 
+averagedrivingScore : 7.50 / 10 
+pre_instantFuelConsume = 0.00
+pre_f_accelX = -0.00
+pre_f_accelY = 0.00
+pre_rpm = 1216
+pre_runTime = 94
+pre_kph = 0
+pre_Data Updated
+0.35
+0.12
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 10.63
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 1
+efficiencyScore : 4.70 / 10 
+averageFuelConsume : 10.63
+safetyScore : 10.00 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.35 / 10 
+averagedrivingScore : 7.42 / 10 
+pre_instantFuelConsume = 10.63
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 2226
+pre_runTime = 99
+pre_kph = 33
+pre_Data Updated
+0.33
+0.14
+0.01
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 8.88
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.71 / 10 
+averageFuelConsume : 8.88
+safetyScore : 10.00 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.36 / 10 
+averagedrivingScore : 7.40 / 10 
+pre_instantFuelConsume = 8.88
+pre_f_accelX = 0.01
+pre_f_accelY = -0.01
+pre_rpm = 971
+pre_runTime = 104
+pre_kph = 49
+pre_Data Updated
+0.33
+0.11
+0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 21.74
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 9.72 / 10 
+averageFuelConsume : 21.74
+counter_KphRpm : 1
+safetyScore : 9.26 / 10 
+Counter_Time : 0
+safetyScoreBuf : verygood
+drivingScore : 9.49 / 10 
+averagedrivingScore : 7.92 / 10 
+pre_instantFuelConsume = 21.74
+pre_f_accelX = 0.00
+pre_f_accelY = 0.00
+pre_rpm = 914
+pre_runTime = 108
+pre_kph = 60
+pre_Data Updated
+0.36
+0.13
+0.01
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.85
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 1
+efficiencyScore : 4.73 / 10 
+averageFuelConsume : 0.85
+safetyScore : 9.29 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.01 / 10 
+averagedrivingScore : 7.74 / 10 
+pre_instantFuelConsume = 0.85
+pre_f_accelX = 0.01
+pre_f_accelY = 0.01
+pre_rpm = 1798
+pre_runTime = 113
+pre_kph = 5
+pre_Data Updated
+0.35
+0.14
+0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.00
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.75 / 10 
+averageFuelConsume : 0.00
+safetyScore : 9.32 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.03 / 10 
+averagedrivingScore : 7.62 / 10 
+pre_instantFuelConsume = 0.00
+pre_f_accelX = 0.01
+pre_f_accelY = -0.00
+pre_rpm = 1473
+pre_runTime = 118
+pre_kph = 0
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.35
+0.11
+0.02
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 30.00
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 8.48 / 10 
+averageFuelConsume : 30.00
+counter_KphRpm : 2
+safetyScore : 8.84 / 10 
+Counter_Time : 0
+safetyScoreBuf : verygood
+drivingScore : 8.66 / 10 
+averagedrivingScore : 7.77 / 10 
+pre_instantFuelConsume = 30.00
+pre_f_accelX = 0.02
+pre_f_accelY = 0.00
+pre_rpm = 1614
+pre_runTime = 138
+pre_kph = 77
+pre_Data Updated
+0.34
+0.13
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 2.48
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 2
+counter_Rpm : 2
+efficiencyScore : 4.58 / 10 
+averageFuelConsume : 2.48
+safetyScore : 8.88 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.73 / 10 
+averagedrivingScore : 7.64 / 10 
+pre_instantFuelConsume = 2.48
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 2239
+pre_runTime = 143
+pre_kph = 24
+pre_Data Updated
+0.37
+0.13
+-0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 1.93
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.59 / 10 
+averageFuelConsume : 1.93
+safetyScore : 8.91 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.75 / 10 
+averagedrivingScore : 7.54 / 10 
+pre_instantFuelConsume = 1.93
+pre_f_accelX = -0.00
+pre_f_accelY = -0.01
+pre_rpm = 2312
+pre_runTime = 147
+pre_kph = 8
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.14
+-0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 5.99
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.64 / 10 
+averageFuelConsume : 5.99
+safetyScore : 9.05 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.85 / 10 
+averagedrivingScore : 7.47 / 10 
+pre_instantFuelConsume = 5.99
+pre_f_accelX = -0.00
+pre_f_accelY = 0.00
+pre_rpm = 2588
+pre_runTime = 168
+pre_kph = 31
+pre_Data Updated
+0.36
+0.13
+0.00
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 1.01
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.65 / 10 
+averageFuelConsume : 1.01
+safetyScore : 9.08 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.86 / 10 
+averagedrivingScore : 7.42 / 10 
+pre_instantFuelConsume = 1.01
+pre_f_accelX = 0.00
+pre_f_accelY = 0.01
+pre_rpm = 1872
+pre_runTime = 173
+pre_kph = 7
+pre_Data Updated
+0.36
+0.14
+-0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 8.05
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.66 / 10 
+averageFuelConsume : 8.05
+safetyScore : 9.10 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.88 / 10 
+averagedrivingScore : 7.37 / 10 
+pre_instantFuelConsume = 8.05
+pre_f_accelX = -0.00
+pre_f_accelY = 0.00
+pre_rpm = 819
+pre_runTime = 177
+pre_kph = 25
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.37
+0.13
+0.01
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 9.83
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.70 / 10 
+averageFuelConsume : 9.83
+counter_KphRpm : 3
+safetyScore : 8.79 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.74 / 10 
+averagedrivingScore : 7.32 / 10 
+pre_instantFuelConsume = 9.83
+pre_f_accelX = 0.01
+pre_f_accelY = -0.01
+pre_rpm = 2123
+pre_runTime = 198
+pre_kph = 78
+pre_Data Updated
+0.35
+0.12
+0.00
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 23.19
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 3
+efficiencyScore : 7.78 / 10 
+averageFuelConsume : 23.19
+safetyScore : 8.82 / 10 
+Counter_Time : 0
+safetyScoreBuf : verygood
+drivingScore : 8.30 / 10 
+averagedrivingScore : 7.39 / 10 
+pre_instantFuelConsume = 23.19
+pre_f_accelX = 0.00
+pre_f_accelY = 0.01
+pre_rpm = 2729
+pre_runTime = 203
+pre_kph = 56
+pre_Data Updated
+0.35
+0.15
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 8.43
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.57 / 10 
+averageFuelConsume : 8.43
+safetyScore : 8.84 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.70 / 10 
+averagedrivingScore : 7.35 / 10 
+pre_instantFuelConsume = 8.43
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 1283
+pre_runTime = 207
+pre_kph = 32
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.12
+0.01
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 12.24
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 4
+efficiencyScore : 7.89 / 10 
+averageFuelConsume : 12.24
+counter_KphRpm : 4
+safetyScore : 8.60 / 10 
+Counter_Time : 0
+safetyScoreBuf : verygood
+drivingScore : 8.25 / 10 
+averagedrivingScore : 7.40 / 10 
+pre_instantFuelConsume = 12.24
+pre_f_accelX = 0.01
+pre_f_accelY = -0.01
+pre_rpm = 2874
+pre_runTime = 228
+pre_kph = 76
+pre_Data Updated
+0.35
+0.13
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 4.35
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 3
+efficiencyScore : 4.48 / 10 
+averageFuelConsume : 4.35
+safetyScore : 8.62 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.55 / 10 
+averagedrivingScore : 7.35 / 10 
+pre_instantFuelConsume = 4.35
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 821
+pre_runTime = 232
+pre_kph = 42
+pre_Data Updated
+0.35
+0.13
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 23.19
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 5
+efficiencyScore : 7.09 / 10 
+averageFuelConsume : 23.19
+safetyScore : 8.65 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.87 / 10 
+averagedrivingScore : 7.38 / 10 
+pre_instantFuelConsume = 23.19
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 2712
+pre_runTime = 237
+pre_kph = 32
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.35
+0.12
+0.01
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 3.16
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 4
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 3.16
+safetyScore : 8.76 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.59 / 10 
+averagedrivingScore : 7.34 / 10 
+pre_instantFuelConsume = 3.16
+pre_f_accelX = 0.01
+pre_f_accelY = 0.01
+pre_rpm = 1452
+pre_runTime = 258
+pre_kph = 12
+pre_Data Updated
+0.33
+0.11
+-0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 1.86
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.43 / 10 
+averageFuelConsume : 1.86
+safetyScore : 8.78 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.60 / 10 
+averagedrivingScore : 7.30 / 10 
+pre_instantFuelConsume = 1.86
+pre_f_accelX = -0.00
+pre_f_accelY = -0.01
+pre_rpm = 1999
+pre_runTime = 262
+pre_kph = 16
+pre_Data Updated
+0.35
+0.11
+-0.01
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 30.00
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.74 / 10 
+averageFuelConsume : 30.00
+safetyScore : 8.80 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.77 / 10 
+averagedrivingScore : 7.33 / 10 
+pre_instantFuelConsume = 30.00
+pre_f_accelX = -0.01
+pre_f_accelY = 0.00
+pre_rpm = 1787
+pre_runTime = 267
+pre_kph = 28
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.35
+0.13
+0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 4.56
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 5
+efficiencyScore : 4.48 / 10 
+averageFuelConsume : 4.56
+safetyScore : 8.89 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.68 / 10 
+averagedrivingScore : 7.30 / 10 
+pre_instantFuelConsume = 4.56
+pre_f_accelX = 0.00
+pre_f_accelY = -0.01
+pre_rpm = 1167
+pre_runTime = 288
+pre_kph = 11
+pre_Data Updated
+0.36
+0.13
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 26.92
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.40 / 10 
+averageFuelConsume : 26.92
+counter_KphRpm : 5
+safetyScore : 8.63 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.52 / 10 
+averagedrivingScore : 7.31 / 10 
+pre_instantFuelConsume = 26.92
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 1534
+pre_runTime = 292
+pre_kph = 65
+pre_Data Updated
+0.34
+0.13
+-0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 23.92
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.46 / 10 
+averageFuelConsume : 23.92
+safetyScore : 8.65 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.56 / 10 
+averagedrivingScore : 7.32 / 10 
+pre_instantFuelConsume = 23.92
+pre_f_accelX = -0.00
+pre_f_accelY = -0.01
+pre_rpm = 1552
+pre_runTime = 297
+pre_kph = 66
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.36
+0.12
+0.01
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 8.38
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.53 / 10 
+averageFuelConsume : 8.38
+safetyScore : 8.74 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.64 / 10 
+averagedrivingScore : 7.29 / 10 
+pre_instantFuelConsume = 8.38
+pre_f_accelX = 0.01
+pre_f_accelY = 0.01
+pre_rpm = 2185
+pre_runTime = 318
+pre_kph = 78
+pre_Data Updated
+0.35
+0.12
+-0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 11.14
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 6
+efficiencyScore : 4.44 / 10 
+averageFuelConsume : 11.14
+safetyScore : 8.76 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.60 / 10 
+averagedrivingScore : 7.26 / 10 
+pre_instantFuelConsume = 11.14
+pre_f_accelX = -0.01
+pre_f_accelY = -0.00
+pre_rpm = 2830
+pre_runTime = 322
+pre_kph = 73
+pre_Data Updated
+0.36
+0.13
+-0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 14.08
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.70 / 10 
+averageFuelConsume : 14.08
+safetyScore : 8.78 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.74 / 10 
+averagedrivingScore : 7.28 / 10 
+pre_instantFuelConsume = 14.08
+pre_f_accelX = -0.00
+pre_f_accelY = 0.00
+pre_rpm = 2330
+pre_runTime = 327
+pre_kph = 34
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.35
+0.12
+0.01
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 3.28
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 6
+efficiencyScore : 4.48 / 10 
+averageFuelConsume : 3.28
+safetyScore : 8.85 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.66 / 10 
+averagedrivingScore : 7.26 / 10 
+pre_instantFuelConsume = 3.28
+pre_f_accelX = 0.01
+pre_f_accelY = 0.00
+pre_rpm = 1017
+pre_runTime = 347
+pre_kph = 26
+pre_Data Updated
+0.34
+0.13
+0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.67
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.49 / 10 
+averageFuelConsume : 0.67
+safetyScore : 8.86 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.68 / 10 
+averagedrivingScore : 7.24 / 10 
+pre_instantFuelConsume = 0.67
+pre_f_accelX = 0.01
+pre_f_accelY = -0.00
+pre_rpm = 2124
+pre_runTime = 352
+pre_kph = 3
+pre_Data Updated
+0.36
+0.12
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 9.71
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.50 / 10 
+averageFuelConsume : 9.71
+counter_KphRpm : 6
+safetyScore : 8.66 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.58 / 10 
+averagedrivingScore : 7.22 / 10 
+pre_instantFuelConsume = 9.71
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 816
+pre_runTime = 357
+pre_kph = 67
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.12
+-0.01
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 1.98
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 7
+efficiencyScore : 4.52 / 10 
+averageFuelConsume : 1.98
+safetyScore : 8.73 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.62 / 10 
+averagedrivingScore : 7.20 / 10 
+pre_instantFuelConsume = 1.98
+pre_f_accelX = -0.01
+pre_f_accelY = 0.00
+pre_rpm = 1542
+pre_runTime = 377
+pre_kph = 13
+pre_Data Updated
+0.35
+0.14
+-0.00
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 4.89
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.53 / 10 
+averageFuelConsume : 4.89
+safetyScore : 8.74 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.64 / 10 
+averagedrivingScore : 7.18 / 10 
+pre_instantFuelConsume = 4.89
+pre_f_accelX = -0.00
+pre_f_accelY = 0.01
+pre_rpm = 2043
+pre_runTime = 382
+pre_kph = 27
+pre_Data Updated
+0.34
+0.12
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 26.82
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 7
+efficiencyScore : 6.20 / 10 
+averageFuelConsume : 26.82
+counter_KphRpm : 7
+safetyScore : 8.55 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.38 / 10 
+averagedrivingScore : 7.19 / 10 
+pre_instantFuelConsume = 26.82
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 2231
+pre_runTime = 387
+pre_kph = 74
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.12
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 11.07
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.48 / 10 
+averageFuelConsume : 11.07
+safetyScore : 8.62 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.55 / 10 
+averagedrivingScore : 7.17 / 10 
+pre_instantFuelConsume = 11.07
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 1621
+pre_runTime = 407
+pre_kph = 42
+pre_Data Updated
+0.36
+0.13
+-0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.00
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 8
+counter_Rpm : 8
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 0.00
+safetyScore : 8.64 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.53 / 10 
+averagedrivingScore : 7.15 / 10 
+pre_instantFuelConsume = 0.00
+pre_f_accelX = -0.01
+pre_f_accelY = -0.00
+pre_rpm = 2991
+pre_runTime = 412
+pre_kph = 0
+pre_Data Updated
+0.33
+0.12
+-0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 2.34
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 2.34
+safetyScore : 8.65 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.54 / 10 
+averagedrivingScore : 7.13 / 10 
+pre_instantFuelConsume = 2.34
+pre_f_accelX = -0.00
+pre_f_accelY = -0.01
+pre_rpm = 2427
+pre_runTime = 416
+pre_kph = 21
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.36
+0.13
+0.01
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 3.87
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.45 / 10 
+averageFuelConsume : 3.87
+safetyScore : 8.72 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.58 / 10 
+averagedrivingScore : 7.12 / 10 
+pre_instantFuelConsume = 3.87
+pre_f_accelX = 0.01
+pre_f_accelY = 0.01
+pre_rpm = 955
+pre_runTime = 437
+pre_kph = 36
+pre_Data Updated
+0.33
+0.11
+-0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 3.14
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 9
+efficiencyScore : 4.39 / 10 
+averageFuelConsume : 3.14
+safetyScore : 8.73 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.56 / 10 
+averagedrivingScore : 7.10 / 10 
+pre_instantFuelConsume = 3.14
+pre_f_accelX = -0.00
+pre_f_accelY = 0.00
+pre_rpm = 2230
+pre_runTime = 442
+pre_kph = 26
+pre_Data Updated
+0.34
+0.13
+0.01
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 1.24
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.39 / 10 
+averageFuelConsume : 1.24
+safetyScore : 8.74 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.57 / 10 
+averagedrivingScore : 7.09 / 10 
+pre_instantFuelConsume = 1.24
+pre_f_accelX = 0.01
+pre_f_accelY = 0.00
+pre_rpm = 1639
+pre_runTime = 446
+pre_kph = 6
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.35
+0.12
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 2.25
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 2.25
+safetyScore : 8.80 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.61 / 10 
+averagedrivingScore : 7.08 / 10 
+pre_instantFuelConsume = 2.25
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 1875
+pre_runTime = 467
+pre_kph = 14
+pre_Data Updated
+0.37
+0.13
+-0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.13
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 10
+efficiencyScore : 4.36 / 10 
+averageFuelConsume : 0.13
+safetyScore : 8.81 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.59 / 10 
+averagedrivingScore : 7.07 / 10 
+pre_instantFuelConsume = 0.13
+pre_f_accelX = -0.00
+pre_f_accelY = -0.01
+pre_rpm = 2222
+pre_runTime = 472
+pre_kph = 1
+pre_Data Updated
+0.34
+0.12
+0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 3.87
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.37 / 10 
+averageFuelConsume : 3.87
+safetyScore : 8.82 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.60 / 10 
+averagedrivingScore : 7.05 / 10 
+pre_instantFuelConsume = 3.87
+pre_f_accelX = 0.00
+pre_f_accelY = 0.00
+pre_rpm = 1426
+pre_runTime = 476
+pre_kph = 4
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.35
+0.13
+0.00
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 5.80
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 5.80
+safetyScore : 8.87 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.63 / 10 
+averagedrivingScore : 7.04 / 10 
+pre_instantFuelConsume = 5.80
+pre_f_accelX = 0.00
+pre_f_accelY = 0.01
+pre_rpm = 1343
+pre_runTime = 497
+pre_kph = 38
+pre_Data Updated
+0.35
+0.14
+-0.01
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 8.28
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 8.28
+counter_KphRpm : 8
+safetyScore : 8.73 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.56 / 10 
+averagedrivingScore : 7.03 / 10 
+pre_instantFuelConsume = 8.28
+pre_f_accelX = -0.01
+pre_f_accelY = -0.01
+pre_rpm = 775
+pre_runTime = 502
+pre_kph = 60
+pre_Data Updated
+0.34
+0.14
+0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 3.01
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 9
+efficiencyScore : 4.41 / 10 
+averageFuelConsume : 3.01
+safetyScore : 8.74 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.57 / 10 
+averagedrivingScore : 7.02 / 10 
+pre_instantFuelConsume = 3.01
+pre_f_accelX = 0.00
+pre_f_accelY = -0.01
+pre_rpm = 1121
+pre_runTime = 506
+pre_kph = 27
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.33
+0.12
+-0.01
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 25.37
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.36 / 10 
+averageFuelConsume : 25.37
+safetyScore : 8.79 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.57 / 10 
+averagedrivingScore : 7.03 / 10 
+pre_instantFuelConsume = 25.37
+pre_f_accelX = -0.01
+pre_f_accelY = 0.00
+pre_rpm = 689
+pre_runTime = 527
+pre_kph = 35
+pre_Data Updated
+0.34
+0.14
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 12.04
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.38 / 10 
+averageFuelConsume : 12.04
+counter_KphRpm : 9
+safetyScore : 8.64 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.51 / 10 
+averagedrivingScore : 7.05 / 10 
+pre_instantFuelConsume = 12.04
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 1973
+pre_runTime = 531
+pre_kph = 54
+pre_Data Updated
+0.32
+0.12
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 19.33
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.42 / 10 
+averageFuelConsume : 19.33
+safetyScore : 8.66 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.54 / 10 
+averagedrivingScore : 7.06 / 10 
+pre_instantFuelConsume = 19.33
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 1695
+pre_runTime = 536
+pre_kph = 60
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.35
+0.13
+0.01
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 3.02
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 10
+counter_Rpm : 11
+efficiencyScore : 4.41 / 10 
+averageFuelConsume : 3.02
+safetyScore : 8.71 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.56 / 10 
+averagedrivingScore : 7.05 / 10 
+pre_instantFuelConsume = 3.02
+pre_f_accelX = 0.01
+pre_f_accelY = 0.01
+pre_rpm = 2489
+pre_runTime = 557
+pre_kph = 26
+pre_Data Updated
+0.36
+0.12
+-0.01
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 8.36
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.41 / 10 
+averageFuelConsume : 8.36
+counter_KphRpm : 10
+safetyScore : 8.57 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.49 / 10 
+averagedrivingScore : 7.03 / 10 
+pre_instantFuelConsume = 8.36
+pre_f_accelX = -0.01
+pre_f_accelY = -0.01
+pre_rpm = 1799
+pre_runTime = 561
+pre_kph = 75
+pre_Data Updated
+0.35
+0.13
+0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 20.94
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.24 / 10 
+averageFuelConsume : 20.94
+safetyScore : 8.59 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.41 / 10 
+averagedrivingScore : 7.04 / 10 
+pre_instantFuelConsume = 20.94
+pre_f_accelX = 0.00
+pre_f_accelY = -0.01
+pre_rpm = 698
+pre_runTime = 566
+pre_kph = 65
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.12
+0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 4.45
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 11
+efficiencyScore : 4.44 / 10 
+averageFuelConsume : 4.45
+safetyScore : 8.64 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.54 / 10 
+averagedrivingScore : 7.03 / 10 
+pre_instantFuelConsume = 4.45
+pre_f_accelX = 0.00
+pre_f_accelY = 0.00
+pre_rpm = 1770
+pre_runTime = 587
+pre_kph = 43
+pre_Data Updated
+0.33
+0.13
+-0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 2.22
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 12
+efficiencyScore : 4.39 / 10 
+averageFuelConsume : 2.22
+safetyScore : 8.65 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.52 / 10 
+averagedrivingScore : 7.02 / 10 
+pre_instantFuelConsume = 2.22
+pre_f_accelX = -0.00
+pre_f_accelY = -0.01
+pre_rpm = 2247
+pre_runTime = 591
+pre_kph = 13
+pre_Data Updated
+0.36
+0.12
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.22
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 0.22
+safetyScore : 8.66 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.53 / 10 
+averagedrivingScore : 7.01 / 10 
+pre_instantFuelConsume = 0.22
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 2692
+pre_runTime = 596
+pre_kph = 2
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.12
+-0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 5.58
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 5.58
+safetyScore : 8.70 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.56 / 10 
+averagedrivingScore : 7.00 / 10 
+pre_instantFuelConsume = 5.58
+pre_f_accelX = -0.01
+pre_f_accelY = -0.00
+pre_rpm = 1098
+pre_runTime = 616
+pre_kph = 25
+pre_Data Updated
+0.32
+0.12
+-0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.77
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 0.77
+safetyScore : 8.71 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.57 / 10 
+averagedrivingScore : 7.00 / 10 
+pre_instantFuelConsume = 0.77
+pre_f_accelX = -0.00
+pre_f_accelY = 0.00
+pre_rpm = 1647
+pre_runTime = 621
+pre_kph = 4
+pre_Data Updated
+0.32
+0.12
+0.01
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 1.36
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 1.36
+safetyScore : 8.72 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.57 / 10 
+averagedrivingScore : 6.99 / 10 
+pre_instantFuelConsume = 1.36
+pre_f_accelX = 0.01
+pre_f_accelY = -0.01
+pre_rpm = 1039
+pre_runTime = 626
+pre_kph = 8
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.13
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 8.70
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.44 / 10 
+averageFuelConsume : 8.70
+counter_KphRpm : 11
+safetyScore : 8.64 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.54 / 10 
+averagedrivingScore : 6.98 / 10 
+pre_instantFuelConsume = 8.70
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 1640
+pre_runTime = 647
+pre_kph = 78
+pre_Data Updated
+0.34
+0.13
+-0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 7.54
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 12
+counter_Rpm : 13
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 7.54
+safetyScore : 8.65 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.52 / 10 
+averagedrivingScore : 6.97 / 10 
+pre_instantFuelConsume = 7.54
+pre_f_accelX = -0.01
+pre_f_accelY = -0.00
+pre_rpm = 2633
+pre_runTime = 651
+pre_kph = 13
+pre_Data Updated
+0.32
+0.13
+0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.97
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.41 / 10 
+averageFuelConsume : 0.97
+safetyScore : 8.66 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.53 / 10 
+averagedrivingScore : 6.97 / 10 
+pre_instantFuelConsume = 0.97
+pre_f_accelX = 0.00
+pre_f_accelY = -0.00
+pre_rpm = 2181
+pre_runTime = 656
+pre_kph = 6
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.13
+0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 17.39
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 14
+efficiencyScore : 6.18 / 10 
+averageFuelConsume : 17.39
+safetyScore : 8.70 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.44 / 10 
+averagedrivingScore : 6.97 / 10 
+pre_instantFuelConsume = 17.39
+pre_f_accelX = 0.00
+pre_f_accelY = -0.01
+pre_rpm = 2550
+pre_runTime = 676
+pre_kph = 24
+pre_Data Updated
+0.34
+0.13
+0.01
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 4.99
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 13
+efficiencyScore : 4.38 / 10 
+averageFuelConsume : 4.99
+safetyScore : 8.71 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.55 / 10 
+averagedrivingScore : 6.97 / 10 
+pre_instantFuelConsume = 4.99
+pre_f_accelX = 0.01
+pre_f_accelY = 0.01
+pre_rpm = 2393
+pre_runTime = 681
+pre_kph = 43
+pre_Data Updated
+0.32
+0.13
+0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 5.35
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.39 / 10 
+averageFuelConsume : 5.35
+safetyScore : 8.72 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.55 / 10 
+averagedrivingScore : 6.96 / 10 
+pre_instantFuelConsume = 5.35
+pre_f_accelX = 0.01
+pre_f_accelY = -0.00
+pre_rpm = 2022
+pre_runTime = 686
+pre_kph = 24
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.33
+0.13
+-0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.61
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 15
+efficiencyScore : 4.36 / 10 
+averageFuelConsume : 0.61
+safetyScore : 8.75 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.56 / 10 
+averagedrivingScore : 6.95 / 10 
+pre_instantFuelConsume = 0.61
+pre_f_accelX = -0.01
+pre_f_accelY = -0.00
+pre_rpm = 2352
+pre_runTime = 706
+pre_kph = 4
+pre_Data Updated
+0.34
+0.13
+0.01
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 0.86
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.37 / 10 
+averageFuelConsume : 0.86
+safetyScore : 8.76 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.56 / 10 
+averagedrivingScore : 6.95 / 10 
+pre_instantFuelConsume = 0.86
+pre_f_accelX = 0.01
+pre_f_accelY = -0.01
+pre_rpm = 2060
+pre_runTime = 711
+pre_kph = 8
+pre_Data Updated
+0.34
+0.13
+0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 6.93
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.37 / 10 
+averageFuelConsume : 6.93
+counter_KphRpm : 12
+safetyScore : 8.66 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.52 / 10 
+averagedrivingScore : 6.94 / 10 
+pre_instantFuelConsume = 6.93
+pre_f_accelX = 0.00
+pre_f_accelY = 0.00
+pre_rpm = 2079
+pre_runTime = 716
+pre_kph = 55
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.34
+0.13
+0.01
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 30.00
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.21 / 10 
+averageFuelConsume : 30.00
+safetyScore : 8.70 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.45 / 10 
+averagedrivingScore : 6.95 / 10 
+pre_instantFuelConsume = 30.00
+pre_f_accelX = 0.01
+pre_f_accelY = 0.00
+pre_rpm = 1860
+pre_runTime = 736
+pre_kph = 58
+pre_Data Updated
+0.34
+0.13
+0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 9.66
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.39 / 10 
+averageFuelConsume : 9.66
+safetyScore : 8.70 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.55 / 10 
+averagedrivingScore : 6.94 / 10 
+pre_instantFuelConsume = 9.66
+pre_f_accelX = 0.00
+pre_f_accelY = 0.00
+pre_rpm = 1013
+pre_runTime = 741
+pre_kph = 60
+pre_Data Updated
+0.34
+0.13
+-0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 8.24
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 8.24
+safetyScore : 8.71 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.55 / 10 
+averagedrivingScore : 6.94 / 10 
+pre_instantFuelConsume = 8.24
+pre_f_accelX = -0.00
+pre_f_accelY = -0.01
+pre_rpm = 1465
+pre_runTime = 745
+pre_kph = 54
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.33
+0.13
+-0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 9.09
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 16
+efficiencyScore : 4.37 / 10 
+averageFuelConsume : 9.09
+safetyScore : 8.75 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.56 / 10 
+averagedrivingScore : 6.93 / 10 
+pre_instantFuelConsume = 9.09
+pre_f_accelX = -0.00
+pre_f_accelY = -0.01
+pre_rpm = 2652
+pre_runTime = 766
+pre_kph = 69
+pre_Data Updated
+0.34
+0.13
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 4.41
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 14
+efficiencyScore : 4.38 / 10 
+averageFuelConsume : 4.41
+safetyScore : 8.75 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.57 / 10 
+averagedrivingScore : 6.93 / 10 
+pre_instantFuelConsume = 4.41
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 904
+pre_runTime = 771
+pre_kph = 35
+pre_Data Updated
+0.33
+0.13
+0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 15.16
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.13 / 10 
+averageFuelConsume : 15.16
+counter_KphRpm : 13
+safetyScore : 8.66 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.39 / 10 
+averagedrivingScore : 6.93 / 10 
+pre_instantFuelConsume = 15.16
+pre_f_accelX = 0.00
+pre_f_accelY = 0.00
+pre_rpm = 1813
+pre_runTime = 775
+pre_kph = 68
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.32
+0.13
+0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 6.96
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 15
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 6.96
+safetyScore : 8.69 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.55 / 10 
+averagedrivingScore : 6.93 / 10 
+pre_instantFuelConsume = 6.96
+pre_f_accelX = 0.01
+pre_f_accelY = -0.00
+pre_rpm = 999
+pre_runTime = 796
+pre_kph = 12
+pre_Data Updated
+0.32
+0.13
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 9.30
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 9.30
+counter_KphRpm : 14
+safetyScore : 8.60 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.50 / 10 
+averagedrivingScore : 6.92 / 10 
+pre_instantFuelConsume = 9.30
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 995
+pre_runTime = 801
+pre_kph = 77
+pre_Data Updated
+0.32
+0.13
+-0.01
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 10.87
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 10.87
+safetyScore : 8.61 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.51 / 10 
+averagedrivingScore : 6.92 / 10 
+pre_instantFuelConsume = 10.87
+pre_f_accelX = -0.01
+pre_f_accelY = -0.00
+pre_rpm = 2008
+pre_runTime = 805
+pre_kph = 30
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.33
+0.13
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 7.04
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 16
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 7.04
+safetyScore : 8.64 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.53 / 10 
+averagedrivingScore : 6.91 / 10 
+pre_instantFuelConsume = 7.04
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 721
+pre_runTime = 826
+pre_kph = 34
+pre_Data Updated
+0.32
+0.13
+-0.00
+-0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 4.64
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.42 / 10 
+averageFuelConsume : 4.64
+safetyScore : 8.65 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.54 / 10 
+averagedrivingScore : 6.91 / 10 
+pre_instantFuelConsume = 4.64
+pre_f_accelX = -0.00
+pre_f_accelY = -0.00
+pre_rpm = 1596
+pre_runTime = 831
+pre_kph = 16
+pre_Data Updated
+0.32
+0.12
+0.00
+0.00
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 6.76
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.43 / 10 
+averageFuelConsume : 6.76
+safetyScore : 8.66 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.54 / 10 
+averagedrivingScore : 6.90 / 10 
+pre_instantFuelConsume = 6.76
+pre_f_accelX = 0.00
+pre_f_accelY = 0.00
+pre_rpm = 1723
+pre_runTime = 835
+pre_kph = 21
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.33
+0.13
+0.01
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 9.82
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Rpm : 17
+efficiencyScore : 4.40 / 10 
+averageFuelConsume : 9.82
+counter_KphRpm : 15
+safetyScore : 8.60 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.50 / 10 
+averagedrivingScore : 6.90 / 10 
+pre_instantFuelConsume = 9.82
+pre_f_accelX = 0.01
+pre_f_accelY = 0.01
+pre_rpm = 2467
+pre_runTime = 856
+pre_kph = 61
+pre_Data Updated
+0.34
+0.15
+0.00
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 25.37
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.06 / 10 
+averageFuelConsume : 25.37
+safetyScore : 8.60 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.33 / 10 
+averagedrivingScore : 6.90 / 10 
+pre_instantFuelConsume = 25.37
+pre_f_accelX = 0.00
+pre_f_accelY = 0.01
+pre_rpm = 2681
+pre_runTime = 860
+pre_kph = 35
+pre_Data Updated
+0.33
+0.13
+0.00
+-0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 30.00
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 6.08 / 10 
+averageFuelConsume : 30.00
+counter_KphRpm : 16
+safetyScore : 8.52 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.30 / 10 
+averagedrivingScore : 6.91 / 10 
+pre_instantFuelConsume = 30.00
+pre_f_accelX = 0.00
+pre_f_accelY = -0.01
+pre_rpm = 1408
+pre_runTime = 865
+pre_kph = 74
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[MAIN] [MQTT] Socket open failed
+0.29
+0.14
+-0.00
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 7.13
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+counter_Fuel : 17
+counter_Rpm : 18
+efficiencyScore : 4.39 / 10 
+averageFuelConsume : 7.13
+safetyScore : 8.56 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.47 / 10 
+averagedrivingScore : 6.90 / 10 
+pre_instantFuelConsume = 7.13
+pre_f_accelX = -0.00
+pre_f_accelY = 0.01
+pre_rpm = 2233
+pre_runTime = 886
+pre_kph = 59
+pre_Data Updated
+0.27
+0.14
+0.00
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 4.26
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 4.39 / 10 
+averageFuelConsume : 4.26
+safetyScore : 8.56 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 6.48 / 10 
+averagedrivingScore : 6.90 / 10 
+pre_instantFuelConsume = 4.26
+pre_f_accelX = 0.00
+pre_f_accelY = 0.01
+pre_rpm = 1295
+pre_runTime = 890
+pre_kph = 25
+pre_Data Updated
+0.27
+0.12
+0.00
+0.01
+GYRO data updated
+ELM327 data representing.....
+instantFuelConsume : 17.64
+commandedAirFuelRatio : 1.00
+AFR : 14.70
+ELM327 Data Logging...
+efficiencyScore : 5.98 / 10 
+averageFuelConsume : 17.64
+counter_KphRpm : 17
+safetyScore : 8.48 / 10 
+Counter_Time : 0
+safetyScoreBuf : good
+drivingScore : 7.23 / 10 
+averagedrivingScore : 6.90 / 10 
+pre_instantFuelConsume = 17.64
+pre_f_accelX = 0.00
+pre_f_accelY = 0.01
+pre_rpm = 862
+pre_runTime = 895
+pre_kph = 73
+pre_Data Updated
+
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP
+[BG96] AT+QMTOPEN result[3]: Failed to activate PDP

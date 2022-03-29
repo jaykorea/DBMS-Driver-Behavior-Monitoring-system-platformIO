@@ -1,0 +1,209 @@
+[37m1c,len:1044
+load:0x4007[37m����101[37m2[37m4
+load:0x4[37m0[37m080400,len[37m:[37m5856
+entry[37m [37m0x400806a8[37m
+[37mI[37mniti[37ma[37mlizing I2C[37m [37mdevices...[37m
+[37mT[37me[37msting devic[37me[37m connectio[37mn[37ms...
+MPU60[37m5[37m0 connecti[37mo[37mn successfu[37ml[37m
+Initiali[37mz[37ming DMP...[37m
+[37m
+[37mR[37meading sens[37mo[37mrs for firs[37mt[37m time...
+[37m.[37m..[37m[37m
+3Seconds
+[37m
+[37mCalculatin[37mg[37m offsets...[37m[37m
+[37m
+[37mFIN[37mI[37mSHED!
+
+Se[37mn[37msor reading[37ms[37m with offs[37me[37mts:	
+[37mg[37myroX_[37mo[37mffset = -14[37m1[37m.00
+gyroY[37m_[37moffset = -1[37m0[37m5.00
+gyro[37mZ[37m_offset = [37m-[37m7.00
+accel[37mX[37m_offset = -[37m3[37m982.00
+ac[37mc[37melY_offset [37m=[37m 836.00
+a[37mc[37mcelZ_offset[37m [37m= 1157.00[37m
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+// [37m [37m         X [37mA[37mccel  Y Ac[37mc[37mel  Z Accel[37m [37m  X Gyro   [37mY[37m Gyro   Z [37mG[37myro
+//OFFSE[37mT[37mS    -3998[37m,[37m     864,  [37m [37m 1165,    [37m-[37m140,    -1[37m0[37m5,      -6
+[37mE[37mnabling DMP[37m.[37m..
+Enabli[37mn[37mg interrupt[37m [37mdetection [37m([37mArduino ext[37me[37mrnal inter[37mr[37mupt 13)...[37m
+[37mDMP ready![37m [37mWaiting for[37m [37mfirst inte[37mr[37mrupt...
+[37mE[37mL[37mM327 Conne[37mc[37mted
+[37mI[37mniti[37ma[37mlizing SD c[37ma[37mrd...[37mc[37ma[37mrd i[37mn[37mitialized.[37m[37m
+[37mL[37moggi[37mn[37mg to: LOG0[37m1[37m000.CSV
+[37mF[37mree spa[37mc[37me KB: 29645312
+Free space in MB: 28950
+[37m[37m
+[37m[MAIN] Wa[37mi[37mting for Ca[37mt[37m.M1 Module[37m Ready...
+[37m[37m
+[M[37mAIN] BG96 a[37ml[37mready avail[37ma[37mble
+
+[MA[37mI[37mN] System I[37mn[37mit Complet[37me[37m
+
+[MAIN] [37mW[37mIZnet IoT [37mS[37mhield for A[37mr[37mduino
+[MA[37mI[37mN] LTE Cat.[37mM[37m1 Version
+[37m[[37mMAIN] ====[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m=========[37m
+[37m[MAIN] >> [37mT[37marget Board[37m:[37m WIoT-QC01[37m [37m(Quectel BG[37m9[37m6)
+[MAIN] [37m>[37m> Sample C[37mo[37mde:  AWS Io[37mT[37m Pub/Sub ([37mB[37muilt-in TLS[37m)[37m
+[MAIN] =[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m=
+
+[BG96][37m [37mEcho Off: [37mS[37muccess
+
+[[37mB[37mG96] USIM [37mS[37mtatus: READ[37mY[37m
+
+[BG96] [37mN[37metwork Sta[37mt[37mus: Attach[37m
+[37m[37m
+[BG96] Echo Off: Success
+[37m[37m
+[BG9[37m6[37m] USIM Status: READY
+
+[BG96] Networ[37mk[37m Status: At[37mtach
+
+[BG[37m9[37m6] Checking[37m [37mAPN...
+[37m[37m
+[37m[BG96] APN [37mC[37mheck Done
+[37m[37m
+[MAIN] [FILE] Save and check AWS [37mc[37mertificate[37ms[37m
+[37m[37m
+[[37mB[37mG96] PDP C[37montext Activ[37ma[37mtion: Succ[37mess
+[37m[37m
+[M[37mA[37mIN] [FILE][37m [37mErase BG96 [37mstorage com[37mp[37mlete
+[37m[37m
+[37m[BG96] F[37mile saved: A[37mm[37mazonRootCA[37m1[37m.pem, 1188,[37m [37m2d13
+[37m[37m
+[BG9[37m6[37m] File save[37md: certific[37ma[37mte.pem.crt,[37m [37m1224, 7a0f[37m[37m
+[37m[37m
+[BG[37m9[37m6] File sa[37mv[37med: private[37m.[37mpem.key, 1[37m6[37m79, 7a50
+[37m[37m
+[M[37mA[37mIN] [SSL/TL[37mS[37m] Set BG96[37m [37mSSL/TLS con[37mf[37miguration[37m
+[37m[37m
+[37m[MAIN] [[37mM[37mQTT] Conne[37mc[37mt to AWS Io[37mT[37m "a3q2g5zr[37mb[37mgdsc1-ats.i[37mo[37mt.us-east-[37m1[37m.amazonaws.[37mc[37mom:8883"
+[37m[37m
+[37m[BG96] G[37mP[37mS Power: O[37mn[37m
+
+[MAIN][37m [37mGPS On
+[37m0[37m.[37m01
+-0.04[37m
+[37m0.01
+0.00[37m
+[37mGYRO data [37mu[37mpdated
+Dis[37mt[37minguishing[37m [37mPowertrain[37m
+[37mL[37mogging to: LOG01001.[37mC[37mSV<<------[37m-[37m-----------[37m-[37m--------Cr[37me[37mated New Fi[37ml[37me...
+[37mE[37mR[37mR[37mOR: ELM_TIM[37mE[37mOUT
+ELM_E[37mR[37mROR LOGGED[37m
+[37m[37m
+[37m[MAIN] [[37mM[37mQTT] Socke[37mt[37m open succe[37ms[37ms
+-0[37m.[37m02
+0.00
+[37m-[37m0.00
+0.00[37m
+[37mGYRO data [37mu[37mpdated
+[37me[37mt[37ms Jun  8 2[37m0[37m16 00:22:57[37m[37m
+
+rst:0x1 [37m([37mPOWERON_RES[37mE[37mT),boot:0x[37m1[37m7 (SPI_FAST[37m_[37mFLASH_BOOT)[37m[37m
+configsip:[37m [37m0, SPIWP:0x[37me[37me
+clk_drv[37m:[37m0x00,q_drv:[37m0[37mx00,d_drv:0[37mx[37m00,cs0_drv:[37m0[37mx00,hd_drv[37m:[37m0x00,wp_drv[37m:[37m0x00
+mode:[37mD[37mIO, clock [37md[37miv:1
+load:[37m0[37mx3fff0018,l[37me[37mn:4
+load:0[37mx[37m3fff001c,le[37mn[37m:1044
+load[37m:[37m0x40078000[37m,len:10124
+[37ml[37moad:0x40080[37m4[37m00,len:5856[37m[37m
+entry 0x4[37m0[37m0806a8
+[37mI[37mn[37mitializ[37mi[37mng I2C devi[37mc[37mes...
+[37mT[37me[37mstin[37mg[37m device co[37mn[37mnections...[37m[37m
+MPU6050 c[37mo[37mnnection su[37mc[37mcessful
+I[37mn[37mitializing [37mD[37mMP...
+[37m
+[37mReading sensors for first ti[37mme...
+[37m.[37m..
+3S[37me[37mconds
+
+Cal[37mc[37mulating of[37mf[37msets...
+[37m
+[37mF[37mINISHE[37mD[37m!
+
+Sensor [37mr[37meadings wi[37mt[37mh offsets:	[37m[37m
+[37mg[37my[37mroX_offse[37mt[37m = -144.00[37m[37m
+gyroY_offs[37me[37mt = -108.0[37m0[37m
+gyroZ_off[37ms[37met = -10.0[37m0[37m
+accelX_of[37mf[37mset = -399[37m2[37m.00
+accel[37mY[37m_offset = 8[37m3[37m7.00
+accel[37mZ[37m_offset = [37m1[37m167.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+//      [37m [37m    X Acce[37ml[37m  Y Accel  [37mZ[37m Accel   X[37m [37mGyro   Y Gy[37mr[37mo   Z Gyro
+[37m/[37m/OFFSETS  [37m [37m -4004,    [37m [37m869,    11[37m7[37m5,    -143,[37m [37m   -106,  [37m [37m   -8
+Enabl[37mi[37mng DMP...[37m
+[37mEnabling in[37mt[37merrupt det[37me[37mction (Ardu[37mi[37mno externa[37ml[37m interrupt [37m1[37m3)...
+DMP[37m [37mready! Wait[37mi[37mng for fir[37ms[37mt interrupt[37m.[37m..
+[37mE[37mLM32[37m7[37m Connected[37m
+[37mI[37mn[37mitializi[37mn[37mg SD card.[37m.[37m.[37mc[37ma[37mrd initi[37ma[37mlized.
+[37mL[37mogging t[37mo[37m: LOG01002.[37mC[37mSV
+[37mF[37mr[37mee spac[37me[37m KB: 29645[37m2[37m48
+Free sp[37ma[37mce in MB: [37m2[37m8950
+[37m[37m
+[M[37mA[37mIN] Waiting[37m [37mfor Cat.M1[37m [37mModule Read[37my[37m...
+[37m[37m
+[37m[MAIN] B[37mG[37m96 already [37ma[37mvailable
+[37m[37m
+[MAIN] Sys[37mt[37mem Init Com[37mp[37mlete
+
+[M[37mA[37mIN] WIZnet [37mI[37moT Shield [37mf[37mor Arduino[37m
+[37m[MAIN] LTE[37m [37mCat.M1 Vers[37mion
+[MAIN][37m [37m===========[37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m===
+[MAIN][37m [37m>> Target [37mB[37moard: WIoT-QC01 (Quect[37me[37ml BG96)
+[M[37mA[37mIN] >> Sam[37mp[37mle Code:  A[37mW[37mS IoT Pub/S[37mu[37mb (Built-i[37mn[37m TLS)
+[MAI[37mN[37m] ========[37m=[37m======================[37m=[37m===========[37m=[37m=====
+
+[[37mB[37mG96] Echo O[37mf[37mf: Success[37m[37m
+
+[BG96] U[37mS[37mIM Status:[37m [37mREADY
+
+[B[37mG[37m96] Networ[37mk[37m Status: At[37mt[37mach
+[37m[37m
+[[37mB[37mG96] Echo O[37mf[37mf: Success[37m[37m
+[37m[37m
+[BG96] [37mU[37mSIM Status:[37m [37mREADY
+[37m[37m
+[37m[[37mBG96] Netw[37mo[37mrk Status: [37mA[37mttach
+
+[[37mB[37mG96] Checki[37mn[37mg APN...
+[37m[37m
+[BG96][37m [37mAPN Check D[37mo[37mne
+
+[MAI[37mN[37m] [FILE] Sa[37mv[37me and chec[37mk[37m AWS certif[37mi[37mcates
+[37m[37m
+[BG[37m9[37m6] PDP Context Activat[37mion: Success[37m[37m
+[37m[37m
+[MAIN] [37m[[37mFILE] Erase BG96 stor[37ma[37mge complete[37m[37m
+[37m[37m
+[37m[BG96] Fi[37mle saved: Am[37ma[37mzonRootCA1[37m.[37mpem, 1188, [37m2[37md13
+[37m[37m
+[37m[BG96] Fi[37ml[37me saved: ce[37mr[37mtificate.p[37me[37mm.crt, 122[37m4[37m, 7a0f
+[37m[37m
+[37m[BG96] File [37ms[37maved: priv[37ma[37mte.pem.key,[37m [37m1679, 7a50[37m[37m
+[37m[37m
+[37m[MAIN] [37m[[37mSSL/TLS] S[37me[37mt BG96 SSL/[37mT[37mLS configu[37mr[37mation
+[37m[37m
+[37m[M[37mA[37mIN] [MQTT][37m [37mConnect to [37mA[37mWS IoT "a3[37mq[37m2g5zrbgdsc1[37m-[37mats.iot.us[37m-[37meast-1.amaz[37mo[37mnaws.com:8[37m8[37m83"
+[37m[37m
+[37m[B[37mG[37m96] GPS Po[37mw[37mer: On
+
+[[37mM[37mAIN] GPS On[37m[37m
+[37m-[37m0[37m.06
+0.10
+[37m-[37m0.00
+-0.0[37m1[37m
+GYRO data[37m [37mupdated
+Di[37ms[37mtinguishin[37mg[37m Powertrain[37m[37m
+[37mL[37mogging t[37mo[37m: LOG01003[37m.[37mCSV<<------[37m-[37m----------[37m-[37m---------Cr[37me[37mated New F[37mi[37mle...
+[37mE[37mR[37mROR: E[37mL[37mM_TIMEOUT
+[37mE[37mLM_ERROR L[37mO[37mGGED
+[37m[37m
+[37m[MAIN][37m [37m[MQTT] Sock[37me[37mt open suc[37mc[37mess
+-0[37m.[37m02
+0.06
+0[37m.[37m00
+-0.01[37m
+[37mGYRO data u[37mp[37mdated

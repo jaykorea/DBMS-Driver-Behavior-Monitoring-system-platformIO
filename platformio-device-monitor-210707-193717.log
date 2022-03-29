@@ -1,0 +1,170 @@
+[37mI[37mn[37mitializing I[37m2[37mC devices.[37m.[37m.
+[37mT[37me[37msting de[37mv[37mice connec[37mt[37mions...
+MP[37mU[37m6050 connec[37mt[37mion succes[37ms[37mful
+Initia[37ml[37mizing DMP.[37m.[37m.
+[37m
+[37mR[37meading se[37mn[37msors for f[37mi[37mrst time...[37m[37m
+[37m.[37m.[37m.
+3Secon[37md[37ms
+
+Calcula[37mt[37ming offsets[37m.[37m..
+[37m
+[37mF[37mINISHED!
+
+[37mS[37mensor read[37mi[37mngs with of[37mf[37msets:	
+[37mg[37myro[37mX[37m_offset = [37m-[37m143.00
+gyr[37mo[37mY_offset =[37m [37m-104.00
+gy[37mr[37moZ_offset [37m=[37m -7.00
+acc[37melX_offset [37m=[37m -3990.00
+[37maccelY_offs[37me[37mt = 835.00[37m
+[37maccelZ_off[37ms[37met = 1167.0[37m0[37m
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+[37m/[37m/          [37m [37mX Accel  Y [37mA[37mccel  Z Ac[37mc[37mel   X Gyro[37m [37m  Y Gyro  [37m [37mZ Gyro
+//OF[37mF[37mSETS    -4[37m0[37m02,     865[37m,[37m    1175, [37m [37m  -143,    [37m-[37m104,      [37m-6
+Enabling [37mD[37mMP...
+Ena[37mb[37mling interr[37mu[37mpt detecti[37mon (Arduino [37me[37mxternal in[37mt[37merrupt 13).[37m.[37m.
+DMP rea[37md[37my! Waiting [37mf[37mor first in[37mt[37merrupt...[37m
+[37mE[37mL[37mM327 Co[37mn[37mnected
+[37mI[37mni[37mt[37mializing S[37mD[37m card...[37mc[37mar[37md[37m initializ[37me[37md.
+[37mL[37mo[37mggin[37mg[37m to: LOG00[37m9[37m69.CSV
+[37mF[37mr[37mee space K[37mB[37m: 29646304[37m[37m
+Free space[37m [37min MB: 289[37m5[37m1
+[37m[37m
+[37m[MAIN][37m [37mWaiting fo[37mr[37m Cat.M1 Mod[37mu[37mle Ready..[37m.[37m
+[37m[37m
+[37m[MAIN] BG[37m9[37m6 already [37ma[37mvailable
+[37m
+[37m[MAIN] Sys[37mt[37mem Init Com[37mp[37mlete
+
+[M[37mA[37mIN] WIZnet [37mI[37moT Shield [37mf[37mor Arduino[37m
+[37m[MAIN] LTE[37m [37mCat.M1 Vers[37mi[37mon
+[MAIN] [37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m==
+[MAIN][37m [37m>> Target B[37mo[37mard: WIoT-[37mQ[37mC01 (Quecte[37ml[37m BG96)
+[M[37mA[37mIN] >> Sam[37mp[37mle Code:  A[37mW[37mS IoT Pub/S[37mu[37mb (Built-i[37mn[37m TLS)
+[MAI[37mN[37m] ========[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m=====
+
+[[37mB[37mG96] Echo O[37mf[37mf: Success[37m
+[37m
+[BG96] U[37mS[37mIM Status: [37mR[37mEADY
+
+[B[37mG[37m96] Network[37m [37mStatus: At[37mt[37mach
+[37m[37m
+[37m[BG96] Echo [37mO[37mff: Succes[37ms[37m
+[37m[37m
+[BG96[37m][37m USIM Statu[37ms[37m: READY
+[37m[37m
+[37m[BG96] Ne[37mt[37mwork Statu[37ms[37m: Attach
+[37m
+[37m[BG96] Che[37mc[37mking APN...[37m[37m
+[37m[37m
+[37m[BG9[37m6[37m] APN Chec[37mk[37m Done
+
+[M[37mA[37mIN] [FILE][37m [37mSave and ch[37me[37mck AWS cer[37mt[37mificates
+[37m[37m
+[37m[BG96] PDP[37m Context Activation: Su[37mc[37mcess
+[37m[37m
+[37m[MAIN] [FI[37mL[37mE] Erase B[37mG[37m96 storage complete
+[37m[37m
+[37m[BG96] [37mF[37mile saved: [37mA[37mmazonRootC[37mA[37m1.pem, 1188, 2d13
+[37m[37m
+[BG9[37m6[37m] File save[37md[37m: certific[37ma[37mte.pem.crt,[37m [37m1224, 7a0f[37m[37m
+[37m[37m
+[37m[BG96[37m][37m File saved[37m:[37m private.p[37me[37mm.key, 1679[37m,[37m 7a50
+[37m[37m
+[37m[MAIN] [SS[37mL[37m/TLS] Set [37mB[37mG96 SSL/TLS[37m [37mconfigurati[37mo[37mn
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Connect t[37mo[37m AWS IoT "[37ma[37m3q2g5zrbgds[37mc[37m1-ats.iot.[37mu[37ms-east-1.am[37ma[37mzonaws.com[37m:[37m8883"
+[37m[37m
+[B[37mG[37m96] GPS Po[37mw[37mer: On
+
+[[37mM[37mAIN] GPS On[37m[37m
+[37m0[37m.[37m04
+-0.02[37m
+[37m0.00
+0.00[37m
+[37mGYRO data u[37mp[37mdated
+Dis[37mt[37minguishing [37mP[37mowertrain[37m
+[37mL[37mogging to: LOG00[37m9[37m70.CSV<<---[37m-[37m----------[37m-[37m-----------[37m-[37mCreated Ne[37mw[37m File...
+[37mE[37mRROR[37m:[37m ELM_TIMEOUT
+ELM_ERRO[37mR[37m LOGGED
+[37m[37m
+[37m[MAIN] [MQ[37mT[37mT] Socket o[37mp[37men success[37m
+[37m-[37m0.0[37m1[37m
+-0.04
+-0[37m.[37m01
+-0.00[37m
+[37mGYRO data u[37mp[37mdated
+[37mL[37moggin[37mg[37m to: LOG00[37m9[37m71.CSV<<---[37m-[37m----------[37m-[37m-----------[37m-[37mCreated Ne[37mw[37m File...
+[37mE[37mLM_E[37mR[37mROR LOGGED[37m[37m
+[37m[37m
+[MAIN] [37m[[37mMQTT] Conne[37mc[37mted, Clien[37mt[37mID: "car-d[37ma[37mtaloggera"[37m
+[37m[37m
+[37m[MA[37mI[37mN] [MQTT] [37mT[37mopic subscr[37mi[37mbed: "$aws[37m/[37mthings/car-[37md[37mataloggera[37m/[37mshadow/upda[37mt[37me/accepted[37m"[37m
+[37m[37m
+[37m[MAIN][37m [37m[MQTT] Mess[37ma[37mge publish[37med: "$aws/th[37mi[37mngs/car-da[37mt[37maloggera/s[37mh[37madow/update[37m"[37m, Message:[37m [37m{"state":{"[37mr[37meported":{"[37mn[37mame":"car-[37md[37mataloggera"[37m,[37m"enabled":[37m"[37mUNKNOWN_ERR[37mO[37mR","geo":{[37m"[37mlatitude":"[37m3[37m7.40002","[37ml[37mongitude":"[37m1[37m26.94254"}[37m}[37m}}
+[37m[37m
+[MAIN] [MQTT] Me[37ms[37msage publi[37ms[37mhed: "dt/ca[37mr[37mdata/logge[37mr[37m/car-datalo[37mg[37mgera/car-da[37mt[37ma", Messag[37me[37m: {"efficie[37mn[37mcyMark": 0[37m.[37m000000,"saf[37me[37mtyMark": 0[37m.[37m000000,"dri[37mv[37mingMark": [37m1[37m0.000000,"a[37mv[37meragedrivi[37mn[37mgMark": 10.[37m0[37m00000,"rpm[37m"[37m: 0,"kph": [37m0[37m,"engineLo[37ma[37md": 0,"runT[37mi[37mme": 0,"fue[37ml[37mType": 0,"[37mo[37milTemp": 0,[37m"[37mrelativePe[37md[37malPos": 0,[37m"[37mthrottle": [37m0[37m,"relative[37mT[37mhrottle": 0[37m,[37m"intakeAirT[37me[37mmp": 0,"fu[37me[37mlLevel": 0,[37m"[37mmafRate": [37m0[37m.000000,"ob[37md[37mStandards"[37m:[37m 0,"distTra[37mv[37melWithMIL"[37m:[37m 0,"distSin[37mc[37meCodesClea[37mr[37med": 0,"ctr[37ml[37mModVoltage[37m"[37m: 0,"ambien[37mt[37mAirTemp": [37m0[37m,"manifoldP[37mr[37messure": 0,[37m"[37mengineCool[37ma[37mntTemp": 0,[37m"[37mcommandedT[37mh[37mrottleActu[37ma[37mtor": 0.000[37m0[37m00,"timest[37ma[37mmp": 123456[37m7[37m8}
+[37m-[37m0.0[37m2[37m
+-0.06
+-0[37m.[37m01
+0.00
+[37mG[37mYRO data up[37md[37mated
+[37mE[37mLM_ERROR LOGG[37mE[37mD
+[37m[37m
+[M[37mA[37mIN] [MQTT] [37mT[37mopic subsc[37mr[37mibed: "$aws[37m/[37mthings/car-[37md[37mataloggera/shadow/update/accepted"
+[37m[37m
+[MA[37mI[37mN] [MQTT] [37mM[37message pub[37ml[37mished: "$aw[37ms[37m/things/ca[37mr[37m-datalogger[37ma[37m/shadow/up[37md[37mate", Messa[37mg[37me: {"state"[37m:[37m{"reported[37m"[37m:{"name":"c[37ma[37mr-datalogg[37me[37mra","enable[37md[37m":"UNKNOWN[37m_[37mERROR","geo[37m"[37m:{"latitud[37me[37m":"37.40002[37m"[37m,"longitud[37me[37m":"126.9425[37m4[37m"}}}}
+[37m[37m
+[37m[MAIN[37m][37m [MQTT] Me[37ms[37msage publis[37mh[37med: "dt/ca[37mr[37mdata/logger[37m/[37mcar-datalo[37mg[37mgera/car-da[37mt[37ma", Messag[37me[37m: {"efficie[37mn[37mcyMark": 0[37m.[37m000000,"saf[37me[37mtyMark": 0[37m.[37m000000,"dri[37mv[37mingMark": 1[37m0[37m.000000,"a[37mv[37meragedrivin[37mg[37mMark": 10.[37m0[37m00000,"rpm"[37m:[37m 0,"kph": [37m0[37m,"engineLo[37ma[37md": 0,"runT[37mi[37mme": 0,"fue[37ml[37mType": 0,"[37mo[37milTemp": 0,[37m"[37mrelativePe[37md[37malPos": 0,"[37mt[37mhrottle": [37m0[37m,"relativeT[37mh[37mrottle": 0[37m,[37m"intakeAirT[37me[37mmp": 0,"fu[37me[37mlLevel": 0,[37m"[37mmafRate": 0[37m.[37m000000,"ob[37md[37mStandards"[37m:[37m 0,"distTra[37mv[37melWithMIL"[37m:[37m 0,"distSin[37mc[37meCodesClea[37mr[37med": 0,"ctr[37ml[37mModVoltage"[37m:[37m 0,"ambien[37mt[37mAirTemp": 0[37m,[37m"manifoldP[37mr[37messure": 0,[37m"[37mengineCool[37ma[37mntTemp": 0,[37m"[37mcommandedT[37mh[37mrottleActua[37mt[37mor": 0.000[37m0[37m00,"timesta[37mm[37mp": 123456[37m7[37m8}
+-0.04
+[37m-[37m0.05
+0.00[37m[37m
+-0.00
+GYR[37mO[37m data upda[37mt[37med
+[37mE[37mL[37mM_ERROR [37mL[37mOGGED
+[37m[37m
+[[37mM[37mAIN] [MQTT[37m][37m Topic subs[37mc[37mribed: "$aw[37ms[37m/things/ca[37mr[37m-datalogge[37mr[37ma/shadow/up[37md[37mate/accept[37me[37md"
+[37m[37m
+[MAI[37mN[37m] [MQTT] Me[37ms[37msage publis[37mh[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/[37ms[37mhadow/updat[37me[37m", Message[37m:[37m {"state":{[37m"[37mreported":[37m{[37m"name":"car[37m-[37mdatalogger[37ma[37m","enabled"[37m:[37m"UNKNOWN_E[37mR[37mROR","geo":[37m{[37m"latitude":[37m"[37m37.40002",[37m"[37mlongitude":[37m"[37m126.94254"[37m}[37m}}}
+[37m[37m
+[37m[MAI[37mN[37m] [MQTT] Me[37ms[37msage publis[37mh[37med: "dt/ca[37mr[37mdata/logger[37m/[37mcar-datalo[37mg[37mgera/car-d[37ma[37mta", Messag[37me[37m: {"effici[37me[37mncyMark": 0[37m.[37m000000,"saf[37me[37mtyMark": 0[37m.[37m000000,"dri[37mv[37mingMark": [37m1[37m0.000000,"a[37mv[37meragedrivi[37mn[37mgMark": 10.[37m0[37m00000,"rpm[37m"[37m: 0,"kph": [37m0[37m,"engineLo[37ma[37md": 0,"runT[37mi[37mme": 0,"fu[37me[37mlType": 0,"[37mo[37milTemp": 0[37m,[37m"relativePe[37md[37malPos": 0,"[37mt[37mhrottle": [37m0[37m,"relativeT[37mh[37mrottle": 0[37m,[37m"intakeAir[37mT[37memp": 0,"fu[37me[37mlLevel": 0[37m,[37m"mafRate": [37m0[37m.000000,"ob[37md[37mStandards"[37m:[37m 0,"distTra[37mv[37melWithMIL"[37m:[37m 0,"distSin[37mc[37meCodesClea[37mr[37med": 0,"ctr[37ml[37mModVoltage[37m"[37m: 0,"ambien[37mt[37mAirTemp": [37m0[37m,"manifoldP[37mr[37messure": 0[37m,[37m"engineCool[37ma[37mntTemp": 0[37m,[37m"commandedT[37mh[37mrottleActua[37mt[37mor": 0.000[37m0[37m00,"timest[37ma[37mmp": 123456[37m7[37m8}
+[37m0[37m.[37m01
+-0.[37m0[37m6
+0.01
+0.[37m0[37m0
+GYRO da[37mt[37ma updated
+[37mE[37mL[37mM_ERRO[37mR[37m LOGGED
+[37m-[37m0.[37m0[37m1
+-0.02
+0[37m.[37m00
+0.01
+[37mG[37mYRO data up[37md[37mated
+[37mE[37mLM_[37mE[37mRROR LOGGED[37m[37m
+[37mC[37mounte[37mr[37m Reset
+[37m[37m
+[37m[[37mM[37mAIN] [MQTT][37m [37mTopic subs[37mc[37mribed: "$aw[37ms[37m/things/ca[37mr[37m-datalogger[37ma[37m/shadow/up[37md[37mate/accepte[37md[37m"
+[37m[37m
+[37m[MAI[37mN[37m] [MQTT] Me[37ms[37msage publi[37ms[37mhed: "$aws/[37mt[37mhings/car-[37md[37mataloggera/[37ms[37mhadow/updat[37me[37m", Message[37m:[37m {"state":{[37m"[37mreported":[37m{[37m"name":"ca[37mr[37m-datalogger[37ma[37m","enabled[37m"[37m:"UNKNOWN_E[37mR[37mROR","geo":[37m{[37m"latitude"[37m:[37m"37.40002",[37m"[37mlongitude"[37m:[37m"126.94254"[37m}[37m}}}
+[37m[37m
+[MA[37mI[37mN] [MQTT] M[37me[37mssage publ[37mi[37mshed: "dt/c[37ma[37mrdata/logg[37me[37mr/car-datal[37mo[37mggera/car-[37md[37mata", Messa[37mg[37me: {"effic[37mi[37mencyMark": [37m0[37m.000000,"s[37ma[37mfetyMark": [37m0[37m.000000,"d[37mr[37mivingMark":[37m [37m7.500000,"[37ma[37mveragedrivi[37mn[37mgMark": 10.[37m0[37m00000,"rpm[37m"[37m: 0,"kph": [37m0[37m,"engineLoad": 0,"runTime": 0,"fu[37me[37mlType": 0,"[37mo[37milTemp": 0[37m,[37m"relativePe[37md[37malPos": 0,[37m"[37mthrottle": [37m0[37m,"relative[37mT[37mhrottle": 0[37m,[37m"intakeAir[37mT[37memp": 0,"fu[37me[37mlLevel": 0[37m,[37m"mafRate": [37m0[37m.000000,"o[37mb[37mdStandards"[37m:[37m 0,"distTr[37ma[37mvelWithMIL"[37m:[37m 0,"distSi[37mn[37mceCodesClea[37mr[37med": 0,"ctr[37ml[37mModVoltage[37m"[37m: 0,"ambien[37mt[37mAirTemp": [37m0[37m,"manifoldP[37mr[37messure": 0[37m,[37m"engineCool[37ma[37mntTemp": 0[37m,[37m"commanded[37mT[37mhrottleActu[37ma[37mtor": 0.000[37m0[37m00,"timest[37ma[37mmp": 123456[37m7[37m8}
+0.01
+[37m-[37m0.04
+0.00[37m
+[37m0.00
+GYRO[37m [37mdata update[37md[37m
+[37mE[37mL[37mM_ERROR [37mL[37mOGGED
+[37mC[37mo[37munter [37mR[37meset
+[37m[37m
+[37m[MAIN] [MQTT[37m][37m Topic sub[37ms[37mcribed: "$a[37mw[37ms/things/c[37ma[37mr-datalogge[37mr[37ma/shadow/u[37mp[37mdate/accept[37me[37md"
+[37m[37m
+[37m[MAI[37mN[37m] [MQTT] Me[37ms[37msage publi[37ms[37mhed: "$aws/[37mt[37mhings/car-[37md[37mataloggera/[37ms[37mhadow/updat[37me[37m", Message[37m:[37m {"state":[37m{[37m"reported":[37m{[37m"name":"ca[37mr[37m-datalogger[37ma[37m","enabled[37m"[37m:"UNKNOWN_E[37mR[37mROR","geo":[37m{[37m"latitude"[37m:[37m"37.40002",[37m"[37mlongitude"[37m:[37m"126.94254"[37m}[37m}}}
+[37m[37m
+[37m[MA[37mI[37mN] [MQTT] [37mM[37message publ[37mi[37mshed: "dt/[37mc[37mardata/logg[37me[37mr/car-data[37ml[37moggera/car-[37md[37mata", Mess[37ma[37mge: {"effic[37mi[37mencyMark":[37m [37m0.000000,"s[37ma[37mfetyMark":[37m [37m0.000000,"d[37mr[37mivingMark":[37m [37m7.500000,"[37ma[37mveragedriv[37mi[37mngMark": 10[37m.[37m000000,"rp[37mm[37m": 0,"kph":[37m [37m0,"engineL[37mo[37mad": 0,"run[37mT[37mime": 0,"fu[37me[37mlType": 0,[37m"[37moilTemp": 0[37m,[37m"relativeP[37me[37mdalPos": 0,[37m"[37mthrottle":[37m [37m0,"relative[37mT[37mhrottle": [37m0[37m,"intakeAi[37mr[37mTemp": 0,"f[37mu[37melLevel": 0[37m,[37m"mafRate":[37m [37m0.000000,"o[37mb[37mdStandards[37m"[37m: 0,"distTr[37ma[37mvelWithMIL[37m"[37m: 0,"distSi[37mn[37mceCodesCle[37ma[37mred": 0,"ct[37mr[37mlModVoltag[37me[37m": 0,"ambie[37mn[37mtAirTemp":[37m [37m0,"manifold[37mP[37mressure": 0[37m,[37m"engineCoo[37ml[37mantTemp": 0[37m,[37m"commanded[37mT[37mhrottleActu[37ma[37mtor": 0.00[37m0[37m000,"times[37mt[37mamp": 12345[37m6[37m78}
+-0.00[37m
+[37m-0.06
+0.0[37m0[37m
+0.00
+GYR[37mO[37m data upda[37mt[37med
+[37mE[37mL[37mM_ERROR[37m [37mLOGGED
+[37mC[37mo[37munter R[37me[37mset

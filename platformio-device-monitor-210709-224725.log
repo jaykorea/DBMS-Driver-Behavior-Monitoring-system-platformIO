@@ -1,0 +1,2761 @@
+[37mI[37mnitializing[37m [37mI2C devices[37m.[37m..
+[37mT[37mesting [37md[37mevice conne[37mc[37mtions...
+[37mM[37mPU6050 conn[37me[37mction succ[37me[37mssful
+Init[37mi[37malizing DM[37mP[37m...
+[37m
+[37mReading [37ms[37mensors for [37mf[37mirst time.[37m.[37m.
+[37m.[37m..
+3Seco[37mn[37mds
+
+Calcu[37ml[37mating offse[37mt[37ms...
+[37m
+[37mFINISHED![37m
+[37m
+Sensor re[37ma[37mdings with [37mo[37mffsets:	
+[37mg[37myroX_offset[37m [37m= -139.00
+[37mg[37myroY_offse[37mt[37m = -106.00[37m
+[37mgyroZ_offs[37me[37mt = -6.00
+[37ma[37mccelX_offs[37me[37mt = -3927.0[37m0[37m
+accelY_of[37mf[37mset = 826.[37m0[37m0
+accelZ_o[37mf[37mfset = 116[37m7[37m.00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+[37m//        [37m [37m  X Accel  [37mY[37m Accel  Z A[37mc[37mcel   X Gy[37mr[37mo   Y Gyro [37m [37m Z Gyro
+//[37mO[37mFFSETS    -[37m3[37m943,     8[37m5[37m6,    1175,[37m [37m   -138,  [37m [37m -106,     [37m [37m-5
+Enablin[37mg[37m DMP...
+En[37ma[37mbling inte[37mr[37mrupt detect[37mi[37mon (Arduin[37mo[37m external i[37mn[37mterrupt 13)[37m.[37m..
+DMP re[37ma[37mdy! Waitin[37mg[37m for first [37mi[37mnterrupt..[37m.[37m
+[37mE[37mLM327 C[37mo[37mnnected
+[37mI[37mnitializing [37mS[37mD card...[37mc[37ma[37mrd initiali[37mz[37med.
+[37mL[37mogging to: LO[37mG[37m01487.CSV
+[37mF[37mr[37mee space[37m [37mKB: 296286[37m4[37m0
+Free spa[37mc[37me in MB: 2[37m8[37m934
+[37m[37m
+[37m[MAIN] Wai[37mt[37ming for Cat[37m.[37mM1 Module [37mR[37meady...
+[37m[37m
+[MAIN] BG96 already available
+
+[MAIN] System Init Complete[37m
+
+[BG96] Ec[37mh[37mo Off: Suc[37mc[37mess
+
+[BG[37m9[37m6] USIM Sta[37mt[37mus: READY
+[37m
+[BG96] Network Status[37m:[37m Attach
+[37m[37m
+[BG96[37m][37m Echo Off:[37m [37mSuccess
+[37m[37m
+[37m[BG96] USIM[37m [37mStatus: REA[37mD[37mY
+[37m[37m
+[BG[37m9[37m6] Network[37m [37mStatus: Att[37ma[37mch
+
+[BG9[37m6[37m] Checking [37mA[37mPN...
+[37m[37m
+[37m[BG96] A[37mP[37mN Check Don[37me[37m
+
+[MAIN] [FILE] Save[37m and check AWS certific[37ma[37mtes
+[37m[37m
+[37m[BG96] PD[37mP[37m Context Ac[37mt[37mivation: S[37mu[37mccess
+[37m[37m
+[37m[MA[37mI[37mN] [FILE] E[37mr[37mase BG96 s[37mt[37morage compl[37me[37mte
+[37m[37m
+[37m[BG96][37m [37mFile saved:[37m [37mAmazonRootC[37mA[37m1.pem, 118[37m8[37m, 2d13
+[37m[37m
+[37m[BG96] Fil[37me[37m saved: ce[37mr[37mtificate.pe[37mm[37m.crt, 1224[37m,[37m 7a0f
+[37m[37m
+[37m[BG96] Fi[37ml[37me saved: p[37mr[37mivate.pem.[37mk[37mey, 1679, 7[37ma[37m50
+[37m[37m
+[MA[37mIN] [SSL/TLS[37m][37m Set BG96 [37mS[37mSL/TLS conf[37mi[37mguration
+[37m[37m
+[37m[MAI[37mN[37m] [MQTT] C[37mo[37mnnect to AW[37mS[37m IoT "a3q2g[37m5[37mzrbgdsc1-a[37mt[37ms.iot.us-ea[37ms[37mt-1.amazon[37ma[37mws.com:8883[37m"[37m
+[37m[37m
+[BG[37m9[37m6] GPS Pow[37me[37mr: On
+
+[M[37mA[37mIN] GPS On[37m[37m
+0.19
+-0.[37m0[37m1
+-0.01
+0[37m.[37m00
+GYRO d[37ma[37mta updated[37m
+[37mDistinguish[37mi[37mng Powertr[37ma[37min
+[37mL[37mogging to: LOG01488.CSV<<------------------------[37m---Created N[37me[37mw File...[37m
+[37mE[37mRROR: [37mELM_TIMEOUT[37m
+[37mELM_ERROR [37mL[37mOGGED
+[37m[37m
+[MAIN] [MQT[37mT[37m] Socket o[37mp[37men success[37m
+[37m0[37m.06
+0[37m.[37m01
+-0.01
+[37m-[37m0.00
+GYRO[37m [37mdata update[37md[37m
+[37mL[37mogging to: LOG01489.C[37mS[37mV<<-------[37m-[37m-----------[37m-[37m-------Crea[37mt[37med New Fil[37me[37m...
+[37mE[37mL[37mM327 dat[37ma[37m represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelCon[37msume : 1.29[37m[37m
+commandedA[37mi[37mrFuelRatio[37m [37m: 1.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m
+[37mp[37mr[37me_instan[37mt[37mFuelConsum[37me[37m = 1.29
+pr[37me[37m_f_accelX [37m=[37m -0.01
+pre[37m_[37mf_accelY =[37m [37m-0.00
+pre_[37mr[37mpm = 1284
+[37mp[37mre_runTime[37m [37m= 108
+pre_[37mk[37mph = 12
+p[37mr[37me_Data Upda[37mt[37med
+[37m[37m
+[37m[MAIN] [MQTT] Connected, ClientID: "car-datal[37mo[37mggera"
+[37m[37m
+[37m[MAIN] [MQTT[37m][37m Topic sub[37ms[37mcribed: "$a[37mw[37ms/things/c[37ma[37mr-datalogge[37mr[37ma/shadow/u[37mp[37mdate/accept[37me[37md"
+[37m[37m
+[MAI[37mN[37m] [MQTT] M[37me[37mssage publi[37ms[37mhed: "$aws[37m/[37mthings/car-dataloggera[37m/shadow/upd[37ma[37mte", Messag[37me[37m: {"state":[37m{[37m"reported"[37m:[37m{"name":"ca[37mr[37m-datalogge[37mr[37ma","enabled[37m"[37m:"ELM_SUCC[37mE[37mSS","geo":{[37m"[37mlatitude":[37m"[37m37.40002","[37ml[37mongitude":[37m"[37m126.94254"}[37m}[37m}}
+[37m[37m
+[MAI[37mN[37m] [MQTT] M[37me[37mssage publi[37ms[37mhed: "dt/c[37ma[37mrdata/logge[37mr[37m/car-datal[37mo[37mggera/car-d[37ma[37mta", Messa[37mg[37me: {"effici[37me[37mncyMark": [37m0[37m.000000,"sa[37mf[37metyMark": 0[37m.[37m000000,"dr[37mi[37mvingMark": [37m1[37m0.000000,"[37ma[37mveragedrivi[37mn[37mgMark": 10[37m.[37m000000,"rpm": 1284,"kp[37mh[37m": 12,"engineLoad": 55[37m,[37m"runTime": 108,"fuelType": 7,"oilTemp": 90,"r[37me[37mlativePedal[37mP[37mos": 25,"th[37mr[37mottle": 18[37m,[37m"relativeTh[37mr[37mottle": 24[37m,[37m"intakeAir[37mT[37memp": 10,"f[37mu[37melLevel": [37m5[37m2,"mafRate"[37m:[37m 27.000000[37m,[37m"obdStandar[37md[37ms": 11,"dis[37mt[37mTravelWith[37mM[37mIL": 109,"d[37mi[37mstSinceCod[37me[37msCleared": [37m1[37m09,"ctrlMo[37md[37mVoltage": 1[37m3[37m,"ambientA[37mi[37mrTemp": 18,[37m"[37mmanifoldPr[37me[37mssure": 88,[37m"[37mengineCool[37ma[37mntTemp": 84[37m,[37m"commanded[37mT[37mhrottleActu[37ma[37mtor": 37.6[37m4[37m7060,"times[37mt[37mamp": 12345[37m6[37m78}
+[37m0[37m.[37m07[37m
+[37m0.01
+-0.00[37m[37m
+-0.01
+GYR[37mO[37m data upda[37mt[37med
+[37mE[37mLM3[37m2[37m7 data repr[37me[37msenting...[37m.[37m.
+[37mi[37mnstant[37mF[37muelConsume[37m [37m: 12.79
+c[37mo[37mmmandedAirF[37muelRatio : [37m1[37m.00
+AFR : [37m1[37m4.70
+[37mE[37mLM3[37m2[37m7 Data Log[37mg[37ming...
+[37me[37mf[37mficiency[37mM[37mark : 10.00[37m [37m/ 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 12.79[37m[37m
+counter_Kp[37mh[37mRpm : 1
+sa[37mf[37metyMark : [37m9[37m.47 / 10 
+[37mC[37mounter_Time : 0
+safet[37my[37mScoreBuf :[37m [37mverygood
+d[37mr[37mivingMark [37m:[37m 9.74 / 10 [37m[37m
+averagedr[37mi[37mvingMark : [37m9[37m.74 / 10 [37m
+[37mpre_instant[37mF[37muelConsume[37m [37m= 12.79
+pr[37me[37m_f_accelX [37m=[37m -0.00
+pre[37m_[37mf_accelY = [37m-[37m0.01
+pre_[37mr[37mpm = 1955
+[37mp[37mre_runTime[37m [37m= 152
+pre_[37mk[37mph = 75
+p[37mr[37me_Data Upda[37mt[37med
+0.06
+[37m0[37m.02
+-0.00[37m[37m
+-0.01
+GYR[37mO[37m data updat[37me[37md
+[37mE[37mLM327 d[37ma[37mta represe[37mn[37mting.....
+[37mi[37mnstantFuel[37mC[37monsume : 0[37m.[37m00
+command[37me[37mdAirFuelRa[37mt[37mio : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mLM327 Da[37mt[37ma Logging..[37m.[37m
+[37mc[37mo[37munter_Fue[37ml[37m : 1
+effic[37mi[37mencyMark :[37m 5.00 / 10 [37m
+[37maverageFue[37ml[37mConsume : 0[37m.[37m00
+safety[37mM[37mark : 9.48 [37m/[37m 10 
+Count[37me[37mr_Time : 0[37m[37m
+safetyScor[37me[37mBuf : good[37m[37m
+drivingMar[37mk[37m : 7.24 / [37m1[37m0 
+average[37md[37mrivingMark[37m [37m: 8.49 / 10[37m [37m
+pre_inst[37ma[37mntFuelConsu[37mm[37me = 0.00
+[37mp[37mre_f_accelX[37m [37m= -0.00
+p[37mr[37me_f_accelY [37m=[37m -0.01
+pr[37me[37m_rpm = 813[37m
+[37mpre_runTime[37m [37m= 153
+pre[37m_[37mkph = 0
+pr[37me[37m_Data Upda[37mt[37med
+[37m[37m
+[37m[MAIN] [M[37mQ[37mTT] Topic s[37mu[37mbscribed: [37m"[37m$aws/things[37m/[37mcar-datalo[37mg[37mgera/shadow[37m/[37mupdate/acc[37me[37mpted"
+[37m[37m
+[37m[MAIN] [MQ[37mT[37mT] Message[37m [37mpublished: [37m"[37m$aws/thing[37ms[37m/car-datalo[37mg[37mgera/shado[37mw[37m/update", M[37me[37mssage: {"s[37mt[37mate":{"repo[37mr[37mted":{"nam[37me[37m":"car-data[37ml[37moggera","en[37ma[37mbled":"ELM[37m_[37mSUCCESS","g[37me[37mo":{"latit[37mu[37mde":"37.40[37m0[37m02","longit[37mu[37mde":"126.94[37m2[37m54"}}}}
+[37m[37m
+[M[37mA[37mIN] [MQTT] [37mM[37message pub[37ml[37mished: "dt/[37mc[37mardata/log[37mg[37mer/car-data[37ml[37moggera/car[37m-[37mdata", Mess[37ma[37mge: {"effic[37mi[37mencyMark":[37m [37m5.000000,"safetyMark":[37m [37m9.477124,"d[37mr[37mivingMark": 7.238562,"[37ma[37mveragedrivingMark": 8.487702,"rpm[37m"[37m: 813,"kph"[37m:[37m 0,"engineLoad": 70,"runTime": 15[37m3[37m,"fuelType"[37m:[37m 7,"oilTemp": 93,"rela[37mt[37mivePedalPos": 76,"throttle": 67,"r[37me[37mlativeThrottle": 6,"in[37mt[37makeAirTemp": 19,"fuelL[37mevel": 57,"[37mm[37mafRate": 24.000000,"obdStandards"[37m:[37m 11,"distTr[37ma[37mvelWithMIL"[37m:[37m 153,"distSinceCodesCl[37me[37mared": 153[37m,[37m"ctrlModVol[37mt[37mage": 13,"[37ma[37mmbientAirTe[37mm[37mp": 18,"ma[37mn[37mifoldPressu[37mr[37me": 86,"en[37mg[37mineCoolantT[37me[37mmp": 83,"c[37mo[37mmmandedThro[37mt[37mtleActuator": 65.882355,"timestamp[37m"[37m: 12345678[37m}[37m
+0.11
+-0.[37m0[37m0
+-0.00
+[37m-[37m0.00
+GYRO data update[37md[37m
+[37mE[37mLM327 da[37mt[37ma represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 8.[37m8[37m3
+commande[37md[37mAirFuelRat[37mi[37mo : 1.00
+A[37mF[37mR : 14.70
+[37mE[37mLM327 Data[37m [37mLogging...[37m[37m
+[37mc[37mo[37munter_Rpm [37m:[37m 1
+efficie[37mn[37mcyMark : 4[37m.[37m81 / 10 
+a[37mv[37merageFuelC[37mo[37mnsume : 8.8[37m3[37m
+counter_K[37mp[37mhRpm : 2
+[37ms[37mafetyMark :[37m [37m8.97 / 10 [37m[37m
+Counter_Ti[37mm[37me : 0
+saf[37me[37mtyScoreBuf [37m:[37m good
+dri[37mv[37mingMark : [37m6[37m.89 / 10 
+[37ma[37mveragedriv[37mi[37mngMark : 7.[37m9[37m6 / 10 
+pr[37me[37m_instantFu[37me[37mlConsume = [37m8[37m.83
+pre_f[37m_[37maccelX = -0[37m.[37m00
+pre_f_[37ma[37mccelY = -0.[37m0[37m0
+pre_rpm [37m=[37m 2552
+pre[37m_[37mrunTime = [37m1[37m56
+pre_kph[37m [37m= 67
+pre_[37mD[37mata Updated[37m[37m
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Topic su[37mb[37mscribed: "$[37ma[37mws/things/car-datalogg[37me[37mra/shadow/[37mu[37mpdate/accep[37mt[37med"
+[37m[37m
+[MAIN] [MQTT] Message published: "$aws/things/car-dataloggera/shadow/update", Message: {"state":{"reported":{"name":"car-dataloggera","enabled":"ELM_SUCCESS","g[37me[37mo":{"latitu[37md[37me":"37.400[37m0[37m2","longitu[37md[37me":"126.94[37m2[37m54"}}}}
+[37m[37m
+[MAI[37mN[37m] [MQTT] M[37me[37mssage publi[37ms[37mhed: "dt/c[37ma[37mrdata/logge[37mr[37m/car-datal[37mo[37mggera/car-d[37ma[37mta", Messa[37mg[37me: {"effici[37me[37mncyMark": [37m4[37m.807693,"sa[37mf[37metyMark": [37m8[37m.974359,"dr[37mi[37mvingMark": [37m6[37m.891026,"a[37mv[37meragedrivin[37mg[37mMark": 7.9[37m5[37m5477,"rpm":[37m [37m2552,"kph"[37m:[37m 67,"engine[37mL[37moad": 5,"r[37mu[37mnTime": 156[37m,[37m"fuelType"[37m:[37m 7,"oilTemp[37m"[37m: 71,"rela[37mt[37mivePedalPos[37m"[37m: 16,"thro[37mt[37mtle": 20,"r[37me[37mlativeThro[37mt[37mtle": 67,"i[37mn[37mtakeAirTem[37mp[37m": 12,"fuel[37mL[37mevel": 54,"[37mm[37mafRate": 22.000000,"o[37mb[37mdStandards"[37m:[37m 11,"distT[37mr[37mavelWithMIL[37m"[37m: 157,"dist[37mS[37minceCodesC[37ml[37meared": 157[37m,[37m"ctrlModVo[37ml[37mtage": 12,"[37ma[37mmbientAirT[37me[37mmp": 12,"m[37ma[37mnifoldPress[37mu[37mre": 70,"en[37mg[37mineCoolant[37mT[37memp": 87,"c[37mo[37mmmandedThr[37mo[37mttleActuato[37mr[37m": 33.7254[37m9[37m1,"timestam[37mp[37m": 12345678[37m}[37m
+0.11
+0.[37m0[37m1
+0.01
+-[37m0[37m.00
+GYRO d[37ma[37mta updated[37m[37m
+[37mE[37mL[37mM327 data[37m [37mrepresenti[37mn[37mg.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 0.22[37m[37m
+commanded[37mA[37mirFuelRatio[37m [37m: 1.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327 Data [37mL[37mogging...[37m
+[37mc[37mo[37mu[37mnter_Fuel :[37m [37m2
+efficien[37mc[37myMark : 4.[37m8[37m1 / 10 
+av[37me[37mrageFuelCo[37mn[37msume : 0.22[37m[37m
+safetyMar[37mk[37m : 9.01 / 1[37m0[37m 
+Counter[37m_[37mTime : 0
+s[37ma[37mfetyScoreB[37mu[37mf : good
+d[37mr[37mivingMark [37m:[37m 6.91 / 10 [37m[37m
+averagedri[37mv[37mingMark : [37m7[37m.69 / 10 [37m
+[37mpre_instant[37mF[37muelConsume[37m [37m= 0.22
+pre[37m_[37mf_accelX =[37m [37m0.01
+pre_f[37m_[37maccelY = -[37m0[37m.00
+pre_rp[37mm[37m = 1687
+pr[37me[37m_runTime =[37m [37m161
+pre_kp[37mh[37m = 2
+pre_[37mD[37mata Updated[37m[37m
+[37m[37m
+[MAIN[37m][37m [MQTT] Top[37mi[37mc subscribe[37md[37m: "$aws/th[37mi[37mngs/car-dat[37ma[37mloggera/sh[37ma[37mdow/update/[37ma[37mccepted"
+[37m[37m
+[MAIN] [MQTT] Message pub[37ml[37mished: "$aw[37ms[37m/things/ca[37mr[37m-datalogge[37mr[37ma/shadow/up[37md[37mate", Mess[37ma[37mge: {"state[37m"[37m:{"reporte[37md[37m":{"name":"[37mc[37mar-datalogg[37me[37mra","enabl[37me[37md":"ELM_SUC[37mC[37mESS","geo"[37m:[37m{"latitude"[37m:[37m"37.40002"[37m,[37m"longitude"[37m:[37m"126.94254[37m"[37m}}}}
+[37m[37m
+[MA[37mI[37mN] [MQTT] M[37me[37mssage publ[37mi[37mshed: "dt/c[37ma[37mrdata/logg[37me[37mr/car-datal[37mo[37mggera/car-[37md[37mata", Messa[37mg[37me: {"effic[37mi[37mencyMark": [37m4[37m.813664,"sa[37mf[37metyMark": [37m9[37m.006211,"dr[37mi[37mvingMark":[37m [37m6.909938,"a[37mv[37meragedrivi[37mn[37mgMark": 7.6[37m9[37m4092,"rpm"[37m:[37m 1687,"kph[37m"[37m: 2,"engine[37mL[37moad": 22,"r[37mu[37mnTime": 16[37m1[37m,"fuelType"[37m:[37m 7,"oilTem[37mp[37m": 72,"rela[37mt[37mivePedalPo[37ms[37m": 73,"thro[37mt[37mtle": 45,"[37mr[37melativeThro[37mt[37mtle": 7,"in[37mt[37makeAirTemp[37m"[37m: 14,"fuel[37mL[37mevel": 51,"[37mm[37mafRate": 2[37m6[37m.000000,"ob[37md[37mStandards"[37m:[37m 11,"distTr[37ma[37mvelWithMIL[37m"[37m: 162,"dist[37mS[37minceCodesCl[37me[37mared": 162[37m,[37m"ctrlModVol[37mt[37mage": 13,"[37ma[37mmbientAirTe[37mm[37mp": 13,"ma[37mn[37mifoldPressu[37mr[37me": 44,"en[37mg[37mineCoolantT[37me[37mmp": 88,"c[37mo[37mmmandedThro[37mt[37mtleActuato[37mr[37m": 72.94117[37m7[37m,"timestam[37mp[37m": 12345678[37m}[37m
+0.20
+-0[37m.[37m01
+-0.01
+[37m-[37m0.01
+GYRO [37md[37mata update[37md[37m
+[37mE[37mLM327 data [37mr[37mepresentin[37mg[37m.....
+[37mi[37mns[37mt[37mantFuelCons[37mu[37mme : 4.80[37m
+[37mcommandedAi[37mr[37mFuelRatio [37m:[37m 1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37me[37mf[37mficie[37mn[37mcyMark : 4[37m.[37m83 / 10 
+a[37mv[37merageFuelC[37mo[37mnsume : 4.8[37m0[37m
+safetyMa[37mr[37mk : 9.09 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+[37ms[37mafetyScoreB[37mu[37mf : good
+[37md[37mrivingMark [37m:[37m 6.96 / 10[37m [37m
+averagedr[37mi[37mvingMark :[37m [37m7.55 / 10 [37m
+[37mpre_instan[37mt[37mFuelConsume[37m [37m= 4.80
+pr[37me[37m_f_accelX =[37m [37m-0.01
+pre[37m_[37mf_accelY = [37m-[37m0.01
+pre_[37mr[37mpm = 717
+p[37mr[37me_runTime =[37m [37m176
+pre_k[37mp[37mh = 48
+pre[37m_[37mData Updat[37me[37md
+[37m[37m
+[MAIN] [MQTT] Mess[37ma[37mge publishe[37md[37m: "$aws/th[37mi[37mngs/car-dat[37ma[37mloggera/sh[37ma[37mdow/update"[37m,[37m Message: {[37m"[37mstate":{"r[37me[37mported":{"n[37ma[37mme":"car-d[37ma[37mtaloggera"[37m,[37m"enabled":"[37mE[37mLM_SUCCESS[37m"[37m,"geo":{"la[37mt[37mitude":"37[37m.[37m40002","lon[37mg[37mitude":"12[37m6[37m.94254"}}}}[37m[37m
+[37m[37m
+[MAIN] [MQTT] Mess[37ma[37mge publish[37me[37md: "dt/car[37md[37mata/logger/[37mc[37mar-datalogg[37me[37mra/car-dat[37ma[37m", Message:[37m [37m{"efficien[37mc[37myMark": 4.8[37m2[37m9545,"safe[37mt[37myMark": 9.0[37m9[37m0909,"driv[37mi[37mngMark": 6.[37m9[37m60227,"ave[37mr[37magedrivingM[37ma[37mrk": 7.547[37m3[37m19,"rpm": 7[37m1[37m7,"kph": 4[37m8[37m,"engineLoa[37md[37m": 48,"run[37mT[37mime": 176,"[37mf[37muelType": 7[37m,[37m"oilTemp":[37m [37m87,"relativ[37me[37mPedalPos":[37m [37m40,"thrott[37ml[37me": 10,"rel[37ma[37mtiveThrott[37ml[37me": 1,"inta[37mk[37meAirTemp": [37m1[37m5,"fuelLev[37me[37ml": 50,"maf[37mR[37mate": 29.0[37m0[37m0000,"obdSt[37ma[37mndards": 1[37m1[37m,"distTrave[37ml[37mWithMIL": [37m1[37m77,"distSin[37mc[37meCodesClea[37mr[37med": 177,"c[37mt[37mrlModVoltag[37me[37m": 12,"amb[37mi[37mentAirTemp"[37m:[37m 14,"manif[37mo[37mldPressure[37m"[37m: 30,"engin[37me[37mCoolantTem[37mp[37m": 83,"comm[37ma[37mndedThrottl[37me[37mActuator":[37m [37m73.725494,"[37mt[37mimestamp":[37m [37m12345678}
+[37m0[37m.20
+-0.03[37m[37m
+-0.00
+0.[37m0[37m0
+GYRO dat[37ma[37m updated
+[37mE[37mLM327 data[37m [37mrepresentin[37mg[37m.....
+[37mi[37mn[37mstantFuelCon[37ms[37mume : 1.16[37m[37m
+commandedA[37mi[37mrFuelRatio[37m [37m: 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM327 Data [37mL[37mogging...[37m
+[37mc[37mounte[37mr[37m_Rpm : 2
+e[37mf[37mficiencyMa[37mr[37mk : 4.72 / [37m1[37m0 
+averag[37me[37mFuelConsume[37m [37m: 1.16
+saf[37me[37mtyMark : 9[37m.[37m25 / 10 
+C[37mo[37munter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 6.9[37m8[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 7.45[37m [37m/ 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 1.[37m1[37m6
+pre_f_ac[37mc[37melX = -0.0[37m0[37m
+pre_f_acc[37me[37mlY = 0.00[37m
+[37mpre_rpm = 2[37m8[37m99
+pre_ru[37mn[37mTime = 212[37m
+[37mpre_kph = [37m6[37m
+pre_Data [37mU[37mpdated
+0.[37m2[37m0
+-0.02
+-[37m0[37m.00
+-0.01[37m[37m
+GYRO data [37mu[37mpdated
+[37mE[37mLM3[37m2[37m7 data rep[37mr[37mesenting...[37m.[37m.
+[37mi[37mn[37mstan[37mt[37mFuelConsume[37m [37m: 1.74
+com[37mm[37mandedAirFu[37me[37mlRatio : 1.[37m0[37m0
+AFR : 1[37m4[37m.70
+[37mE[37mLM32[37m7[37m Data Loggi[37mn[37mg...
+[37me[37mfficie[37mn[37mcyMark : 4[37m.[37m72 / 10 
+a[37mverageFuelC[37mo[37mnsume : 1.7[37m4
+safetyMa[37mr[37mk : 9.25 / [37m1[37m0 
+Counte[37mr[37m_Time : 0
+[37msafetyScore[37mB[37muf : good
+drivingMark : 6.98 / 10[37m [37m
+averagedrivingMark :[37m [37m7.39 / 10 [37m[37m
+pre_instantFuelConsum[37me[37m = 1.74
+pre_f_accelX = -0.00
+pre[37m_[37mf_accelY =[37m [37m-0.01
+pre_rpm = 2414
+[37mp[37mre_runTime[37m [37m= 213
+pre_[37mk[37mph = 9
+pr[37me[37m_Data Updat[37me[37md
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messa[37mg[37me published[37m:[37m "$aws/thi[37mn[37mgs/car-data[37ml[37moggera/sha[37md[37mow/update",[37m [37mMessage: {[37m"[37mstate":{"re[37mp[37morted":{"na[37mm[37me":"car-da[37mt[37maloggera","[37me[37mnabled":"E[37mL[37mM_SUCCESS",[37m"[37mgeo":{"lat[37mi[37mtude":"37.4[37m0[37m002","long[37mi[37mtude":"126.[37m9[37m4254"}}}}[37m
+[37m[37m
+[MAIN] [37m[[37mMQTT] Mess[37ma[37mge publishe[37md[37m: "dt/card[37ma[37mta/logger/c[37ma[37mr-datalogg[37me[37mra/car-data[37m"[37m, Message:[37m [37m{"efficienc[37my[37mMark": 4.7[37m1[37m8310,"safet[37my[37mMark": 9.2[37m4[37m8826,"drivi[37mn[37mgMark": 6.[37m9[37m83568,"aver[37ma[37mgedrivingMa[37mr[37mk": 7.3859[37m0[37m0,"rpm": 24[37m1[37m4,"kph": 9[37m,[37m"engineLoad[37m"[37m: 60,"runT[37mi[37mme": 213,"f[37mu[37melType": 7[37m,[37m"oilTemp": [37m9[37m2,"relativ[37me[37mPedalPos": [37m1[37m6,"throttl[37me[37m": 48,"rela[37mt[37miveThrottl[37me[37m": 88,"inta[37mk[37meAirTemp":[37m [37m18,"fuelLev[37me[37ml": 57,"maf[37mR[37mate": 15.0[37m0[37m0000,"obdSt[37ma[37mndards": 1[37m1[37m,"distTrave[37ml[37mWithMIL": [37m2[37m13,"distSin[37mc[37meCodesClea[37mr[37med": 213,"[37mc[37mtrlModVolta[37mg[37me": 12,"am[37mb[37mientAirTemp[37m"[37m: 11,"manif[37mo[37mldPressure[37m"[37m: 47,"engin[37me[37mCoolantTem[37mp[37m": 85,"comm[37ma[37mndedThrott[37ml[37meActuator":[37m [37m64.705887,[37m"[37mtimestamp":[37m [37m12345678}
+[37m0[37m.[37m20
+-0.01[37m
+[37m-0.00
+0.01[37m[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM327[37m [37mdata repre[37ms[37menting.....[37m[37m
+[37mi[37mn[37mstantF[37mu[37melConsume :[37m [37m6.38
+comm[37ma[37mndedAirFuel[37mR[37matio : 1.0[37m0[37m
+AFR : 14.[37m7[37m0
+[37mE[37mLM327[37m [37mData Loggi[37mn[37mg...
+[37me[37mf[37mficiencyMa[37mr[37mk : 4.74 / [37m1[37m0 
+averag[37me[37mFuelConsume[37m [37m: 6.38
+sa[37mf[37metyMark : 9[37m.[37m30 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 7.[37m0[37m2 / 10 
+av[37me[37mragedriving[37mM[37mark : 7.34[37m [37m/ 10 
+pre_[37mi[37mnstantFuel[37mC[37monsume = 6.[37m3[37m8
+pre_f_a[37mc[37mcelX = -0.0[37m0[37m
+pre_f_ac[37mc[37melY = 0.01[37m
+[37mpre_rpm = [37m2[37m639
+pre_ru[37mn[37mTime = 230[37m[37m
+pre_kph = [37m1[37m1
+pre_Dat[37ma[37m Updated
+[37m[37m
+[MAIN] [37m[[37mMQTT] Topic[37m [37msubscribed:[37m [37m"$aws/thin[37mg[37ms/car-data[37ml[37moggera/shad[37mo[37mw/update/a[37mc[37mcepted"
+[37m[37m
+[37m[MAIN] [37m[[37mMQTT] Messa[37mg[37me publishe[37md[37m: "$aws/thi[37mn[37mgs/car-dat[37ma[37mloggera/sha[37md[37mow/update"[37m,[37m Message: {[37m"[37mstate":{"r[37me[37mported":{"n[37ma[37mme":"car-da[37mt[37maloggera",[37m"[37menabled":"E[37mL[37mM_SUCCESS"[37m,[37m"geo":{"la[37mt[37mitude":"37.[37m4[37m0002","lon[37mg[37mitude":"126[37m.[37m94254"}}}}[37m
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Messag[37me[37m published:[37m [37m"dt/cardat[37ma[37m/logger/car[37m-[37mdatalogger[37ma[37m/car-data",[37m [37mMessage: {[37m"[37mefficiencyM[37ma[37mrk": 4.739[37m1[37m30,"safetyM[37ma[37mrk": 9.304[37m3[37m48,"driving[37mM[37mark": 7.021[37m7[37m39,"averag[37me[37mdrivingMar[37mk[37m": 7.340380[37m,[37m"rpm": 263[37m9[37m,"kph": 11,[37m"[37mengineLoad"[37m:[37m 83,"runTi[37mm[37me": 230,"fu[37me[37mlType": 7,[37m"[37moilTemp": 9[37m3[37m,"relative[37mP[37medalPos": 4[37m9[37m,"throttle[37m"[37m: 22,"relat[37mi[37mveThrottle[37m"[37m: 31,"intak[37me[37mAirTemp": [37m1[37m0,"fuelLeve[37ml[37m": 57,"maf[37mR[37mate": 5.000[37m0[37m00,"obdSta[37mn[37mdards": 11,[37m"[37mdistTravel[37mW[37mithMIL": 23[37m1[37m,"distSinc[37me[37mCodesCleare[37md[37m": 231,"ctr[37ml[37mModVoltage[37m"[37m: 12,"ambie[37mn[37mtAirTemp":[37m [37m17,"manifo[37ml[37mdPressure":[37m [37m94,"engineC[37mo[37molantTemp"[37m:[37m 81,"comman[37md[37medThrottle[37mA[37mctuator": 6[37m9[37m.803925,"t[37mi[37mmestamp": 1[37m2[37m345678}
+[37m0[37m.[37m2[37m0
+-0.01
+0[37m.[37m01
+-0.00[37m
+[37mGYRO data [37mu[37mpdated
+[37mE[37mLM327 d[37ma[37mta represen[37mt[37ming.....
+[37mi[37mn[37mstantFuel[37mC[37monsume : 6[37m.[37m38
+command[37me[37mdAirFuelRa[37mt[37mio : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mL[37mM327 D[37ma[37mta Logging.[37m.[37m.
+[37me[37mf[37mficiencyMar[37mk[37m : 4.74 / [37m1[37m0 
+average[37mF[37muelConsume[37m [37m: 6.38
+saf[37me[37mtyMark : 9.[37m3[37m1 / 10 
+C[37mo[37munter_Time [37m:[37m 0
+safety[37mS[37mcoreBuf : [37mg[37mood
+drivin[37mg[37mMark : 7.0[37m3[37m / 10 
+ave[37mr[37magedrivingM[37ma[37mrk : 7.31 [37m/[37m 10 
+pre_i[37mn[37mstantFuelC[37mo[37mnsume = 6.3[37m8[37m
+pre_f_ac[37mc[37melX = 0.01[37m
+[37mpre_f_acce[37ml[37mY = -0.00
+[37mp[37mre_rpm = 2[37m5[37m30
+pre_run[37mT[37mime = 233[37m
+[37mpre_kph = 3[37m3[37m
+pre_Data[37m [37mUpdated
+[37m[37m
+[MAIN] [[37mM[37mQTT] Topic[37m [37msubscribed:[37m [37m"$aws/thin[37mg[37ms/car-datal[37mo[37mggera/shad[37mo[37mw/update/ac[37mc[37mepted"
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messag[37me[37m published[37m:[37m "$aws/thin[37mg[37ms/car-data[37ml[37moggera/shad[37mo[37mw/update",[37m [37mMessage: {"[37ms[37mtate":{"rep[37mo[37mrted":{"na[37mm[37me":"car-da[37mt[37maloggera","[37me[37mnabled":"E[37mL[37mM_SUCCESS",[37m"[37mgeo":{"lat[37mi[37mtude":"37.4[37m0[37m002","longi[37mt[37mude":"126.[37m9[37m4254"}}}}
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messag[37me[37m published:[37m [37m"dt/cardat[37ma[37m/logger/ca[37mr[37m-datalogger[37ma[37m/car-data",[37m [37mMessage: {[37m"[37mefficiencyM[37ma[37mrk": 4.742[37m4[37m89,"safetyM[37ma[37mrk": 9.313[37m3[37m05,"driving[37mM[37mark": 7.02[37m7[37m897,"averag[37me[37mdrivingMar[37mk[37m": 7.305659[37m,[37m"rpm": 253[37m0[37m,"kph": 33,[37m"[37mengineLoad"[37m:[37m 21,"runTi[37mm[37me": 233,"fu[37me[37mlType": 7,[37m"[37moilTemp": [37m7[37m6,"relative[37mP[37medalPos": [37m2[37m2,"throttle[37m"[37m: 76,"relat[37mi[37mveThrottle[37m"[37m: 96,"intak[37me[37mAirTemp": [37m1[37m1,"fuelLeve[37ml[37m": 51,"maf[37mR[37mate": 15.0[37m0[37m0000,"obdSt[37ma[37mndards": 11[37m,[37m"distTrave[37ml[37mWithMIL": 2[37m3[37m4,"distSin[37mc[37meCodesClear[37me[37md": 234,"c[37mt[37mrlModVoltag[37me[37m": 13,"amb[37mi[37mentAirTemp"[37m:[37m 18,"manif[37mo[37mldPressure"[37m:[37m 47,"engine[37mC[37moolantTemp[37m"[37m: 84,"comma[37mn[37mdedThrottl[37me[37mActuator":[37m [37m54.901962,"[37mt[37mimestamp":[37m [37m12345678}
+[37m0[37m.20
+-0.01[37m
+[37m0.01
+-0.0[37m0[37m
+GYRO data[37m [37mupdated
+[37mE[37mL[37mM327 data r[37me[37mpresenting.[37m.[37m...
+[37mi[37mn[37mst[37ma[37mntFuelCons[37mu[37mme : 16.43[37m
+[37mcommandedA[37mi[37mrFuelRatio [37m:[37m 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37me[37mf[37mficiencyMark[37m [37m: 8.23 / 1[37m0[37m 
+averageF[37mu[37melConsume [37m:[37m 16.43
+cou[37mn[37mter_KphRpm[37m [37m: 3
+safety[37mM[37mark : 8.99[37m [37m/ 10 
+Coun[37mt[37mer_Time : [37m0[37m
+safetySco[37mr[37meBuf : ver[37my[37mgood
+drivi[37mn[37mgMark : 8.6[37m1[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 7.44[37m [37m/ 10 
+pre_[37mi[37mnstantFuel[37mC[37monsume = 16[37m.[37m43
+pre_f_[37ma[37mccelX = 0.0[37m1[37m
+pre_f_ac[37mc[37melY = -0.00[37m[37m
+pre_rpm =[37m [37m890
+pre_ru[37mn[37mTime = 237[37m[37m
+pre_kph = [37m6[37m8
+pre_Dat[37ma[37m Updated
+[37m[37m
+[37m[MAIN][37m [37m[MQTT] Top[37mi[37mc subscribe[37md[37m: "$aws/th[37mi[37mngs/car-dat[37ma[37mloggera/sh[37ma[37mdow/update/[37ma[37mccepted"
+[37m[37m
+[MAIN][37m [37m[MQTT] Mes[37ms[37mage publish[37me[37md: "$aws/t[37mh[37mings/car-da[37mt[37maloggera/s[37mh[37madow/update[37m"[37m, Message:[37m [37m{"state":{"[37mr[37meported":{[37m"[37mname":"car-[37md[37mataloggera[37m"[37m,"enabled":[37m"[37mELM_SUCCESS[37m"[37m,"geo":{"l[37ma[37mtitude":"37[37m.[37m40002","lo[37mn[37mgitude":"12[37m6[37m.94254"}}}[37m}[37m
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messag[37me[37m published[37m:[37m "dt/cardat[37ma[37m/logger/ca[37mr[37m-datalogger[37ma[37m/car-data"[37m,[37m Message: {[37m"[37mefficiency[37mM[37mark": 8.227[37m8[37m48,"safetyM[37ma[37mrk": 8.987[37m3[37m42,"driving[37mM[37mark": 8.60[37m7[37m595,"averag[37me[37mdrivingMar[37mk[37m": 7.435853[37m,[37m"rpm": 890[37m,[37m"kph": 68,"[37me[37mngineLoad"[37m:[37m 82,"runTim[37me[37m": 237,"fu[37me[37mlType": 7,"[37mo[37milTemp": 8[37m3[37m,"relativeP[37me[37mdalPos": 7[37m2[37m,"throttle"[37m:[37m 44,"relat[37mi[37mveThrottle"[37m:[37m 0,"intake[37mA[37mirTemp": 10[37m,[37m"fuelLevel[37m"[37m: 55,"mafRa[37mt[37me": 12.0000[37m0[37m0,"obdStan[37md[37mards": 11,"[37md[37mistTravelW[37mithMIL": 237[37m,[37m"distSince[37mC[37modesCleared[37m"[37m: 237,"ctr[37ml[37mModVoltage"[37m:[37m 12,"ambientAirTemp": [37m13,"manifol[37md[37mPressure": 63,"engineC[37mo[37molantTemp": 80,"comman[37md[37medThrottleA[37mc[37mtuator": 3[37m1[37m.764706,"ti[37mm[37mestamp": 12[37m3[37m45678}
+0.[37m22
+-0.01
+-[37m0[37m.00
+-0.01
+GYRO data updated
+[37mE[37mL[37mM327 data[37m [37mrepresentin[37mg[37m.....
+[37mi[37mns[37mt[37mantFuelCon[37ms[37mume : 8.47[37m
+[37mcommandedA[37mi[37mrFuelRatio [37m:[37m 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37me[37mff[37mi[37mciencyMark [37m:[37m 4.75 / 10[37m [37m
+averageFu[37me[37mlConsume :[37m [37m8.47
+safet[37my[37mMark : 9.0[37m0[37m / 10 
+Cou[37mn[37mter_Time :[37m [37m0
+safetySc[37mo[37mreBuf : goo[37md[37m
+drivingM[37ma[37mrk : 6.87 /[37m [37m10 
+avera[37mg[37medrivingMar[37mk[37m : 7.38 / [37m1[37m0 
+pre_ins[37mt[37mantFuelCon[37ms[37mume = 8.47[37m
+[37mpre_f_acce[37ml[37mX = -0.00
+[37mp[37mre_f_accel[37mY[37m = -0.01
+p[37mr[37me_rpm = 19[37m8[37m4
+pre_runT[37mi[37mme = 240
+[37mp[37mre_kph = 76[37m[37m
+pre_Data [37mU[37mpdated
+[37m[37m
+[MAIN][37m [37m[MQTT] Top[37mi[37mc subscribe[37md[37m: "$aws/th[37mi[37mngs/car-dat[37ma[37mloggera/sha[37md[37mow/update/[37ma[37mccepted"
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Message [37mp[37mublished: [37m"[37m$aws/things[37m/[37mcar-datalo[37mg[37mgera/shado[37mw[37m/update", M[37me[37mssage: {"s[37mt[37mate":{"repo[37mr[37mted":{"name[37m"[37m:"car-data[37ml[37moggera","en[37ma[37mbled":"ELM[37m_[37mSUCCESS","g[37me[37mo":{"latit[37mu[37mde":"37.400[37m0[37m2","longit[37mu[37mde":"126.94[37m2[37m54"}}}}
+[37m[37m
+[37m[MAIN] [37m[[37mMQTT] Mess[37ma[37mge publish[37me[37md: "dt/card[37ma[37mta/logger/[37mc[37mar-datalogg[37me[37mra/car-data[37m"[37m, Message:[37m [37m{"efficienc[37my[37mMark": 4.7[37m5[37m0000,"safet[37my[37mMark": 9.0[37m0[37m0000,"drivi[37mn[37mgMark": 6.[37m8[37m75000,"aver[37ma[37mgedrivingM[37ma[37mrk": 7.3848[37m6[37m6,"rpm": 19[37m8[37m4,"kph": 7[37m6[37m,"engineLo[37ma[37md": 7,"runT[37mi[37mme": 240,"[37mf[37muelType": 7[37m,[37m"oilTemp":[37m [37m81,"relativ[37me[37mPedalPos": [37m5[37m4,"throttl[37me[37m": 22,"rela[37mt[37miveThrottl[37me[37m": 21,"inta[37mk[37meAirTemp":[37m [37m17,"fuelLe[37mv[37mel": 50,"ma[37mf[37mRate": 26.0[37m0[37m0000,"obdS[37mt[37mandards": 1[37m1[37m,"distTrav[37me[37mlWithMIL": [37m2[37m40,"distSi[37mn[37mceCodesClea[37mr[37med": 241,"[37mc[37mtrlModVolta[37mg[37me": 12,"am[37mb[37mientAirTemp[37m"[37m: 12,"manif[37mo[37mldPressure[37m"[37m: 60,"engi[37mn[37meCoolantTem[37mp[37m": 89,"com[37mm[37mandedThrott[37ml[37meActuator"[37m:[37m 49.803921,[37m"[37mtimestamp":[37m [37m12345678}[37m
+[37m0.22
+-0.01[37m[37m
+0.01
+0.0[37m0[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM327[37m [37mdata repre[37ms[37menting....[37m.[37m
+[37mi[37mn[37mstantF[37mu[37melConsume :[37m [37m8.31
+comm[37ma[37mndedAirFue[37ml[37mRatio : 1.0[37m0[37m
+AFR : 14.[37m7[37m0
+[37mE[37mLM327[37m [37mData Loggin[37mg[37m...
+[37me[37mffi[37mc[37miencyMark :[37m [37m4.75 / 10 [37m[37m
+averageFue[37ml[37mConsume : [37m8[37m.31
+safety[37mM[37mark : 9.01[37m [37m/ 10 
+Coun[37mt[37mer_Time : [37m0[37m
+safetySco[37mr[37meBuf : goo[37md[37m
+drivingMa[37mr[37mk : 6.88 / [37m1[37m0 
+averag[37me[37mdrivingMark[37m [37m: 7.34 / 1[37m0[37m 
+pre_ins[37mt[37mantFuelCons[37mu[37mme = 8.31
+[37mp[37mre_f_accel[37mX[37m = 0.01
+p[37mr[37me_f_accelY [37m=[37m 0.00
+pre_[37mr[37mpm = 1162[37m
+[37mpre_runTime[37m [37m= 243
+pre[37m_[37mkph = 43
+p[37mr[37me_Data Upd[37ma[37mted
+[37m[37m
+[MAIN][37m [37m[MQTT] Top[37mi[37mc subscribe[37md[37m: "$aws/th[37mi[37mngs/car-dat[37ma[37mloggera/sh[37ma[37mdow/update/[37ma[37mccepted"
+[37m[37m
+[MAIN][37m [37m[MQTT] Mess[37ma[37mge publish[37me[37md: "$aws/th[37mi[37mngs/car-da[37mt[37maloggera/sh[37ma[37mdow/update[37m"[37m, Message: [37m{[37m"state":{"r[37me[37mported":{"[37mn[37mame":"car-d[37ma[37mtaloggera"[37m,[37m"enabled":"[37mE[37mLM_SUCCESS[37m"[37m,"geo":{"la[37mt[37mitude":"37[37m.[37m40002","lon[37mg[37mitude":"12[37m6[37m.94254"}}}}[37m[37m
+[37m[37m
+[MAIN][37m [37m[MQTT] Mess[37ma[37mge publish[37me[37md: "dt/card[37ma[37mta/logger/[37mc[37mar-datalogg[37me[37mra/car-data[37m"[37m, Message:[37m [37m{"efficienc[37my[37mMark": 4.7[37m5[37m3087,"safet[37my[37mMark": 9.0[37m1[37m2345,"drivi[37mn[37mgMark": 6.[37m8[37m82716,"aver[37ma[37mgedrivingM[37ma[37mrk": 7.3430[37m2[37m0,"rpm": 1[37m1[37m62,"kph": 4[37m3[37m,"engineLo[37ma[37md": 17,"run[37mT[37mime": 243,[37m"[37mfuelType": [37m7[37m,"oilTemp"[37m:[37m 94,"relati[37mv[37mePedalPos"[37m:[37m 60,"thrott[37ml[37me": 68,"re[37ml[37mativeThrott[37ml[37me": 18,"int[37ma[37mkeAirTemp"[37m:[37m 17,"fuelLe[37mv[37mel": 57,"m[37ma[37mfRate": 15.[37m0[37m00000,"obd[37mS[37mtandards": [37m1[37m1,"distTra[37mv[37melWithMIL":[37m [37m243,"distS[37mi[37mnceCodesCle[37ma[37mred": 244,[37m"[37mctrlModVolt[37ma[37mge": 13,"a[37mm[37mbientAirTem[37mp[37m": 10,"man[37mi[37mfoldPressur[37me[37m": 90,"eng[37mi[37mneCoolantTe[37mm[37mp": 82,"co[37mm[37mmandedThrot[37mt[37mleActuator[37m"[37m: 53.725491[37m,[37m"timestamp"[37m:[37m 12345678}[37m[37m
+0.22
+0.01[37m[37m
+0.00
+0.0[37m1[37m
+GYRO data[37m [37mupdated
+[37mE[37mL[37mM327 data [37mr[37mepresenting[37m.[37m....
+[37mi[37mn[37ms[37mt[37mantFuelCons[37mu[37mme : 23.19[37m[37m
+commandedA[37mi[37mrFuelRatio[37m [37m: 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37me[37mf[37mfic[37mi[37mencyMark : [37m8[37m.29 / 10 [37m
+[37maverageFuel[37mC[37monsume : 2[37m3[37m.19
+counte[37mr[37m_KphRpm : [37m4[37m
+safetyMar[37mk[37m : 8.70 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+s[37ma[37mfetyScoreB[37mu[37mf : verygoo[37md[37m
+drivingM[37ma[37mrk : 8.50 /[37m [37m10 
+avera[37mg[37medrivingMar[37mk[37m : 7.43 / [37m1[37m0 
+pre_ins[37mt[37mantFuelCon[37ms[37mume = 23.1[37m9[37m
+pre_f_acc[37me[37mlX = 0.00
+[37mp[37mre_f_accel[37mY[37m = 0.01
+pr[37me[37m_rpm = 103[37m7[37m
+pre_runTi[37mm[37me = 246
+p[37mr[37me_kph = 56[37m
+[37mpre_Data U[37mp[37mdated
+0.22[37m[37m
+-0.01
+-0[37m.[37m00
+0.00
+G[37mY[37mRO data up[37md[37mated
+[37mE[37mLM3[37m2[37m7 data repr[37me[37msenting...[37m.[37m.
+[37mi[37mn[37mstant[37mF[37muelConsume [37m:[37m 6.47
+com[37mm[37mandedAirFue[37ml[37mRatio : 1.[37m0[37m0
+AFR : 14[37m.[37m70
+[37mE[37mLM32[37m7[37m Data Loggi[37mn[37mg...
+[37mc[37mounte[37mr[37m_Fuel : 3[37m
+[37mefficiencyM[37ma[37mrk : 4.76 [37m/[37m 10 
+avera[37mg[37meFuelConsu[37mm[37me : 6.47
+s[37ma[37mfetyMark :[37m [37m8.70 / 10 [37m
+[37mCounter_Ti[37mm[37me : 0
+safe[37mt[37myScoreBuf :[37m [37mgood
+driv[37mi[37mngMark : 6.[37m7[37m3 / 10 
+a[37mv[37meragedrivin[37mg[37mMark : 7.3[37m8[37m / 10 
+pre[37m_[37minstantFue[37ml[37mConsume = [37m6[37m.47
+pre_f_[37ma[37mccelX = -0.[37m0[37m0
+pre_f_a[37mc[37mcelY = 0.00[37m[37m
+pre_rpm =[37m [37m1485
+pre_r[37mu[37mnTime = 24[37m7[37m
+pre_kph =[37m [37m29
+pre_Da[37mt[37ma Updated
+[37m0[37m.[37m21
+[37m-[37m0.01
+0.00[37m[37m
+-0.01
+GYR[37mO[37m data upda[37mt[37med
+[37mE[37mLM327[37m [37mdata repres[37me[37mnting.....[37m
+[37mi[37mn[37mstantFu[37me[37mlConsume : [37m7[37m.18
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mL[37mM327 D[37ma[37mta Logging[37m.[37m..
+[37me[37mffici[37me[37mncyMark : 4[37m.[37m76 / 10 
+[37ma[37mverageFuel[37mC[37monsume : 7.[37m1[37m8
+counter[37m_[37mKphRpm : 5[37m
+[37msafetyMark[37m [37m: 8.39 / 10[37m [37m
+Counter_T[37mi[37mme : 0
+sa[37mf[37metyScoreBuf[37m [37m: good
+dr[37mi[37mvingMark : [37m6[37m.57 / 10 [37m
+[37maveragedriv[37mi[37mngMark : 7[37m.[37m33 / 10 
+p[37mr[37me_instantF[37mu[37melConsume =[37m [37m7.18
+pre_[37mf[37m_accelX = 0[37m.[37m00
+pre_f_[37ma[37mccelY = -0.[37m0[37m1
+pre_rpm[37m [37m= 1230
+pre[37m_[37mrunTime = [37m2[37m48
+pre_kph[37m [37m= 52
+pre_[37mD[37mata Updated[37m[37m
+[37m[37m
+[MAI[37mN[37m] [MQTT] T[37mo[37mpic subscri[37mb[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/s[37mh[37madow/updat[37me[37m/accepted"[37m
+[37m[37m
+[MAI[37mN[37m] [MQTT] Me[37ms[37msage publis[37mh[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/[37ms[37mhadow/upda[37mt[37me", Message[37m:[37m {"state":[37m{[37m"reported":[37m{[37m"name":"car[37m-[37mdatalogger[37ma[37m","enabled"[37m:[37m"ELM_SUCCE[37mS[37mS","geo":{"[37ml[37matitude":"[37m3[37m7.40002","l[37mo[37mngitude":"[37m1[37m26.94254"}}[37m}[37m}
+[37m[37m
+[MAIN][37m [37m[MQTT] Mess[37ma[37mge publish[37me[37md: "dt/card[37ma[37mta/logger/c[37ma[37mr-datalogg[37me[37mra/car-data[37m"[37m, Message:[37m [37m{"efficienc[37my[37mMark": 4.7[37m5[37m8065,"safet[37my[37mMark": 8.3[37m8[37m7096,"drivi[37mn[37mgMark": 6.[37m5[37m72580,"aver[37ma[37mgedrivingM[37ma[37mrk": 7.3277[37m0[37m2,"rpm": 12[37m3[37m0,"kph": 5[37m2[37m,"engineLo[37ma[37md": 27,"run[37mT[37mime": 248,[37m"[37mfuelType": [37m7[37m,"oilTemp"[37m:[37m 85,"relati[37mv[37mePedalPos":[37m [37m43,"thrott[37ml[37me": 40,"rel[37ma[37mtiveThrott[37ml[37me": 51,"int[37ma[37mkeAirTemp"[37m:[37m 10,"fuelLe[37mv[37mel": 54,"m[37ma[37mfRate": 21[37m.[37m000000,"obd[37mS[37mtandards": [37m1[37m1,"distTra[37mv[37melWithMIL":[37m [37m249,"distS[37mi[37mnceCodesCle[37ma[37mred": 249,[37m"[37mctrlModVolt[37ma[37mge": 13,"a[37mm[37mbientAirTem[37mp[37m": 15,"man[37mi[37mfoldPressur[37me[37m": 83,"engi[37mn[37meCoolantTe[37mm[37mp": 84,"com[37mm[37mandedThrot[37mt[37mleActuator"[37m:[37m 33.725491[37m,[37m"timestamp[37m"[37m: 12345678}[37m[37m
+0.21
+-0.0[37m1[37m
+0.01
+0.[37m0[37m0
+GYRO dat[37ma[37m updated
+[37mE[37mLM327 d[37ma[37mta represen[37mting.....
+[37mi[37mn[37mstantFuel[37mC[37monsume : 2[37m.[37m07
+command[37me[37mdAirFuelRat[37mi[37mo : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mL[37mM327 Da[37mt[37ma Logging.[37m.[37m.
+[37me[37mf[37mficie[37mn[37mcyMark : 4.[37m7[37m6 / 10 
+a[37mv[37merageFuelC[37mo[37mnsume : 2.0[37m7[37m
+safetyMa[37mr[37mk : 8.41 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+[37ms[37mafetyScoreB[37mu[37mf : good
+[37md[37mrivingMark [37m:[37m 6.59 / 10[37m [37m
+averagedr[37mi[37mvingMark :[37m [37m7.28 / 10 [37m
+[37mpre_instan[37mt[37mFuelConsume[37m [37m= 2.07
+pr[37me[37m_f_accelX =[37m [37m0.01
+pre_[37mf[37m_accelY = 0[37m.[37m00
+pre_rpm[37m [37m= 752
+pre[37m_[37mrunTime = 2[37m5[37m2
+pre_kph[37m [37m= 10
+pre_[37mD[37mata Updated[37m[37m
+[37m[37m
+[MAIN[37m][37m [MQTT] Top[37mi[37mc subscrib[37me[37md: "$aws/th[37mi[37mngs/car-da[37mt[37maloggera/sh[37ma[37mdow/update[37m/[37maccepted"[37m
+[37m[37m
+[MAI[37mN[37m] [MQTT] Me[37ms[37msage publis[37mh[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/[37ms[37mhadow/updat[37me[37m", Message[37m:[37m {"state":{[37m"[37mreported":[37m{[37m"name":"car[37m-[37mdataloggera[37m"[37m,"enabled"[37m:[37m"ELM_SUCCE[37mS[37mS","geo":{"[37ml[37matitude":"[37m3[37m7.40002","l[37mo[37mngitude":"[37m1[37m26.94254"}}[37m}[37m}
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Message[37m [37mpublished: [37m"[37mdt/cardata[37m/[37mlogger/car-[37md[37mataloggera[37m/[37mcar-data", [37mM[37message: {"[37me[37mfficiencyMa[37mr[37mk": 4.7619[37m0[37m5,"safetyMa[37mr[37mk": 8.4126[37m9[37m9,"drivingM[37ma[37mrk": 6.587[37m3[37m02,"average[37md[37mrivingMark[37m"[37m: 7.281427,[37m"[37mrpm": 752,[37m"[37mkph": 10,"e[37mn[37mgineLoad":[37m [37m25,"runTime[37m"[37m: 252,"fue[37ml[37mType": 7,"o[37mi[37mlTemp": 77[37m,[37m"relativePe[37md[37malPos": 34[37m,[37m"throttle":[37m [37m41,"relativ[37me[37mThrottle":[37m [37m75,"intakeA[37mi[37mrTemp": 11[37m,[37m"fuelLevel"[37m:[37m 54,"mafRa[37mt[37me": 14.0000[37m0[37m0,"obdStan[37md[37mards": 11,"[37md[37mistTravelW[37mi[37mthMIL": 253[37m,[37m"distSince[37mC[37modesCleared[37m"[37m: 253,"ctr[37ml[37mModVoltage"[37m:[37m 12,"ambie[37mn[37mtAirTemp": [37m1[37m6,"manifol[37md[37mPressure": [37m8[37m4,"engineC[37mo[37molantTemp":[37m [37m86,"comman[37md[37medThrottleA[37mc[37mtuator": 73[37m.[37m725494,"ti[37mm[37mestamp": 12[37m3[37m45678}
+0.[37m2[37m2
+-0.01
+0[37m.[37m00
+-0.01[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mL[37mM327 data r[37me[37mpresenting[37m.[37m....
+[37mi[37mn[37mst[37ma[37mntFuelCons[37mu[37mme : 1.29
+[37mc[37mommandedAi[37mr[37mFuelRatio :[37m [37m1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37me[37mf[37mficienc[37my[37mMark : 4.7[37m7[37m / 10 
+av[37me[37mrageFuelCon[37ms[37mume : 1.29[37m
+[37msafetyMark[37m [37m: 8.44 / 10[37m [37m
+Counter_[37mT[37mime : 0
+s[37ma[37mfetyScoreBu[37mf[37m : good
+d[37mr[37mivingMark :[37m [37m6.61 / 10 [37m
+[37maveragedri[37mv[37mingMark : 7[37m.[37m24 / 10 
+[37mp[37mre_instantF[37mu[37melConsume [37m=[37m 1.29
+pre_[37mf[37m_accelX = [37m0[37m.00
+pre_f_[37ma[37mccelY = -0[37m.[37m01
+pre_rpm[37m [37m= 1708
+pr[37me[37m_runTime = [37m2[37m57
+pre_kp[37mh[37m = 8
+pre_D[37ma[37mta Updated[37m[37m
+0.22
+-0.0[37m0[37m
+0.01
+-0[37m.[37m00
+GYRO da[37mt[37ma updated[37m
+[37mE[37mLM32[37m7 data repre[37ms[37menting....[37m.[37m
+[37mi[37mn[37mstantF[37mu[37melConsume [37m:[37m 2.78
+comm[37ma[37mndedAirFuel[37mR[37matio : 1.0[37m0[37m
+AFR : 14.[37m7[37m0
+[37mE[37mL[37mM327 [37mD[37mata Loggin[37mg[37m...
+[37me[37mf[37mficienc[37my[37mMark : 4.7[37m7[37m / 10 
+ave[37mr[37mageFuelCon[37ms[37mume : 2.78[37m
+[37msafetyMark[37m [37m: 8.45 / 10[37m [37m
+Counter_T[37mi[37mme : 0
+sa[37mf[37metyScoreBu[37mf[37m : good
+dr[37mi[37mvingMark :[37m [37m6.61 / 10 [37m
+[37maveragedri[37mv[37mingMark : 7[37m.[37m21 / 10 
+[37mp[37mre_instantF[37mu[37melConsume [37m=[37m 2.78
+pre_[37mf[37m_accelX = 0[37m.[37m01
+pre_f_[37ma[37mccelY = -0.[37m0[37m0
+pre_rpm[37m [37m= 816
+pre_[37mr[37munTime = 2[37m5[37m8
+pre_kph [37m=[37m 23
+pre_D[37ma[37mta Updated[37m
+[37m[37m
+[M[37mAIN] [MQTT] [37mT[37mopic subsc[37mr[37mibed: "$aws[37m/[37mthings/car-[37md[37mataloggera[37m/[37mshadow/upda[37mt[37me/accepted[37m"[37m
+[37m[37m
+[MAIN] [M[37mQTT] Message[37m [37mpublished:[37m [37m"$aws/thing[37ms[37m/car-datal[37mo[37mggera/shado[37mw[37m/update", [37mM[37message: {"s[37mt[37mate":{"repo[37mr[37mted":{"nam[37me[37m":"car-data[37ml[37moggera","e[37mn[37mabled":"ELM[37m_[37mSUCCESS","[37mg[37meo":{"latit[37mu[37mde":"37.40[37m0[37m02","longit[37mu[37mde":"126.9[37m4[37m254"}}}}
+[37m[37m
+[MAIN] [MQTT] M[37me[37mssage publ[37mi[37mshed: "dt/c[37ma[37mrdata/logg[37me[37mr/car-datal[37mo[37mggera/car-d[37ma[37mta", Messa[37mg[37me: {"effici[37me[37mncyMark": [37m4[37m.767442,"sa[37mf[37metyMark": [37m8[37m.449613,"dr[37mi[37mvingMark":[37m [37m6.608527,"a[37mv[37meragedrivi[37mn[37mgMark": 7.2[37m0[37m6468,"rpm"[37m:[37m 816,"kph":[37m [37m23,"engine[37mL[37moad": 77,"r[37mu[37mnTime": 25[37m8[37m,"fuelType"[37m:[37m 7,"oilTem[37mp[37m": 84,"rela[37mt[37mivePedalPo[37ms[37m": 12,"thro[37mt[37mtle": 65,"r[37me[37mlativeThro[37mt[37mtle": 8,"in[37mt[37makeAirTemp[37m"[37m: 13,"fuelL[37me[37mvel": 49,"[37mm[37mafRate": 2[37m4[37m.000000,"ob[37md[37mStandards":[37m [37m11,"distTr[37ma[37mvelWithMIL"[37m:[37m 258,"dist[37mS[37minceCodesCl[37me[37mared": 258[37m,[37m"ctrlModVol[37mt[37mage": 13,"[37ma[37mmbientAirTe[37mm[37mp": 10,"ma[37mn[37mifoldPressu[37mr[37me": 83,"en[37mg[37mineCoolantT[37me[37mmp": 82,"co[37mm[37mmandedThro[37mt[37mtleActuator[37m"[37m: 66.66666[37m4[37m,"timestam[37mp[37m": 12345678[37m}[37m
+0.24
+0.[37m0[37m1
+0.01
+-0[37m.[37m01
+GYRO da[37mt[37ma updated[37m
+[37mE[37mLM327 d[37ma[37mta represen[37mt[37ming.....
+[37mi[37mn[37mstantFue[37ml[37mConsume : 5[37m.[37m41
+comman[37md[37medAirFuelRa[37mt[37mio : 1.00[37m
+[37mAFR : 14.70[37m[37m
+[37mE[37mLM327 [37mD[37mata Logging[37m.[37m..
+[37me[37mffi[37mc[37miencyMark [37m:[37m 4.79 / 10 [37m[37m
+averageFu[37me[37mlConsume : [37m5[37m.41
+safet[37my[37mMark : 8.57[37m [37m/ 10 
+Coun[37mt[37mer_Time : [37m0[37m
+safetySco[37mr[37meBuf : goo[37md[37m
+drivingMa[37mr[37mk : 6.68 /[37m [37m10 
+avera[37mg[37medrivingMar[37mk[37m : 7.18 / 1[37m0[37m 
+pre_ins[37mt[37mantFuelConsume = 5.41
+pre_f_accelX = 0.01
+pre_f_accelY = -0.01
+pre_rpm = 2067
+pre_runTime = 280
+pre_kph = 28[37m
+[37mpre_Data Up[37md[37mated
+[37m0[37m.[37m23
+-0.00
+[37m-[37m0.00
+-0.00
+GYRO data[37m [37mupdated
+[37mE[37mLM327 dat[37ma[37m representi[37mn[37mg.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 5.8[37m0[37m
+commanded[37mA[37mirFuelRati[37mo[37m : 1.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m
+[37mc[37moun[37mt[37mer_Rpm : 3[37m
+[37mefficiency[37mM[37mark : 4.68 [37m/[37m 10 
+aver[37ma[37mgeFuelConsu[37mm[37me : 5.80
+[37mc[37mounter_KphR[37mp[37mm : 6
+saf[37me[37mtyMark : 8.[37m2[37m9 / 10 
+C[37mo[37munter_Time [37m:[37m 0
+safety[37mS[37mcoreBuf : g[37mo[37mod
+driving[37mM[37mark : 6.49[37m [37m/ 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 7.14 /[37m [37m10 
+pre_i[37mn[37mstantFuelCo[37mn[37msume = 5.8[37m0[37m
+pre_f_acc[37me[37mlX = -0.00[37m[37m
+pre_f_acce[37ml[37mY = -0.00[37m
+[37mpre_rpm = 2[37m5[37m28
+pre_ru[37mn[37mTime = 281[37m
+[37mpre_kph = [37m5[37m2
+pre_Data[37m [37mUpdated
+0[37m.[37m24
+0.01
+-[37m0[37m.01
+0.01[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mL[37mM327 data re[37mp[37mresenting.[37m.[37m...
+[37mi[37mnsta[37mn[37mtFuelConsum[37me[37m : 11.86
+[37mc[37mommandedAir[37mF[37muelRatio :[37m [37m1.00
+AFR :[37m [37m14.70
+[37mE[37mLM[37m3[37m27 Data Log[37mg[37ming...
+[37me[37mffic[37mi[37mencyMark :[37m [37m4.68 / 10 [37m
+[37maverageFue[37ml[37mConsume : 1[37m1[37m.86
+safet[37my[37mMark : 8.30[37m [37m/ 10 
+Cou[37mn[37mter_Time : [37m0[37m
+safetySc[37mo[37mreBuf : goo[37md[37m
+drivingM[37ma[37mrk : 6.49 /[37m [37m10 
+avera[37mg[37medrivingMar[37mk[37m : 7.11 / [37m1[37m0 
+pre_ins[37mt[37mantFuelCon[37ms[37mume = 11.86[37m[37m
+pre_f_acc[37me[37mlX = -0.01[37m
+[37mpre_f_acce[37ml[37mY = 0.01
+p[37mr[37me_rpm = 17[37m8[37m8
+pre_runT[37mi[37mme = 282
+p[37mr[37me_kph = 45[37m[37m
+pre_Data [37mU[37mpdated
+[37m[37m
+[MAIN] [MQTT] [37mM[37message pub[37ml[37mished: "$aw[37ms[37m/things/ca[37mr[37m-datalogger[37ma[37m/shadow/up[37md[37mate", Mess[37ma[37mge: {"state[37m"[37m:{"reported[37m"[37m:{"name":"[37mc[37mar-datalogg[37me[37mra","enabl[37me[37md":"ELM_SUC[37mC[37mESS","geo"[37m:[37m{"latitude"[37m:[37m"37.40002"[37m,[37m"longitude"[37m:[37m"126.94254[37m"[37m}}}}
+[37m[37m
+[MAIN] [MQTT[37m][37m Message pu[37mb[37mlished: "d[37mt[37m/cardata/lo[37mg[37mger/car-da[37mt[37maloggera/ca[37mr[37m-data", Mes[37ms[37mage: {"eff[37mi[37mciencyMark"[37m:[37m 4.680851,[37m"[37msafetyMark[37m"[37m: 8.297873,[37m"[37mdrivingMar[37mk[37m": 6.489362[37m,[37m"averagedri[37mv[37mingMark": [37m7[37m.112863,"rp[37mm[37m": 1788,"k[37mp[37mh": 45,"eng[37mi[37mneLoad": 8[37m2[37m,"runTime":[37m [37m282,"fuelType": 7,"oilTemp": 94,"[37mr[37melativePeda[37ml[37mPos": 43,"[37mt[37mhrottle": 4[37m6[37m,"relativeT[37mh[37mrottle": 4[37m6[37m,"intakeAi[37mr[37mTemp": 13,"[37mf[37muelLevel":[37m [37m51,"mafRate[37m"[37m: 11.00000[37m0[37m,"obdStanda[37mr[37mds": 11,"di[37ms[37mtTravelWit[37mh[37mMIL": 283,"[37md[37mistSinceCo[37md[37mesCleared":[37m [37m283,"ctrlM[37mo[37mdVoltage":[37m [37m12,"ambient[37mA[37mirTemp": 12[37m,[37m"manifoldP[37mr[37messure": 79[37m,[37m"engineCoo[37ml[37mantTemp": 8[37m1[37m,"commande[37md[37mThrottleAct[37mu[37mator": 65.[37m8[37m82355,"time[37ms[37mtamp": 123[37m4[37m5678}
+0.24[37m[37m
+-0.00
+0.[37m0[37m1
+-0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mE[37mLM327 d[37ma[37mta represen[37mt[37ming.....
+[37mi[37mn[37mstantFuel[37mC[37monsume : 3[37m.[37m38
+command[37me[37mdAirFuelRat[37mi[37mo : 1.00
+[37mA[37mFR : 14.70[37m
+[37mE[37mL[37mM327 Da[37mt[37ma Logging..[37m.[37m
+[37mc[37mo[37munter_Fuel :[37m [37m4
+counter_[37mR[37mpm : 4
+ef[37mf[37miciencyMark[37m [37m: 4.62 / 1[37m0[37m 
+averageF[37mu[37melConsume [37m:[37m 3.38
+safe[37mt[37myMark : 8.[37m4[37m7 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : g[37mo[37mod
+driving[37mM[37mark : 6.54[37m [37m/ 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 7.09 /[37m [37m10 
+pre_i[37mn[37mstantFuelCo[37mn[37msume = 3.3[37m8[37m
+pre_f_acc[37me[37mlX = 0.01
+[37mp[37mre_f_accel[37mY[37m = -0.00
+p[37mr[37me_rpm = 28[37m9[37m0
+pre_runT[37mi[37mme = 313
+[37mp[37mre_kph = 1[37m4[37m
+pre_Data [37mU[37mpdated
+0.2[37m5[37m
+-0.01
+-[37m0[37m.00
+0.01
+[37mG[37mYRO data u[37mp[37mdated
+[37mE[37mL[37mM327 data [37mr[37mepresentin[37mg[37m.....
+[37mi[37mnst[37ma[37mntFuelConsume : 8.55
+commandedAirFuelRatio : 1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37me[37mff[37mi[37mciencyMark[37m [37m: 4.62 / 10[37m [37m
+averageF[37mu[37melConsume :[37m [37m8.55
+coun[37mt[37mer_KphRpm :[37m [37m7
+safetyM[37ma[37mrk : 8.22 /[37m [37m10 
+Count[37me[37mr_Time : 0[37m
+[37msafetyScor[37me[37mBuf : good[37m
+[37mdrivingMar[37mk[37m : 6.42 / 1[37m0[37m 
+average[37md[37mrivingMark [37m:[37m 7.06 / 10 [37m[37m
+pre_insta[37mn[37mtFuelConsum[37me[37m = 8.55
+p[37mr[37me_f_accelX [37m=[37m -0.00
+pr[37me[37m_f_accelY [37m=[37m 0.01
+pre_[37mr[37mpm = 837
+p[37mr[37me_runTime [37m=[37m 314
+pre_k[37mp[37mh = 59
+pr[37me[37m_Data Updat[37me[37md
+[37m0[37m.24
+-0.01[37m
+[37m-0.00
+0.00[37m[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM[37m3[37m27 data rep[37mr[37mesenting..[37m.[37m..
+[37mi[37mnstan[37mt[37mFuelConsum[37me[37m : 19.50
+c[37mo[37mmmandedAir[37mF[37muelRatio : [37m1[37m.00
+AFR :[37m [37m14.70
+[37mE[37mLM[37m3[37m27 Data Log[37mg[37ming...
+[37me[37mff[37mi[37mciencyMark[37m [37m: 7.33 / 10[37m [37m
+averageFu[37me[37mlConsume :[37m [37m19.50
+safe[37mt[37myMark : 8.[37m2[37m2 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : g[37mo[37mod
+driving[37mM[37mark : 7.78[37m [37m/ 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 7.09 /[37m [37m10 
+pre_i[37mn[37mstantFuelCo[37mn[37msume = 19.[37m5[37m0
+pre_f_ac[37mc[37melX = -0.0[37m0[37m
+pre_f_accelY = 0.00[37m
+[37mpre_rpm = 8[37m5[37m3
+pre_run[37mT[37mime = 315
+[37mp[37mre_kph = 74[37m[37m
+pre_Data [37mU[37mpdated
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Topic su[37mb[37mscribed: "[37m$[37maws/things/[37mc[37mar-datalog[37mg[37mera/shadow/[37mu[37mpdate/acce[37mp[37mted"
+[37m[37m
+[37m[MAIN] [MQ[37mT[37mT] Message [37mp[37mublished: [37m"[37m$aws/things[37m/[37mcar-datalo[37mg[37mgera/shadow[37m/[37mupdate", M[37me[37mssage: {"st[37ma[37mte":{"repor[37mt[37med":{"name[37m"[37m:"car-data[37ml[37moggera","en[37ma[37mbled":"ELM[37m_[37mSUCCESS","g[37me[37mo":{"latit[37mu[37mde":"37.400[37m0[37m2","longitu[37md[37me":"126.94[37m2[37m54"}}}}
+[37m[37m
+[37m[MAIN] [MQ[37mT[37mT] Message[37m [37mpublished: [37m"[37mdt/cardata[37m/[37mlogger/car-[37md[37mataloggera[37m/[37mcar-data", [37mM[37message: {"[37me[37mfficiencyMa[37mr[37mk": 7.3333[37m3[37m3,"safetyMa[37mr[37mk": 8.2222[37m2[37m2,"drivingM[37ma[37mrk": 7.7777[37m7[37m8,"average[37md[37mrivingMark"[37m:[37m 7.087776,[37m"[37mrpm": 853,"[37mk[37mph": 74,"e[37mn[37mgineLoad": [37m5[37m1,"runTime[37m"[37m: 315,"fuel[37mT[37mype": 7,"o[37mi[37mlTemp": 88,[37m"[37mrelativePe[37md[37malPos": 20,[37m"[37mthrottle":[37m [37m15,"relativ[37me[37mThrottle":[37m [37m78,"intakeA[37mi[37mrTemp": 16[37m,[37m"fuelLevel"[37m:[37m 57,"mafRa[37mt[37me": 11.0000[37m0[37m0,"obdStan[37md[37mards": 11,"[37md[37mistTravelW[37mi[37mthMIL": 316[37m,[37m"distSinceC[37mo[37mdesCleared[37m"[37m: 316,"ctrl[37mM[37modVoltage"[37m:[37m 12,"ambien[37mt[37mAirTemp": [37m1[37m9,"manifold[37mP[37mressure": [37m7[37m2,"engineCo[37mo[37mlantTemp":[37m [37m81,"command[37me[37mdThrottleA[37mc[37mtuator": 62[37m.[37m745098,"ti[37mm[37mestamp": 12[37m3[37m45678}
+0.[37m2[37m3
+-0.02
+0[37m.[37m00
+0.00
+[37mG[37mYRO data up[37md[37mated
+[37mE[37mLM3[37m2[37m7 data repr[37me[37msenting...[37m.[37m.
+[37mi[37mnstant[37mF[37muelConsume [37m:[37m 30.00
+co[37mm[37mmandedAirFu[37me[37mlRatio : 1[37m.[37m00
+AFR : 1[37m4[37m.70
+[37mE[37mLM32[37m7[37m Data Logg[37mi[37mng...
+[37me[37mf[37mficienc[37my[37mMark : 7.4[37m9[37m / 10 
+ave[37mr[37mageFuelCon[37ms[37mume : 30.00[37m[37m
+safetyMar[37mk[37m : 8.32 / 1[37m0[37m 
+Counter[37m_[37mTime : 0
+s[37ma[37mfetyScoreB[37mu[37mf : good
+d[37mr[37mivingMark [37m:[37m 7.90 / 10 [37m[37m
+averagedr[37mi[37mvingMark : [37m7[37m.12 / 10 [37m
+[37mpre_instant[37mF[37muelConsume[37m [37m= 30.00
+pr[37me[37m_f_accelX [37m=[37m 0.00
+pre_[37mf[37m_accelY = [37m0[37m.00
+pre_rp[37mm[37m = 840
+pre[37m_[37mrunTime = [37m3[37m34
+pre_kph[37m [37m= 67
+pre_[37mD[37mata Updated[37m[37m
+0.24
+-0.[37m0[37m1
+-0.01
+0[37m.[37m00
+GYRO d[37ma[37mta updated[37m
+[37mE[37mLM327 d[37ma[37mta represen[37mt[37ming.....
+[37mi[37mn[37mstantFuel[37mC[37monsume : 8.[37m5[37m4
+command[37me[37mdAirFuelRa[37mt[37mio : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mLM327 D[37ma[37mta Logging.[37m.[37m.
+[37me[37mf[37mficienc[37my[37mMark : 4.64[37m [37m/ 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 8.54[37m
+[37msafetyMark[37m [37m: 8.33 / 10[37m [37m
+Counter_[37mT[37mime : 0
+sa[37mf[37metyScoreBuf[37m [37m: good
+dr[37mi[37mvingMark : [37m6[37m.49 / 10 [37m
+[37maveragedriv[37mi[37mngMark : 7[37m.[37m10 / 10 
+p[37mr[37me_instantF[37mu[37melConsume =[37m [37m8.54
+pre_[37mf[37m_accelX = -[37m0[37m.01
+pre_f[37m_[37maccelY = 0.[37m0[37m0
+pre_rpm[37m [37m= 1558
+pre[37m_[37mrunTime = [37m3[37m35
+pre_kph[37m [37m= 53
+pre_[37mD[37mata Updated[37m[37m
+0.25
+-0.[37m0[37m0
+-0.00
+-[37m0[37m.01
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mL[37mM327 data[37m [37mrepresentin[37mg[37m.....
+[37mi[37mns[37mt[37mantFuelCons[37mu[37mme : 2.59[37m
+[37mcommandedAi[37mr[37mFuelRatio [37m:[37m 1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37mc[37mo[37munter_F[37mu[37mel : 5
+eff[37mi[37mciencyMark[37m [37m: 4.64 / 10[37m [37m
+averageF[37mu[37melConsume :[37m [37m2.59
+safe[37mt[37myMark : 8.3[37m3[37m / 10 
+Co[37mu[37mnter_Time :[37m [37m0
+safetySc[37mo[37mreBuf : go[37mo[37md
+drivingM[37ma[37mrk : 6.49 [37m/[37m 10 
+avera[37mg[37medrivingMa[37mr[37mk : 7.07 /[37m [37m10 
+pre_in[37ms[37mtantFuelCon[37ms[37mume = 2.59[37m[37m
+pre_f_acce[37ml[37mX = -0.00[37m
+[37mpre_f_accel[37mY[37m = -0.01
+[37mp[37mre_rpm = 11[37m3[37m2
+pre_run[37mT[37mime = 336
+[37mp[37mre_kph = 2[37m5[37m
+pre_Data [37mU[37mpdated
+[37m[37m
+[MAIN] [[37mM[37mQTT] Topic[37m [37msubscribed:[37m [37m"$aws/thin[37mg[37ms/car-datal[37mo[37mggera/shad[37mo[37mw/update/ac[37mc[37mepted"
+[37m[37m
+[MAIN][37m [37m[MQTT] Mes[37ms[37mage publish[37me[37md: "$aws/t[37mh[37mings/car-da[37mt[37maloggera/s[37mh[37madow/update[37m"[37m, Message:[37m [37m{"state":{"[37mr[37meported":{[37m"[37mname":"car-[37md[37mataloggera"[37m,[37m"enabled":[37m"[37mELM_SUCCES[37mS[37m","geo":{"l[37ma[37mtitude":"3[37m7[37m.40002","lo[37mn[37mgitude":"1[37m2[37m6.94254"}}}[37m}[37m
+[37m[37m
+[MAIN][37m [37m[MQTT] Mes[37ms[37mage publish[37me[37md: "dt/car[37md[37mata/logger/[37mc[37mar-datalogg[37me[37mra/car-dat[37ma[37m", Message:[37m [37m{"efficien[37mc[37myMark": 4.6[37m4[37m2857,"safe[37mt[37myMark": 8.3[37m3[37m3333,"driv[37mi[37mngMark": 6.[37m4[37m88095,"ave[37mr[37magedrivingM[37ma[37mrk": 7.073[37m4[37m81,"rpm": 1[37m1[37m32,"kph": 2[37m5[37m,"engineLo[37ma[37md": 2,"runT[37mi[37mme": 336,"[37mf[37muelType": [37m7[37m,"oilTemp":[37m [37m88,"relati[37mv[37mePedalPos":[37m [37m14,"thrott[37ml[37me": 65,"rel[37ma[37mtiveThrottl[37me[37m": 46,"int[37ma[37mkeAirTemp":[37m [37m19,"fuelLe[37mv[37mel": 55,"ma[37mf[37mRate": 28.[37m0[37m00000,"obdS[37mt[37mandards": [37m1[37m1,"distTrav[37me[37mlWithMIL":[37m [37m336,"distSi[37mn[37mceCodesCle[37ma[37mred": 336,"[37mc[37mtrlModVolta[37mg[37me": 12,"am[37mb[37mientAirTem[37mp[37m": 11,"mani[37mf[37moldPressur[37me[37m": 37,"engi[37mn[37meCoolantTe[37mm[37mp": 83,"com[37mm[37mandedThrott[37ml[37meActuator"[37m:[37m 72.941177,[37m"[37mtimestamp"[37m:[37m 12345678}[37m
+[37m0.23
+-0.0[37m2[37m
+0.00
+0.0[37m0[37m
+GYRO dat[37ma[37m updated
+[37mE[37mLM3[37m27 data repr[37me[37msenting...[37m.[37m.
+[37mi[37mnstan[37mt[37mFuelConsume[37m [37m: 7.83
+co[37mm[37mmandedAirFu[37me[37mlRatio : 1[37m.[37m00
+AFR : 1[37m4[37m.70
+[37mE[37mLM3[37m2[37m7 Data Logg[37mi[37mng...
+[37mc[37mount[37me[37mr_Rpm : 5[37m
+[37mefficiencyM[37ma[37mrk : 4.58 [37m/[37m 10 
+avera[37mg[37meFuelConsu[37mm[37me : 7.83
+s[37ma[37mfetyMark :[37m [37m8.44 / 10 [37m
+[37mCounter_Ti[37mm[37me : 0
+safe[37mt[37myScoreBuf [37m:[37m good
+driv[37mi[37mngMark : 6[37m.[37m51 / 10 
+a[37mv[37meragedrivin[37mg[37mMark : 7.0[37m5[37m / 10 
+pre[37m_[37minstantFue[37ml[37mConsume = 7[37m.[37m83
+pre_f_[37ma[37mccelX = 0.[37m0[37m0
+pre_f_ac[37mc[37melY = 0.00[37m
+[37mpre_rpm = [37m2[37m916
+pre_ru[37mn[37mTime = 359[37m[37m
+pre_kph = [37m2[37m7
+pre_Dat[37ma[37m Updated
+0[37m.[37m22
+-0.01[37m
+[37m0.01
+0.00[37m
+[37mGYRO data [37mu[37mpdated
+[37mE[37mLM327 [37md[37mata represe[37mn[37mting.....[37m
+[37mi[37mn[37mstantFuel[37mC[37monsume : 3[37m.[37m87
+comman[37md[37medAirFuelRa[37mt[37mio : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mLM327 [37mD[37mata Logging[37m.[37m..
+[37me[37mffic[37mi[37mencyMark :[37m [37m4.58 / 10 [37m
+[37maverageFuel[37mC[37monsume : 3[37m.[37m87
+safetyM[37ma[37mrk : 8.44 [37m/[37m 10 
+Coun[37mt[37mer_Time : 0[37m[37m
+safetySco[37mr[37meBuf : good[37m[37m
+drivingMar[37mk[37m : 6.51 / [37m1[37m0 
+average[37md[37mrivingMark[37m [37m: 7.03 / 10[37m [37m
+pre_inst[37ma[37mntFuelConsu[37mm[37me = 3.87
+[37mp[37mre_f_accelX[37m [37m= 0.01
+pr[37me[37m_f_accelY =[37m [37m0.00
+pre_[37mr[37mpm = 2541
+[37mp[37mre_runTime [37m=[37m 360
+pre_[37mk[37mph = 8
+pre[37m_[37mData Updat[37me[37md
+[37m[37m
+[MAIN] [[37mM[37mQTT] Topic[37m [37msubscribed:[37m [37m"$aws/thin[37mg[37ms/car-datal[37mo[37mggera/shad[37mo[37mw/update/a[37mc[37mcepted"
+[37m[37m
+[MAIN[37m][37m [MQTT] Mes[37ms[37mage publish[37me[37md: "$aws/t[37mh[37mings/car-da[37mt[37maloggera/s[37mh[37madow/update[37m"[37m, Message:[37m [37m{"state":{"[37mr[37meported":{[37m"[37mname":"car-[37md[37mataloggera[37m"[37m,"enabled":[37m"[37mELM_SUCCES[37mS[37m","geo":{"l[37ma[37mtitude":"37[37m.[37m40002","lo[37mn[37mgitude":"12[37m6[37m.94254"}}}[37m}[37m
+[37m[37m
+[MA[37mI[37mN] [MQTT] M[37me[37mssage publ[37mi[37mshed: "dt/c[37ma[37mrdata/logg[37me[37mr/car-datal[37mo[37mggera/car-[37md[37mata", Messa[37mg[37me: {"effic[37mi[37mencyMark": [37m4[37m.583333,"s[37ma[37mfetyMark": [37m8[37m.444445,"d[37mr[37mivingMark":[37m [37m6.513889,"[37ma[37mveragedrivi[37mn[37mgMark": 7.[37m0[37m34794,"rpm"[37m:[37m 2541,"kph"[37m:[37m 8,"engine[37mL[37moad": 75,"r[37mu[37mnTime": 36[37m0[37m,"fuelType"[37m:[37m 7,"oilTem[37mp[37m": 74,"rel[37ma[37mtivePedalPo[37ms[37m": 30,"thro[37mt[37mtle": 55,"[37mr[37melativeThro[37mt[37mtle": 76,"[37mi[37mntakeAirTem[37mp[37m": 15,"fue[37ml[37mLevel": 55,[37m"[37mmafRate": [37m6[37m.000000,"ob[37md[37mStandards"[37m:[37m 11,"distTr[37ma[37mvelWithMIL[37m"[37m: 360,"dist[37mS[37minceCodesC[37ml[37meared": 360[37m,[37m"ctrlModVol[37mt[37mage": 12,"[37ma[37mmbientAirT[37me[37mmp": 16,"ma[37mn[37mifoldPress[37mu[37mre": 30,"en[37mg[37mineCoolant[37mT[37memp": 83,"c[37mo[37mmmandedThro[37mt[37mtleActuato[37mr[37m": 20.78431[37m3[37m,"timestam[37mp[37m": 12345678[37m}[37m
+0.24
+-0[37m.[37m02
+-0.01
+[37m0[37m.01
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mLM[37m327 data re[37mp[37mresenting..[37m.[37m..
+[37mi[37mnsta[37mn[37mtFuelConsum[37me[37m : 7.46
+c[37mo[37mmmandedAirF[37mu[37melRatio : [37m1[37m.00
+AFR : [37m1[37m4.70
+[37mE[37mLM[37m3[37m27 Data Lo[37mg[37mging...
+[37me[37mf[37mficienc[37my[37mMark : 4.60[37m [37m/ 10 
+aver[37ma[37mgeFuelCons[37mu[37mme : 7.46
+[37ms[37mafetyMark [37m:[37m 8.51 / 10[37m [37m
+Counter_T[37mi[37mme : 0
+sa[37mf[37metyScoreBuf[37m [37m: good
+dri[37mv[37mingMark : [37m6[37m.55 / 10 
+[37ma[37mveragedriv[37mi[37mngMark : 7.[37m0[37m2 / 10 
+p[37mr[37me_instantFu[37me[37mlConsume =[37m [37m7.46
+pre_f[37m_[37maccelX = -[37m0[37m.01
+pre_f_[37ma[37mccelY = 0.[37m0[37m1
+pre_rpm [37m=[37m 2701
+pre_[37mr[37munTime = 3[37m7[37m5
+pre_kph[37m [37m= 18
+pre_D[37ma[37mta Updated[37m[37m
+[37m[37m
+[MAIN] [MQTT[37m][37m Topic sub[37ms[37mcribed: "$a[37mw[37ms/things/ca[37mr[37m-datalogge[37mr[37ma/shadow/u[37mp[37mdate/accept[37me[37md"
+[37m[37m
+[MA[37mI[37mN] [MQTT] [37mM[37message publ[37mi[37mshed: "$aw[37ms[37m/things/car[37m-[37mdataloggera[37m/[37mshadow/upd[37ma[37mte", Messa[37mg[37me: {"state"[37m:[37m{"reported[37m"[37m:{"name":"c[37ma[37mr-datalogg[37me[37mra","enable[37md[37m":"ELM_SUCC[37mE[37mSS","geo":[37m{[37m"latitude":[37m"[37m37.40002",[37m"[37mlongitude":[37m"[37m126.94254"[37m}[37m}}}
+[37m[37m
+[MA[37mIN] [MQTT] M[37me[37mssage publi[37ms[37mhed: "dt/c[37ma[37mrdata/logg[37me[37mr/car-datal[37mo[37mggera/car-[37md[37mata", Messa[37mg[37me: {"effic[37mi[37mencyMark": [37m4[37m.600000,"sa[37mf[37metyMark": [37m8[37m.506666,"dr[37mi[37mvingMark":[37m [37m6.553333,"a[37mv[37meragedrivi[37mn[37mgMark": 7.[37m0[37m18745,"rpm"[37m:[37m 2701,"kph"[37m:[37m 18,"engin[37me[37mLoad": 82,"[37mr[37munTime": 3[37m7[37m5,"fuelType[37m"[37m: 7,"oilTe[37mm[37mp": 90,"rel[37ma[37mtivePedalP[37mo[37ms": 75,"thr[37mo[37mttle": 54,[37m"[37mrelativeThr[37mo[37mttle": 73,[37m"[37mintakeAirTe[37mm[37mp": 18,"fue[37ml[37mLevel": 50[37m,[37m"mafRate": [37m7[37m.000000,"o[37mb[37mdStandards"[37m:[37m 11,"distT[37mr[37mavelWithMI[37mL[37m": 375,"dis[37mt[37mSinceCodesC[37ml[37meared": 37[37m5[37m,"ctrlModVo[37ml[37mtage": 13,[37m"[37mambientAirT[37me[37mmp": 11,"m[37ma[37mnifoldPress[37mu[37mre": 52,"e[37mn[37mgineCoolant[37mT[37memp": 84,"c[37mo[37mmmandedThr[37mo[37mttleActuat[37mo[37mr": 58.8235[37m3[37m2,"timesta[37mm[37mp": 1234567[37m8[37m}
+0.14
+0[37m.[37m01
+0.00
+0[37m.[37m00
+GYRO da[37mt[37ma updated[37m
+[37mE[37mLM327 [37md[37mata represe[37mn[37mting.....[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : [37m1[37m5.29
+comma[37mn[37mdedAirFuel[37mR[37matio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mLM327 [37mD[37mata Logging[37m.[37m..
+[37me[37mffi[37mc[37miencyMark [37m:[37m 7.34 / 10 [37m[37m
+averageFu[37me[37mlConsume : [37m1[37m5.29
+coun[37mt[37mer_KphRpm :[37m [37m8
+safetyM[37ma[37mrk : 8.38 /[37m [37m10 
+Counte[37mr[37m_Time : 0[37m
+[37msafetyScore[37mB[37muf : good[37m
+[37mdrivingMar[37mk[37m : 7.86 / 1[37m0[37m 
+average[37md[37mrivingMark [37m:[37m 7.05 / 10 [37m[37m
+pre_insta[37mn[37mtFuelConsum[37me[37m = 15.29
+[37mp[37mre_f_accelX[37m [37m= 0.00
+pr[37me[37m_f_accelY =[37m [37m0.00
+pre_[37mr[37mpm = 2071
+[37mp[37mre_runTime[37m [37m= 394
+pre_[37mk[37mph = 58
+p[37mr[37me_Data Upda[37mt[37med
+0.15[37m
+[37m-0.00
+-0.0[37m0[37m
+0.00
+GY[37mR[37mO data upda[37mt[37med
+[37mE[37mLM327 data[37m [37mrepresenti[37mn[37mg.....
+[37mi[37mn[37mstantFuelCon[37ms[37mume : 6.89[37m[37m
+commandedA[37mi[37mrFuelRatio[37m [37m: 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM327 Data [37mL[37mogging...
+[37mc[37moun[37mt[37mer_Fuel : 6[37m[37m
+efficienc[37my[37mMark : 4.62[37m [37m/ 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 6.89[37m
+[37msafetyMark [37m:[37m 8.38 / 10[37m [37m
+Counter_T[37mi[37mme : 0
+sa[37mf[37metyScoreBuf[37m [37m: good
+dr[37mi[37mvingMark : [37m6[37m.50 / 10 
+[37ma[37mveragedriv[37mi[37mngMark : 7.[37m0[37m3 / 10 
+p[37mr[37me_instantF[37mu[37melConsume =[37m [37m6.89
+pre_[37mf[37m_accelX = -[37m0[37m.00
+pre_f_[37ma[37mccelY = 0.[37m0[37m0
+pre_rpm [37m=[37m 733
+pre_[37mr[37munTime = 39[37m5[37m
+pre_kph [37m=[37m 38
+pre_Da[37mt[37ma Updated[37m
+[37m0.20
+-0[37m.[37m02
+0.01
+[37m-[37m0.00
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mL[37mM327 data r[37me[37mpresenting.[37m.[37m...
+[37mi[37mnsta[37mn[37mtFuelConsu[37mm[37me : 9.55
+c[37mo[37mmmandedAir[37mF[37muelRatio : [37m1[37m.00
+AFR :[37m [37m14.70
+[37mE[37mLM327 Data Log[37mg[37ming...
+[37me[37mffi[37mc[37miencyMark :[37m [37m4.62 / 10 [37m[37m
+averageFue[37ml[37mConsume : [37m9[37m.55
+counte[37mr[37m_KphRpm : [37m9[37m
+safetyMar[37mk[37m : 8.18 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+s[37ma[37mfetyScoreB[37mu[37mf : good
+d[37mr[37mivingMark : 6.40 / 10 [37m[37m
+averagedr[37mi[37mvingMark : [37m7[37m.01 / 10 [37m
+[37mpre_instant[37mF[37muelConsume[37m [37m= 9.55
+pre[37m_[37mf_accelX = 0.01
+pre_f[37m_[37maccelY = -0[37m.[37m00
+pre_rp[37mm[37m = 1713
+pr[37me[37m_runTime =[37m [37m396
+pre_kp[37mh[37m = 56
+pre[37m_[37mData Update[37md[37m
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Topic su[37mb[37mscribed: "$[37ma[37mws/things/[37mc[37mar-datalogg[37me[37mra/shadow/[37mu[37mpdate/accep[37mt[37med"
+[37m[37m
+[M[37mA[37mIN] [MQTT] [37mM[37message publ[37mi[37mshed: "$aw[37ms[37m/things/car[37m-[37mdatalogger[37ma[37m/shadow/upd[37ma[37mte", Messa[37mg[37me: {"state[37m"[37m:{"reported[37m"[37m:{"name":"c[37ma[37mr-datalogg[37me[37mra","enable[37md[37m":"ELM_SUC[37mC[37mESS","geo":[37m{[37m"latitude"[37m:[37m"37.40002",[37m"[37mlongitude"[37m:[37m"126.94254"[37m}[37m}}}
+[37m[37m
+[MAIN][37m [37m[MQTT] Mess[37ma[37mge published:[37m [37m"dt/card[37ma[37mta/logger/c[37ma[37mr-datalogg[37me[37mra/car-dat[37ma[37m", Message:[37m [37m{"efficien[37mc[37myMark": 4.6[37m2[37m1212,"safe[37mt[37myMark": 8.1[37m8[37m1818,"drivi[37mn[37mgMark": 6.[37m4[37m01515,"aver[37ma[37mgedrivingM[37ma[37mrk": 7.0096[37m7[37m3,"rpm": 1[37m7[37m13,"kph": 5[37m6[37m,"engineLo[37ma[37md": 86,"run[37mT[37mime": 396,[37m"[37mfuelType": [37m7[37m,"oilTemp"[37m:[37m 86,"relati[37mv[37mePedalPos"[37m:[37m 67,"thrott[37ml[37me": 56,"re[37ml[37mativeThrott[37ml[37me": 64,"in[37mt[37makeAirTemp"[37m:[37m 10,"fuelL[37me[37mvel": 53,"m[37ma[37mfRate": 17.[37m0[37m00000,"obd[37mS[37mtandards": [37m1[37m1,"distTra[37mv[37melWithMIL":[37m [37m397,"distS[37mi[37mnceCodesCl[37me[37mared": 397,[37m"[37mctrlModVolt[37ma[37mge": 12,"a[37mm[37mbientAirTem[37mp[37m": 17,"man[37mi[37mfoldPressur[37me[37m": 76,"eng[37mi[37mneCoolantTe[37mm[37mp": 81,"co[37mm[37mmandedThrot[37mt[37mleActuator[37m"[37m: 20.784313[37m,[37m"timestamp[37m"[37m: 12345678}[37m[37m
+0[37m.[37m04
+-0.00[37m
+[37m-0.00
+-0.[37m0[37m1
+GYRO dat[37ma[37m updated
+[37mE[37mLM32[37m7 data repr[37me[37msenting....[37m.[37m
+[37mi[37mnstant[37mF[37muelConsume [37m:[37m 9.42
+com[37mm[37mandedAirFue[37ml[37mRatio : 1.[37m0[37m0
+AFR : 14[37m.[37m70
+[37mE[37mLM3[37m2[37m7 Data Logg[37mi[37mng...
+[37me[37mfficien[37mc[37myMark : 4.6[37m3[37m / 10 
+av[37me[37mrageFuelCon[37ms[37mume : 9.42[37m[37m
+safetyMark[37m [37m: 8.24 / 1[37m0[37m 
+Counter_[37mT[37mime : 0
+s[37ma[37mfetyScoreBu[37mf[37m : good
+dr[37mi[37mvingMark :[37m [37m6.44 / 10 [37m
+[37maveragedri[37mv[37mingMark : [37m6[37m.99 / 10 
+[37mp[37mre_instant[37mF[37muelConsume [37m=[37m 9.42
+pre_[37mf[37m_accelX = [37m-[37m0.00
+pre_f[37m_[37maccelY = -[37m0[37m.01
+pre_rp[37mm[37m = 1748
+p[37mr[37me_runTime =[37m [37m409
+pre_k[37mp[37mh = 13
+pre[37m_[37mData Updat[37me[37md
+[37m0[37m.[37m04
+-0.01[37m[37m
+-0.00
+-0.[37m0[37m0
+GYRO da[37mt[37ma updated
+[37mE[37mLM327 [37md[37mata represe[37mn[37mting.....[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : 0[37m.[37m72
+comman[37md[37medAirFuelRa[37mt[37mio : 1.00[37m
+[37mAFR : 14.7[37m0[37m
+[37mE[37mL[37mM327 D[37ma[37mta Logging.[37m.[37m.
+[37mc[37mounter_Fuel : 7
+counter_Rpm : [37m6[37m
+efficien[37mc[37myMark : 4.5[37m6[37m / 10 
+av[37me[37mrageFuelCon[37ms[37mume : 0.72[37m[37m
+safetyMark[37m [37m: 8.24 / 1[37m0[37m 
+Counter_[37mT[37mime : 0
+s[37ma[37mfetyScoreBu[37mf[37m : good
+d[37mr[37mivingMark :[37m [37m6.40 / 10 [37m
+[37maveragedri[37mv[37mingMark : 6[37m.[37m98 / 10 
+[37mp[37mre_instant[37mF[37muelConsume [37m=[37m 0.72
+pre_[37mf[37m_accelX = [37m-[37m0.00
+pre_f[37m_[37maccelY = -[37m0[37m.00
+pre_rp[37mm[37m = 2755
+p[37mr[37me_runTime =[37m [37m410
+pre_k[37mp[37mh = 2
+pre_[37mD[37mata Update[37md[37m
+0.03
+-0.[37m0[37m0
+-0.00
+[37m0[37m.01
+GYRO d[37ma[37mta updated[37m[37m
+[37mE[37mLM327 data[37m [37mrepresenti[37mn[37mg.....
+[37mi[37mn[37mstantFuelCon[37ms[37mume : 7.06[37m[37m
+commandedA[37mi[37mrFuelRatio [37m:[37m 1.00
+AFR[37m [37m: 14.70
+[37mE[37mLM327 Data[37m [37mLogging...[37m
+[37me[37mf[37mficienc[37my[37mMark : 4.5[37m6[37m / 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 7.06[37m
+[37mcounter_Kp[37mh[37mRpm : 10
+s[37ma[37mfetyMark :[37m [37m8.05 / 10 [37m
+[37mCounter_Tim[37me[37m : 0
+safe[37mt[37myScoreBuf :[37m [37mgood
+driv[37mi[37mngMark : 6.[37m3[37m1 / 10 
+a[37mv[37meragedrivi[37mn[37mgMark : 6.9[37m6[37m / 10 
+pre[37m_[37minstantFue[37ml[37mConsume = 7[37m.[37m06
+pre_f_[37ma[37mccelX = -0.[37m0[37m0
+pre_f_a[37mc[37mcelY = 0.01[37m[37m
+pre_rpm =[37m [37m2652
+pre_r[37mu[37mnTime = 41[37m1[37m
+pre_kph =[37m [37m56
+pre_Da[37mt[37ma Updated
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Topic sub[37ms[37mcribed: "$[37ma[37mws/things/c[37ma[37mr-datalogg[37me[37mra/shadow/u[37mp[37mdate/accep[37mt[37med"
+[37m[37m
+[MAIN] [MQT[37mT[37m] Message p[37mu[37mblished: "[37m$[37maws/things[37m/[37mcar-datalog[37mg[37mera/shadow[37m/[37mupdate", Me[37ms[37msage: {"sta[37mt[37me":{"repor[37mt[37med":{"name"[37m:[37m"car-datal[37mo[37mggera","ena[37mb[37mled":"ELM_[37mS[37mUCCESS","ge[37mo[37m":{"latitu[37md[37me":"37.4000[37m2[37m","longitu[37md[37me":"126.942[37m5[37m4"}}}}
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Message[37m [37mpublished:[37m [37m"dt/cardat[37ma[37m/logger/car[37m-[37mdataloggera[37m/[37mcar-data",[37m [37mMessage: {"[37me[37mfficiencyM[37ma[37mrk": 4.5620[37m4[37m4,"safetyM[37ma[37mrk": 8.0535[37m2[37m8,"driving[37mM[37mark": 6.307[37m7[37m86,"averag[37me[37mdrivingMark[37m"[37m: 6.957385,[37m"[37mrpm": 2652[37m,[37m"kph": 56,[37m"[37mengineLoad"[37m:[37m 49,"runTi[37mm[37me": 411,"fu[37me[37mlType": 7,[37m"[37moilTemp": 7[37m4[37m,"relativeP[37me[37mdalPos": 4[37m4[37m,"throttle"[37m:[37m 26,"relat[37mi[37mveThrottle"[37m:[37m 7,"intake[37mA[37mirTemp": 19[37m,[37m"fuelLevel[37m"[37m: 50,"mafRa[37mt[37me": 23.000[37m0[37m00,"obdStan[37md[37mards": 11,[37m"[37mdistTravelW[37mi[37mthMIL": 41[37m2[37m,"distSince[37mC[37modesCleare[37md[37m": 412,"ctr[37ml[37mModVoltage[37m"[37m: 12,"ambie[37mn[37mtAirTemp":[37m [37m13,"manifol[37md[37mPressure": [37m9[37m0,"engineC[37mo[37molantTemp":[37m [37m81,"comman[37md[37medThrottleA[37mc[37mtuator": 6[37m3[37m.921570,"t[37mi[37mmestamp": 1[37m2[37m345678}
+0.[37m0[37m3
+-0.01
+[37m-[37m0.01
+-0.00[37m[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM327 da[37mt[37ma represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 14[37m.[37m70
+command[37me[37mdAirFuelRat[37mi[37mo : 1.00
+[37mA[37mFR : 14.70[37m
+[37mE[37mLM327 Dat[37ma[37m Logging..[37m.[37m
+[37me[37mf[37mficiencyMark[37m [37m: 6.62 / 1[37m0[37m 
+averageF[37mu[37melConsume [37m:[37m 14.70
+sa[37mf[37metyMark : 8[37m.[37m12 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safety[37mS[37mcoreBuf : [37mg[37mood
+drivin[37mg[37mMark : 7.3[37m7[37m / 10 
+ave[37mr[37magedriving[37mM[37mark : 6.97 [37m/[37m 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 14[37m.[37m70
+pre_f_a[37mc[37mcelX = -0.[37m0[37m1
+pre_f_ac[37mc[37melY = -0.00[37m[37m
+pre_rpm =[37m [37m737
+pre_ru[37mn[37mTime = 426[37m[37m
+pre_kph =[37m [37m71
+pre_Dat[37ma[37m Updated
+[37m0[37m.02
+-0.01[37m
+[37m0.00
+0.00[37m[37m
+GYRO data [37mu[37mpdated
+[37mE[37mL[37mM327 data r[37me[37mpresenting.[37m.[37m...
+[37mi[37mnst[37ma[37mntFuelConsu[37mm[37me : 3.90
+c[37mo[37mmmandedAir[37mF[37muelRatio : [37m1[37m.00
+AFR :[37m [37m14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37mc[37mo[37munter_Fuel :[37m [37m8
+counter[37m_[37mRpm : 7
+ef[37mf[37miciencyMark[37m [37m: 4.51 / 1[37m0[37m 
+averageF[37mu[37melConsume [37m:[37m 3.90
+saf[37me[37mtyMark : 8.[37m1[37m3 / 10 
+C[37mo[37munter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : g[37mo[37mod
+driving[37mM[37mark : 6.32[37m [37m/ 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 6.95 /[37m [37m10 
+pre_i[37mn[37mstantFuelCo[37mn[37msume = 3.9[37m0[37m
+pre_f_acc[37me[37mlX = 0.00[37m
+[37mpre_f_accel[37mY[37m = 0.00
+pr[37me[37m_rpm = 245[37m8[37m
+pre_runT[37mi[37mme = 427
+p[37mr[37me_kph = 35[37m[37m
+pre_Data U[37mp[37mdated
+0.0[37m3[37m
+-0.01
+-0[37m.[37m00
+-0.01
+[37mG[37mYRO data u[37mp[37mdated
+[37mE[37mLM3[37m27 data repr[37me[37msenting...[37m.[37m.
+[37mi[37mn[37mstant[37mF[37muelConsume [37m:[37m 4.00
+com[37mm[37mandedAirFue[37ml[37mRatio : 1.[37m0[37m0
+AFR : 14[37m.[37m70
+[37mE[37mLM3[37m2[37m7 Data Logg[37mi[37mng...
+[37me[37mf[37mficiencyMark[37m [37m: 4.51 / 10[37m [37m
+averageF[37mu[37melConsume :[37m [37m4.00
+safe[37mt[37myMark : 8.1[37m3[37m / 10 
+Co[37mu[37mnter_Time :[37m [37m0
+safetyS[37mc[37moreBuf : go[37mo[37md
+driving[37mM[37mark : 6.32 [37m/[37m 10 
+aver[37ma[37mgedrivingMa[37mr[37mk : 6.94 /[37m [37m10 
+pre_in[37ms[37mtantFuelCo[37mn[37msume = 4.00[37m[37m
+pre_f_acc[37me[37mlX = -0.00[37m
+[37mpre_f_accel[37mY[37m = -0.01
+[37mp[37mre_rpm = 25[37m0[37m2
+pre_run[37mT[37mime = 428
+[37mp[37mre_kph = 2[37m9[37m
+pre_Data[37m [37mUpdated
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Topic [37ms[37mubscribed: [37m"[37m$aws/thing[37ms[37m/car-datalo[37mg[37mgera/shado[37mw[37m/update/acc[37me[37mpted"
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Message [37mp[37mublished: [37m"[37m$aws/things[37m/[37mcar-datalog[37mg[37mera/shadow[37m/[37mupdate", Me[37ms[37msage: {"st[37ma[37mte":{"repor[37mt[37med":{"name[37m"[37m:"car-datal[37mo[37mggera","en[37ma[37mbled":"ELM_[37mS[37mUCCESS","g[37me[37mo":{"latitu[37md[37me":"37.400[37m0[37m2","longitu[37md[37me":"126.94[37m2[37m54"}}}}
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Message[37m [37mpublished: [37m"[37mdt/cardata[37m/[37mlogger/car-[37md[37mataloggera/[37mc[37mar-data", [37mM[37message: {"e[37mf[37mficiencyMa[37mr[37mk": 4.50934[37m6[37m,"safetyMa[37mr[37mk": 8.13084[37m1[37m,"drivingM[37ma[37mrk": 6.3200[37m9[37m4,"average[37md[37mrivingMark"[37m:[37m 6.935235,[37m"[37mrpm": 2502,[37m"[37mkph": 29,"[37me[37mngineLoad":[37m [37m4,"runTime[37m"[37m: 428,"fuel[37mT[37mype": 7,"o[37mi[37mlTemp": 89,[37m"[37mrelativePed[37ma[37mlPos": 34,[37m"[37mthrottle": [37m4[37m9,"relativ[37me[37mThrottle":[37m [37m7,"intakeAi[37mr[37mTemp": 17,[37m"[37mfuelLevel":[37m [37m58,"mafRate[37m"[37m: 21.00000[37m0[37m,"obdStanda[37mr[37mds": 11,"d[37mi[37mstTravelWit[37mh[37mMIL": 429,[37m"[37mdistSinceCo[37md[37mesCleared"[37m:[37m 429,"ctrlM[37mo[37mdVoltage":[37m [37m13,"ambient[37mA[37mirTemp": 1[37m7[37m,"manifoldP[37mr[37messure": 6[37m8[37m,"engineCoo[37ml[37mantTemp": [37m8[37m1,"commande[37md[37mThrottleAc[37mt[37muator": 52.[37m9[37m41177,"tim[37me[37mstamp": 123[37m4[37m5678}
+[37m0[37m.[37m03
+-0.01
+[37m-[37m0.01
+-0.0[37m1[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM327 dat[37ma[37m representi[37mn[37mg.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 7.2[37m5[37m
+commanded[37mA[37mirFuelRati[37mo[37m : 1.00
+AF[37mR[37m : 14.70
+[37mE[37mLM327 Dat[37ma[37m Logging...[37m[37m
+[37me[37mf[37mfici[37me[37mncyMark : 4[37m.[37m52 / 10 
+[37ma[37mverageFuelC[37mo[37mnsume : 7.[37m2[37m5
+counter_[37mK[37mphRpm : 11[37m[37m
+safetyMark[37m [37m: 8.00 / 1[37m0[37m 
+Counter_[37mT[37mime : 0
+sa[37mf[37metyScoreBu[37mf[37m : good
+dr[37mi[37mvingMark :[37m [37m6.26 / 10 [37m
+[37maveragedri[37mv[37mingMark : [37m6[37m.92 / 10 
+[37mp[37mre_instantF[37mu[37melConsume [37m=[37m 7.25
+pre_[37mf[37m_accelX = [37m-[37m0.01
+pre_f[37m_[37maccelY = -[37m0[37m.01
+pre_rp[37mm[37m = 1698
+p[37mr[37me_runTime =[37m [37m441
+pre_k[37mp[37mh = 65
+pre[37m_[37mData Updat[37me[37md
+[37m[37m
+[MAIN] [37m[[37mMQTT] Topic[37m [37msubscribed[37m:[37m "$aws/thin[37mg[37ms/car-data[37ml[37moggera/shad[37mo[37mw/update/ac[37mc[37mepted"
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messag[37me[37m published[37m:[37m "$aws/thin[37mg[37ms/car-datal[37mo[37mggera/shad[37mo[37mw/update", [37mM[37message: {"[37ms[37mtate":{"rep[37mo[37mrted":{"na[37mm[37me":"car-dat[37ma[37mloggera","[37me[37mnabled":"EL[37mM[37m_SUCCESS",[37m"[37mgeo":{"lati[37mt[37mude":"37.4[37m0[37m002","longi[37mt[37mude":"126.9[37m4[37m254"}}}}
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messag[37me[37m published[37m:[37m "dt/cardat[37ma[37m/logger/ca[37mr[37m-datalogger[37ma[37m/car-data",[37m [37mMessage: {[37m"[37mefficiencyM[37ma[37mrk": 4.523[37m8[37m09,"safetyM[37ma[37mrk": 8.004[37m5[37m36,"driving[37mM[37mark": 6.26[37m4[37m173,"averag[37me[37mdrivingMar[37mk[37m": 6.918458[37m,[37m"rpm": 169[37m8[37m,"kph": 65,[37m"[37mengineLoad[37m"[37m: 32,"runTi[37mm[37me": 441,"f[37mu[37melType": 7,[37m"[37moilTemp": [37m9[37m4,"relative[37mP[37medalPos": [37m1[37m3,"throttle[37m"[37m: 40,"relat[37mi[37mveThrottle[37m"[37m: 25,"intak[37me[37mAirTemp": [37m1[37m5,"fuelLeve[37ml[37m": 54,"maf[37mR[37mate": 26.0[37m0[37m0000,"obdSt[37ma[37mndards": 11[37m,[37m"distTrave[37ml[37mWithMIL": 4[37m4[37m2,"distSin[37mc[37meCodesClear[37me[37md": 442,"c[37mt[37mrlModVoltag[37me[37m": 12,"amb[37mi[37mentAirTemp"[37m:[37m 19,"manif[37mo[37mldPressure"[37m:[37m 65,"engin[37me[37mCoolantTemp[37m"[37m: 80,"comma[37mn[37mdedThrottl[37me[37mActuator": [37m3[37m5.686275,"[37mt[37mimestamp":[37m [37m12345678}
+[37m0[37m.04
+0.01[37m
+[37m-0.00
+-0.0[37m1[37m
+GYRO data[37m [37mupdated
+[37mE[37mL[37mM327 data[37m [37mrepresenti[37mn[37mg.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 16.[37m9[37m8
+commande[37md[37mAirFuelRati[37mo[37m : 1.00
+A[37mF[37mR : 14.70
+[37mE[37mLM327 Data[37m [37mLogging...[37m[37m
+[37me[37mf[37mficiencyM[37ma[37mrk : 6.39 [37m/[37m 10 
+avera[37mg[37meFuelConsum[37me[37m : 16.98
+[37ms[37mafetyMark :[37m [37m8.07 / 10 [37m[37m
+Counter_Ti[37mm[37me : 0
+saf[37me[37mtyScoreBuf [37m:[37m good
+dri[37mv[37mingMark : 7[37m.[37m23 / 10 
+[37ma[37mveragedrivi[37mn[37mgMark : 6.[37m9[37m3 / 10 
+pr[37me[37m_instantFue[37ml[37mConsume = [37m1[37m6.98
+pre_f[37m_[37maccelX = -[37m0[37m.00
+pre_f[37m_[37maccelY = -0[37m.[37m01
+pre_rp[37mm[37m = 2054
+pr[37me[37m_runTime = [37m4[37m57
+pre_kp[37mh[37m = 41
+pre_[37mD[37mata Update[37md[37m
+0.04
+-[37m0[37m.00
+-0.00[37m[37m
+-0.00
+GYR[37mO[37m data upda[37mt[37med
+[37mE[37mLM[37m3[37m27 data re[37mp[37mresenting..[37m.[37m..
+[37mi[37mn[37mstan[37mt[37mFuelConsum[37me[37m : 30.00
+c[37mo[37mmmandedAir[37mF[37muelRatio : [37m1[37m.00
+AFR :[37m [37m14.70
+[37mE[37mLM[37m3[37m27 Data Log[37mg[37ming...
+[37mc[37mo[37munter_Rpm[37m [37m: 8
+effici[37me[37mncyMark : 6[37m.[37m33 / 10 
+[37ma[37mverageFuelC[37mo[37mnsume : 30[37m.[37m00
+safetyM[37ma[37mrk : 8.08 [37m/[37m 10 
+Count[37me[37mr_Time : 0[37m[37m
+safetyScor[37me[37mBuf : good[37m[37m
+drivingMar[37mk[37m : 7.21 / [37m1[37m0 
+average[37md[37mrivingMark[37m [37m: 6.93 / 10[37m [37m
+pre_inst[37ma[37mntFuelConsu[37mm[37me = 30.00[37m
+[37mpre_f_accel[37mX[37m = -0.00
+[37mp[37mre_f_accelY[37m [37m= -0.00
+p[37mr[37me_rpm = 272[37m3[37m
+pre_runTi[37mm[37me = 458
+p[37mr[37me_kph = 40[37m
+[37mpre_Data U[37mp[37mdated
+0.05[37m[37m
+0.01
+-0.[37m0[37m0
+0.01
+GY[37mR[37mO data upd[37ma[37mted
+[37mE[37mLM327[37m [37mdata repre[37ms[37menting.....[37m[37m
+[37mi[37mn[37mstantFu[37me[37mlConsume : [37m5[37m.22
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mLM327 [37mD[37mata Loggin[37mg[37m...
+[37mc[37mo[37munter_Fuel[37m [37m: 9
+effic[37mi[37mencyMark : [37m4[37m.48 / 10 [37m
+[37maverageFuel[37mC[37monsume : 5[37m.[37m22
+safetyM[37ma[37mrk : 8.08 [37m/[37m 10 
+Count[37me[37mr_Time : 0[37m[37m
+safetyScor[37me[37mBuf : good[37m
+[37mdrivingMar[37mk[37m : 6.28 / 1[37m0[37m 
+average[37md[37mrivingMark [37m:[37m 6.92 / 10[37m [37m
+pre_insta[37mn[37mtFuelConsu[37mm[37me = 5.22
+pre_f_accelX[37m [37m= -0.00
+pr[37me[37m_f_accelY = 0.01
+pre_[37mr[37mpm = 2808[37m
+[37mpre_runTime = 459
+pre[37m_[37mkph = 27
+p[37mr[37me_Data Updated
+[37m[37m
+[MAIN[37m][37m [MQTT] To[37mp[37mic subscrib[37me[37md: "$aws/t[37mh[37mings/car-da[37mt[37maloggera/s[37mh[37madow/update[37m/[37maccepted"[37m
+[37m[37m
+[MAIN] [37m[[37mMQTT] Messa[37mg[37me publishe[37md[37m: "$aws/thi[37mn[37mgs/car-dat[37ma[37mloggera/sha[37md[37mow/update"[37m,[37m Message: {[37m"[37mstate":{"r[37me[37mported":{"n[37ma[37mme":"car-d[37ma[37mtaloggera",[37m"[37menabled":"[37mE[37mLM_SUCCESS"[37m,[37m"geo":{"la[37mt[37mitude":"37.[37m4[37m0002","lon[37mg[37mitude":"126[37m.[37m94254"}}}}[37m[37m
+[37m[37m
+[MA[37mI[37mN] [MQTT] M[37me[37mssage publ[37mi[37mshed: "dt/c[37ma[37mrdata/logg[37me[37mr/car-datal[37mo[37mggera/car-[37md[37mata", Messa[37mg[37me: {"effic[37mi[37mencyMark": [37m4[37m.477124,"s[37ma[37mfetyMark": [37m8[37m.082788,"d[37mr[37mivingMark":[37m [37m6.279956,"[37ma[37mveragedrivi[37mn[37mgMark": 6.[37m9[37m17569,"rpm"[37m:[37m 2808,"kph"[37m:[37m 27,"engin[37me[37mLoad": 60,"[37mr[37munTime": 4[37m5[37m9,"fuelType[37m"[37m: 7,"oilTemp": 92,"relativePedalPos": 24,"thr[37mo[37mttle": 55,[37m"[37mrelativeThr[37mo[37mttle": 29,[37m"[37mintakeAirTe[37mm[37mp": 12,"fu[37me[37mlLevel": 56[37m,[37m"mafRate":[37m [37m15.000000,"[37mo[37mbdStandard[37ms[37m": 11,"dist[37mT[37mravelWithM[37mI[37mL": 460,"di[37ms[37mtSinceCodes[37mC[37mleared": 4[37m6[37m0,"ctrlMod[37mV[37moltage": 12[37m,[37m"ambientAi[37mr[37mTemp": 10,"[37mm[37manifoldPres[37ms[37mure": 51,"[37me[37mngineCoolan[37mt[37mTemp": 87,[37m"[37mcommandedTh[37mr[37mottleActua[37mt[37mor": 27.843[37m1[37m38,"timest[37ma[37mmp": 123456[37m7[37m8}
+[37m0[37m.08
+-0[37m.[37m00
+-0.00
+[37m0[37m.01
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mL[37mM327 data [37mr[37mepresentin[37mg[37m.....
+[37mi[37mn[37mstantFuelCon[37ms[37mume : 0.72[37m
+[37mcommandedA[37mi[37mrFuelRatio [37m:[37m 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM327 Data [37mL[37mogging...
+[37me[37mffi[37mc[37miencyMark :[37m [37m4.49 / 10 [37m[37m
+averageFue[37ml[37mConsume : [37m0[37m.72
+safety[37mM[37mark : 8.14 [37m/[37m 10 
+Coun[37mt[37mer_Time : [37m0[37m
+safetySco[37mr[37meBuf : goo[37md[37m
+drivingMa[37mr[37mk : 6.32 /[37m [37m10 
+averag[37me[37mdrivingMark[37m [37m: 6.90 / 1[37m0[37m 
+pre_inst[37ma[37mntFuelCons[37mu[37mme = 0.72
+[37mp[37mre_f_accel[37mX[37m = -0.00
+p[37mr[37me_f_accelY[37m [37m= 0.01
+pre[37m_[37mrpm = 2480[37m[37m
+pre_runTim[37me[37m = 473
+pr[37me[37m_kph = 2
+p[37mr[37me_Data Upd[37ma[37mted
+[37m0[37m.[37m25
+-0[37m.[37m00
+-0.00[37m
+[37m-0.00
+GYRO[37m [37mdata updat[37me[37md
+[37mE[37mLM[37m3[37m27 data rep[37mr[37mesenting..[37m.[37m..
+[37mi[37mnstan[37mt[37mFuelConsume[37m [37m: 0.63
+co[37mm[37mmandedAirF[37mu[37melRatio : 1[37m.[37m00
+AFR : 1[37m4[37m.70
+[37mE[37mLM3[37m2[37m7 Data Log[37mg[37ming...
+[37me[37mffi[37mc[37miencyMark :[37m [37m4.49 / 10 [37m
+[37maverageFue[37ml[37mConsume : 0[37m.[37m63
+safety[37mM[37mark : 8.14 [37m/[37m 10 
+Coun[37mt[37mer_Time : 0[37m[37m
+safetySco[37mr[37meBuf : good[37m[37m
+drivingMa[37mr[37mk : 6.32 / [37m1[37m0 
+averag[37me[37mdrivingMark[37m [37m: 6.89 / 10[37m [37m
+pre_inst[37ma[37mntFuelConsu[37mm[37me = 0.63
+[37mp[37mre_f_accelX[37m [37m= -0.00
+p[37mr[37me_f_accelY [37m=[37m -0.00
+pr[37me[37m_rpm = 2352[37m[37m
+pre_runTi[37mm[37me = 474
+p[37mr[37me_kph = 5
+[37mp[37mre_Data Up[37md[37mated
+[37m[37m
+[MAIN][37m [37m[MQTT] Topi[37mc[37m subscribe[37md[37m: "$aws/thi[37mn[37mgs/car-dat[37ma[37mloggera/sh[37ma[37mdow/update/[37ma[37mccepted"
+[37m[37m
+[MAIN[37m][37m [MQTT] Mes[37ms[37mage publis[37mh[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/[37ms[37mhadow/updat[37me[37m", Message[37m:[37m {"state":{[37m"[37mreported":{[37m"[37mname":"car[37m-[37mdataloggera[37m"[37m,"enabled"[37m:[37m"ELM_SUCCES[37mS[37m","geo":{"[37ml[37matitude":"[37m3[37m7.40002","l[37mo[37mngitude":"1[37m2[37m6.94254"}}[37m}[37m}
+[37m[37m
+[M[37mAIN] [MQTT][37m [37mMessage pub[37ml[37mished: "dt[37m/[37mcardata/log[37mg[37mer/car-dat[37ma[37mloggera/car[37m-[37mdata", Mes[37ms[37mage: {"effi[37mc[37miencyMark"[37m:[37m 4.493671,"[37ms[37mafetyMark":[37m [37m8.143460,"[37md[37mrivingMark"[37m:[37m 6.318565,[37m"[37maveragedri[37mv[37mingMark": 6[37m.[37m890892,"rpm[37m"[37m: 2352,"kp[37mh[37m": 5,"engin[37me[37mLoad": 44,[37m"[37mrunTime": 4[37m7[37m4,"fuelTyp[37me[37m": 7,"oilTe[37mm[37mp": 79,"re[37ml[37mativePedalP[37mo[37ms": 50,"th[37mr[37mottle": 51,[37m"[37mrelativeThr[37mo[37mttle": 14,[37m"[37mintakeAirTe[37mm[37mp": 18,"fu[37me[37mlLevel": 53[37m,[37m"mafRate":[37m [37m23.000000,"[37mo[37mbdStandard[37ms[37m": 11,"dist[37mT[37mravelWithM[37mI[37mL": 474,"d[37mi[37mstSinceCode[37ms[37mCleared": [37m4[37m74,"ctrlMod[37mV[37moltage": 12[37m,[37m"ambientAi[37mr[37mTemp": 17,"[37mm[37manifoldPre[37ms[37msure": 86,"[37me[37mngineCoola[37mn[37mtTemp": 82,[37m"[37mcommandedT[37mh[37mrottleActua[37mt[37mor": 30.980[37m3[37m92,"timest[37ma[37mmp": 123456[37m7[37m8}
+[37m0[37m.23
+-0.[37m0[37m2
+0.01
+-[37m0[37m.01
+GYRO d[37ma[37mta updated[37m[37m
+[37mE[37mLM327 data representing.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 2.[37m9[37m0
+command[37me[37mdAirFuelRat[37mi[37mo : 1.00
+[37mA[37mFR : 14.70[37m
+[37mE[37mL[37mM327 Da[37mt[37ma Logging..[37m.[37m
+[37me[37mf[37mficiency[37mM[37mark : 4.51 [37m/[37m 10 
+avera[37mg[37meFuelConsu[37mm[37me : 2.90
+s[37ma[37mfetyMark :[37m [37m8.22 / 10 [37m
+[37mCounter_Ti[37mm[37me : 0
+safe[37mt[37myScoreBuf [37m:[37m good
+driv[37mi[37mngMark : 6[37m.[37m37 / 10 
+a[37mv[37meragedrivin[37mg[37mMark : 6.8[37m8[37m / 10 
+pre_in[37ms[37mtantFue[37ml[37mConsume = [37m2[37m.90
+pre_f_[37ma[37mccelX = 0.[37m0[37m1
+pre_f_ac[37mc[37melY = -0.01[37m[37m
+pre_rpm =[37m [37m1166
+pre_r[37mu[37mnTime = 49[37m4[37m
+pre_kph =[37m [37m28
+pre_Da[37mt[37ma Updated
+[37m0[37m.[37m16
+0.[37m0[37m0
+0.00
+-0[37m.[37m02
+GYRO d[37ma[37mta updated[37m
+[37mE[37mL[37mM327 data r[37me[37mpresenting[37m.[37m....
+[37mi[37mnst[37ma[37mntFuelConsu[37mm[37me : 30.00[37m
+[37mcommandedAi[37mr[37mFuelRatio [37m:[37m 1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37mc[37mo[37munter_Rpm[37m [37m: 9
+effici[37me[37mncyMark : [37m6[37m.18 / 10 
+[37ma[37mverageFuel[37mC[37monsume : 3[37m0[37m.00
+counte[37mr[37m_KphRpm : 1[37m2[37m
+safetyMa[37mr[37mk : 8.06 / [37m1[37m0 
+Counte[37mr[37m_Time : 0
+[37ms[37mafetyScore[37mB[37muf : good
+[37md[37mrivingMark[37m [37m: 7.12 / 10[37m [37m
+averaged[37mrivingMark :[37m [37m6.88 / 10 [37m
+[37mpre_instan[37mt[37mFuelConsum[37me[37m = 30.00
+p[37mr[37me_f_accelX[37m [37m= 0.00
+pre[37m_[37mf_accelY =[37m [37m-0.02
+pre_[37mr[37mpm = 2533
+[37mp[37mre_runTime[37m [37m= 495
+pre_[37mk[37mph = 73
+p[37mr[37me_Data Upda[37mt[37med
+[37m[37m
+[MAIN] [MQTT][37m [37mTopic subsc[37mr[37mibed: "$aws[37m/[37mthings/car[37m-[37mdataloggera[37m/[37mshadow/upd[37ma[37mte/accepted[37m"[37m
+[37m[37m
+[MAIN[37m][37m [MQTT] Me[37ms[37msage publis[37mh[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/[37ms[37mhadow/updat[37me[37m", Message[37m:[37m {"state":{[37m"[37mreported":[37m{[37m"name":"car[37m-[37mdataloggera[37m"[37m,"enabled"[37m:[37m"ELM_SUCCES[37mS[37m","geo":{"[37ml[37matitude":"3[37m7[37m.40002","l[37mo[37mngitude":"[37m1[37m26.94254"}}[37m}[37m}
+[37m[37m
+[MAIN] [MQTT] Messag[37me[37m published[37m:[37m "dt/cardat[37ma[37m/logger/ca[37mr[37m-datalogger[37ma[37m/car-data"[37m,[37m Message: {"efficiency[37mM[37mark": 6.181[37m8[37m18,"safety[37mM[37mark": 8.060[37m6[37m06,"drivingMark": 7.121212,"averag[37me[37mdrivingMar[37mk[37m": 6.884633[37m,[37m"rpm": 253[37m3[37m,"kph": 73[37m,[37m"engineLoad[37m"[37m: 20,"runT[37mi[37mme": 495,"f[37mu[37melType": 7,[37m"[37moilTemp": [37m7[37m2,"relative[37mP[37medalPos": [37m4[37m0,"throttle[37m"[37m: 38,"rela[37mt[37miveThrottle[37m"[37m: 27,"inta[37mk[37meAirTemp": [37m1[37m9,"fuelLev[37me[37ml": 54,"maf[37mR[37mate": 2.00[37m0[37m000,"obdSta[37mn[37mdards": 11,[37m"[37mdistTravel[37mW[37mithMIL": 4[37m9[37m6,"distSinc[37me[37mCodesClear[37me[37md": 496,"ct[37mr[37mlModVoltag[37me[37m": 12,"ambi[37me[37mntAirTemp":[37m [37m15,"manifo[37ml[37mdPressure":[37m [37m88,"engine[37mC[37moolantTemp"[37m:[37m 85,"comma[37mn[37mdedThrottl[37me[37mActuator": [37m4[37m5.882355,"t[37mi[37mmestamp": [37m1[37m2345678}
+0[37m.[37m22
+-0.01[37m
+[37m0.00
+0.00[37m
+[37mGYRO data [37mu[37mpdated
+[37mE[37mLM[37m3[37m27 data rep[37mr[37mesenting...[37m.[37m.
+[37mi[37mnstan[37mt[37mFuelConsum[37me[37m : 10.69
+c[37mo[37mmmandedAirF[37mu[37melRatio : [37m1[37m.00
+AFR : [37m1[37m4.70
+[37mE[37mLM3[37m2[37m7 Data Logg[37mi[37mng...
+[37me[37mffic[37mi[37mencyMark :[37m [37m4.47 / 10 [37m
+[37maverageFue[37ml[37mConsume : 1[37m0[37m.69
+safet[37my[37mMark : 8.13[37m [37m/ 10 
+Cou[37mn[37mter_Time : [37m0[37m
+safetySc[37mo[37mreBuf : goo[37md[37m
+drivingM[37ma[37mrk : 6.30 /[37m [37m10 
+averag[37me[37mdrivingMar[37mk[37m : 6.87 / [37m1[37m0 
+pre_ins[37mt[37mantFuelCon[37ms[37mume = 10.69[37m[37m
+pre_f_acc[37me[37mlX = 0.00
+[37mp[37mre_f_accelY[37m [37m= 0.00
+pr[37me[37m_rpm = 826[37m
+[37mpre_runTim[37me[37m = 512
+pre[37m_[37mkph = 59
+[37mp[37mre_Data Up[37md[37mated
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Topic s[37mu[37mbscribed: [37m"[37m$aws/things[37m/[37mcar-datalo[37mg[37mgera/shadow[37m/[37mupdate/acc[37me[37mpted"
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Messag[37me[37m published:[37m [37m"$aws/thin[37mg[37ms/car-datal[37mo[37mggera/shad[37mo[37mw/update", [37mM[37message: {"s[37mt[37mate":{"rep[37mo[37mrted":{"na[37mm[37me":"car-dat[37ma[37mloggera","[37me[37mnabled":"EL[37mM[37m_SUCCESS",[37m"[37mgeo":{"lati[37mt[37mude":"37.40[37m0[37m02","longi[37mt[37mude":"126.9[37m4[37m254"}}}}
+[37m[37m
+[MAIN] [MQTT] Message [37mp[37mublished: [37m"[37mdt/cardata/[37ml[37mogger/car-[37md[37mataloggera/[37mc[37mar-data", [37mM[37message: {"e[37mf[37mficiencyMar[37mk[37m": 4.47265[37m6[37m,"safetyMar[37mk[37m": 8.12500[37m0[37m,"drivingMa[37mr[37mk": 6.2988[37m2[37m8,"averaged[37mr[37mivingMark"[37m:[37m 6.872428,"[37mr[37mpm": 826,"[37mk[37mph": 59,"en[37mg[37mineLoad": [37m6[37m7,"runTime"[37m:[37m 512,"fuel[37mT[37mype": 7,"oi[37ml[37mTemp": 74,[37m"[37mrelativePed[37ma[37mlPos": 60,[37m"[37mthrottle": [37m6[37m3,"relativ[37me[37mThrottle": [37m7[37m8,"intakeA[37mi[37mrTemp": 12,[37m"[37mfuelLevel":[37m [37m51,"mafRat[37me[37m": 16.00000[37m0[37m,"obdStand[37ma[37mrds": 11,"d[37mi[37mstTravelWi[37mt[37mhMIL": 513,[37m"[37mdistSinceC[37mo[37mdesCleared"[37m:[37m 513,"ctrl[37mM[37modVoltage":[37m [37m13,"ambien[37mt[37mAirTemp": 1[37m8[37m,"manifold[37mP[37mressure": 8[37m6[37m,"engineCo[37mo[37mlantTemp": [37m8[37m2,"command[37me[37mdThrottleAc[37mt[37muator": 44[37m.[37m705883,"tim[37me[37mstamp": 123[37m4[37m5678}
+0.2[37m3[37m
+-0.02
+-0[37m.[37m00
+0.00
+[37mG[37mYRO data up[37md[37mated
+[37mE[37mL[37mM327 data r[37me[37mpresenting[37m.[37m....
+[37mi[37mnst[37ma[37mntFuelCons[37mu[37mme : 30.00[37m
+[37mcommandedAirFuelRatio : 1.00
+AFR : 14.70
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m
+[37mc[37mounter_Rp[37mm[37m : 10
+eff[37mi[37mciencyMark [37m:[37m 6.37 / 10[37m [37m
+averageFu[37me[37mlConsume :[37m [37m30.00
+safe[37mt[37myMark : 8.[37m1[37m9 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : g[37mo[37mod
+driving[37mM[37mark : 7.28[37m [37m/ 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 6.88 /[37m [37m10 
+pre_in[37ms[37mtantFuelCo[37mn[37msume = 30.0[37m0[37m
+pre_f_ac[37mc[37melX = -0.00[37m[37m
+pre_f_acc[37me[37mlY = 0.00
+[37mp[37mre_rpm = 2[37m8[37m24
+pre_run[37mT[37mime = 529[37m
+[37mpre_kph = [37m3[37m7
+pre_Data[37m [37mUpdated
+[37m0[37m.21
+-0[37m.[37m01
+0.00
+[37m-[37m0.00
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mLM3[37m2[37m7 data rep[37mr[37mesenting...[37m.[37m.
+[37mi[37mnstan[37mt[37mFuelConsume[37m [37m: 6.80
+com[37mm[37mandedAirFu[37me[37mlRatio : 1.[37m0[37m0
+AFR : 1[37m4[37m.70
+[37mE[37mLM3[37m2[37m7 Data Log[37mg[37ming...
+[37mc[37mo[37munter_Fu[37me[37ml : 10
+eff[37mi[37mciencyMark[37m [37m: 4.43 / 10[37m [37m
+averageF[37mu[37melConsume :[37m [37m6.80
+coun[37mt[37mer_KphRpm :[37m [37m13
+safety[37mM[37mark : 8.04 [37m/[37m 10 
+Coun[37mt[37mer_Time : 0[37m[37m
+safetySco[37mr[37meBuf : good[37m[37m
+drivingMa[37mr[37mk : 6.24 / [37m1[37m0 
+averag[37me[37mdrivingMark[37m [37m: 6.87 / 1[37m0[37m 
+pre_inst[37ma[37mntFuelCons[37mu[37mme = 6.80
+[37mp[37mre_f_accelX[37m [37m= 0.00
+pr[37me[37m_f_accelY =[37m [37m-0.00
+pre[37m_[37mrpm = 780
+[37mp[37mre_runTime[37m [37m= 530
+pre_[37mk[37mph = 61
+p[37mr[37me_Data Upda[37mt[37med
+0.20
+[37m-[37m0.02
+0.00[37m
+[37m0.01
+GYRO[37m [37mdata update[37md[37m
+[37mE[37mLM327 [37md[37mata represe[37mn[37mting.....[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : 1[37m0[37m.44
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mLM327 D[37ma[37mta Logging[37m.[37m..
+[37mc[37mo[37munter_Rp[37mm[37m : 11
+effi[37mc[37miencyMark [37m:[37m 4.38 / 10 [37m[37m
+averageFu[37me[37mlConsume : [37m1[37m0.44
+safe[37mt[37myMark : 8.0[37m4[37m / 10 
+Cou[37mn[37mter_Time :[37m [37m0
+safetyScoreBuf : go[37mo[37md
+drivingMark : 6.21 [37m/[37m 10 
+aver[37ma[37mgedrivingMa[37mr[37mk : 6.85 /[37m [37m10 
+pre_in[37mstantFuelCo[37mn[37msume = 10.4[37m4[37m
+pre_f_acc[37me[37mlX = 0.00[37m
+[37mpre_f_accel[37mY[37m = 0.01
+p[37mr[37me_rpm = 225[37m7[37m
+pre_runT[37mi[37mme = 531
+p[37mr[37me_kph = 36[37m[37m
+pre_Data U[37mp[37mdated
+[37m[37m
+[MAIN] [37m[[37mMQTT] Topi[37mc[37m subscribed[37m:[37m "$aws/thi[37mn[37mgs/car-data[37ml[37moggera/shad[37mo[37mw/update/a[37mc[37mcepted"
+[37m[37m
+[MAIN] [37m[[37mMQTT] Messa[37mg[37me publishe[37md[37m: "$aws/thi[37mn[37mgs/car-dat[37ma[37mloggera/sha[37md[37mow/update"[37m,[37m Message: {[37m"[37mstate":{"r[37me[37mported":{"n[37ma[37mme":"car-da[37mt[37maloggera",[37m"[37menabled":"E[37mL[37mM_SUCCESS"[37m,[37m"geo":{"lat[37mi[37mtude":"37.[37m4[37m0002","lon[37mg[37mitude":"126[37m.[37m94254"}}}}[37m[37m
+[37m[37m
+[37m[MAIN] [MQ[37mT[37mT] Message[37m [37mpublished: [37m"[37mdt/cardata[37m/[37mlogger/car-[37md[37mataloggera[37m/[37mcar-data", [37mM[37message: {"[37me[37mfficiencyMa[37mr[37mk": 4.37853[37m1[37m,"safetyMa[37mr[37mk": 8.0414[37m3[37m1,"drivingM[37ma[37mrk": 6.209[37m9[37m81,"average[37md[37mrivingMark[37m"[37m: 6.854908,[37m"[37mrpm": 2257,[37m"[37mkph": 36,"[37me[37mngineLoad":[37m [37m9,"runTime[37m"[37m: 531,"fuel[37mT[37mype": 7,"o[37mi[37mlTemp": 76,[37m"[37mrelativePe[37md[37malPos": 40,[37m"[37mthrottle":[37m [37m51,"relativ[37me[37mThrottle":[37m [37m12,"intakeA[37mi[37mrTemp": 16[37m,[37m"fuelLevel"[37m:[37m 53,"mafRa[37mt[37me": 10.000000,"obdStan[37md[37mards": 11,"[37md[37mistTravelWi[37mt[37mhMIL": 531[37m,[37m"distSinceC[37mo[37mdesCleared[37m"[37m: 531,"ctr[37ml[37mModVoltage"[37m:[37m 12,"ambie[37mn[37mtAirTemp": [37m1[37m5,"manifold[37mP[37mressure": [37m8[37m2,"engineCo[37mo[37mlantTemp":[37m [37m85,"command[37me[37mdThrottleA[37mc[37mtuator": 60[37m.784313,"ti[37mmestamp": 12[37m3[37m45678}
+0.[37m2[37m4
+-0.00
+0[37m.[37m00
+-0.01[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mLM327 data representing..[37m.[37m..
+[37mi[37mnsta[37mn[37mtFuelConsu[37mm[37me : 0.24
+c[37mo[37mmmandedAir[37mF[37muelRatio : [37m1[37m.00
+AFR :[37m [37m14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37mc[37mou[37mn[37mter_Fuel :[37m [37m11
+efficie[37mn[37mcyMark : 4[37m.[37m39 / 10 
+a[37mv[37merageFuelCo[37mn[37msume : 0.2[37m4[37m
+safetyMar[37mk[37m : 8.09 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+[37ms[37mafetyScore[37mB[37muf : good
+[37mdrivingMark[37m [37m: 6.24 / 10[37m [37m
+averaged[37mr[37mivingMark :[37m [37m6.84 / 10 [37m[37m
+pre_instan[37mtFuelConsume[37m [37m= 0.24
+pr[37me[37m_f_accelX =[37m [37m0.00
+pre_[37mf[37m_accelY = -[37m0[37m.01
+pre_r[37mp[37mm = 1586
+p[37mr[37me_runTime [37m=[37m 544
+pre_k[37mp[37mh = 1
+pre[37m_[37mData Updated
+0.24
+-0.01
+-0.00
+[37m-[37m0.00
+GYRO[37m [37mdata update[37md[37m
+[37mE[37mLM32[37m7[37m data repr[37me[37msenting....[37m.[37m
+[37mi[37mnstantF[37mu[37melConsume :[37m [37m17.40
+com[37mm[37mandedAirFue[37ml[37mRatio : 1.[37m0[37m0
+AFR : 14[37m.[37m70
+[37mE[37mLM32[37m7[37m Data Loggi[37mn[37mg...
+[37me[37mff[37mi[37mciencyMark[37m [37m: 5.76 / 10[37m [37m
+averageFu[37me[37mlConsume :[37m [37m17.40
+coun[37mt[37mer_KphRpm [37m:[37m 14
+safety[37mM[37mark : 7.94[37m [37m/ 10 
+Coun[37mt[37mer_Time : [37m0[37m
+safetySc[37mo[37mreBuf : goo[37md[37m
+drivingMa[37mr[37mk : 6.85 /[37m [37m10 
+averag[37me[37mdrivingMar[37mk[37m : 6.84 / 1[37m0[37m 
+pre_ins[37mt[37mantFuelCons[37mu[37mme = 17.40[37m[37m
+pre_f_acce[37ml[37mX = -0.00
+[37mp[37mre_f_accel[37mY[37m = -0.00
+p[37mr[37me_rpm = 13[37m3[37m7
+pre_runT[37mi[37mme = 545
+[37mp[37mre_kph = 6[37m0[37m
+pre_Data [37mU[37mpdated
+0.[37m2[37m5
+-0.00
+0[37m.[37m00
+-0.00[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mLM327 d[37ma[37mta represen[37mt[37ming.....
+[37mi[37mn[37mstantFuel[37mC[37monsume : 30[37m.[37m00
+command[37me[37mdAirFuelRa[37mt[37mio : 1.00
+[37mA[37mFR : 14.70[37m[37m
+[37mE[37mLM327 Dat[37ma[37m Logging...[37m[37m
+[37me[37mfficiencyMark : 5.77 / 10 
+averageFuelConsume :[37m [37m30.00
+safe[37mt[37myMark : 7.[37m9[37m5 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : go[37mo[37md
+driving[37mM[37mark : 6.86 [37m/[37m 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 6.84 /[37m [37m10 
+pre_in[37ms[37mtantFuelCo[37mn[37msume = 30.0[37m0[37m
+pre_f_ac[37mc[37melX = 0.00[37m
+[37mpre_f_acce[37ml[37mY = -0.00
+[37mp[37mre_rpm = 6[37m5[37m7
+pre_runT[37mi[37mme = 546
+[37mp[37mre_kph = 63[37m[37m
+pre_Data [37mU[37mpdated
+[37m[37m
+[MAI[37mN] [MQTT] To[37mp[37mic subscri[37mb[37med: "$aws/t[37mh[37mings/car-d[37ma[37mtaloggera/s[37mh[37madow/updat[37me[37m/accepted"[37m
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messa[37mg[37me published[37m:[37m "$aws/thi[37mn[37mgs/car-data[37ml[37moggera/shadow/update",[37m [37mMessage: {"state":{"reported":{"n[37ma[37mme":"car-da[37mt[37maloggera","[37me[37mnabled":"E[37mL[37mM_SUCCESS",[37m"[37mgeo":{"lat[37mi[37mtude":"37.4[37m0[37m002","long[37mi[37mtude":"126.[37m9[37m4254"}}}}[37m
+[37m[37m
+[MAIN] [MQTT[37m][37m Message pu[37mb[37mlished: "d[37mt[37m/cardata/lo[37mg[37mger/car-da[37mt[37maloggera/ca[37mr[37m-data", Me[37ms[37msage: {"eff[37mi[37mciencyMark[37m"[37m: 5.769231,[37m"[37msafetyMark[37m"[37m: 7.948718,[37m"[37mdrivingMar[37mk[37m": 6.858974[37m,[37m"averagedr[37mi[37mvingMark": [37m6[37m.843579,"r[37mp[37mm": 657,"kp[37mh[37m": 63,"eng[37mi[37mneLoad": 63[37m,[37m"runTime": [37m5[37m46,"fuelTy[37mp[37me": 7,"oilT[37me[37mmp": 83,"r[37me[37mlativePedal[37mP[37mos": 30,"t[37mh[37mrottle": 4[37m1[37m,"relativeT[37mh[37mrottle": 31[37m,[37m"intakeAir[37mT[37memp": 10,"f[37mu[37melLevel": [37m5[37m1,"mafRate"[37m:[37m 2.000000,[37m"[37mobdStandard[37ms[37m": 11,"dis[37mt[37mTravelWithM[37mI[37mL": 547,"d[37mi[37mstSinceCode[37ms[37mCleared": 5[37m4[37m7,"ctrlMod[37mV[37moltage": 1[37m2[37m,"ambientAi[37mr[37mTemp": 19,[37m"[37mmanifoldPre[37ms[37msure": 35,[37m"[37mengineCoola[37mn[37mtTemp": 86,[37m"[37mcommandedT[37mh[37mrottleActua[37mt[37mor": 32.94[37m1[37m177,"timest[37ma[37mmp": 12345[37m6[37m78}
+0.25
+[37m-[37m0.02
+0.01[37m[37m
+0.01
+GYRO[37m [37mdata updat[37me[37md
+[37mE[37mL[37mM327 da[37mt[37ma represent[37mi[37mng.....
+[37mi[37mn[37mstantFuel[37mC[37monsume : 1[37m6[37m.43
+comman[37md[37medAirFuelR[37ma[37mtio : 1.00[37m
+[37mAFR : 14.7[37m0[37m
+[37mE[37mL[37mM327 Da[37mt[37ma Logging.[37m.[37m.
+[37me[37mf[37mficien[37mc[37myMark : 5.[37m8[37m7 / 10 
+av[37me[37mrageFuelCo[37mn[37msume : 16.4[37m3[37m
+safetyMa[37mr[37mk : 8.00 / [37m1[37m0 
+Counte[37mr[37m_Time : 0
+[37ms[37mafetyScore[37mB[37muf : good
+[37md[37mrivingMark[37m [37m: 6.94 / 10[37m [37m
+averaged[37mr[37mivingMark :[37m [37m6.85 / 10 [37m[37m
+pre_instan[37mt[37mFuelConsum[37me[37m = 16.43
+p[37mr[37me_f_accelX[37m [37m= 0.01
+pre[37m_[37mf_accelY = [37m0[37m.01
+pre_r[37mp[37mm = 790
+pr[37me[37m_runTime =[37m [37m560
+pre_kp[37mh[37m = 51
+pre[37m_[37mData Updat[37me[37md
+[37m[37m
+[M[37mA[37mIN] [MQTT] [37mT[37mopic subscr[37mi[37mbed: "$aws[37m/[37mthings/car-[37md[37mataloggera[37m/[37mshadow/upda[37mt[37me/accepted[37m"[37m
+[37m[37m
+[MAIN] [MQTT] [37mM[37message pub[37ml[37mished: "$aw[37ms[37m/things/ca[37mr[37m-datalogger[37ma[37m/shadow/up[37md[37mate", Messa[37mg[37me: {"state[37m"[37m:{"reported[37m"[37m:{"name":"[37mc[37mar-datalogg[37me[37mra","enable[37md[37m":"ELM_SUC[37mC[37mESS","geo":[37m{[37m"latitude"[37m:[37m"37.40002",[37m"[37mlongitude"[37m:[37m"126.94254"[37m}[37m}}}
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Message p[37mu[37mblished: "[37md[37mt/cardata/[37ml[37mogger/car-d[37ma[37mtaloggera/[37mc[37mar-data", M[37me[37mssage: {"e[37mf[37mficiencyMar[37mk[37m": 5.875000[37m,[37m"safetyMar[37mk[37m": 8.000000[37m,[37m"drivingMa[37mr[37mk": 6.93750[37m0[37m,"averagedrivingMark":[37m [37m6.845287,"[37mr[37mpm": 790,"k[37mp[37mh": 51,"en[37mg[37mineLoad": 4[37m5[37m,"runTime"[37m:[37m 560,"fuelT[37my[37mpe": 7,"oi[37ml[37mTemp": 80,"[37mr[37melativePed[37ma[37mlPos": 37,"[37mt[37mhrottle": [37m3[37m1,"relative[37mT[37mhrottle": [37m2[37m4,"intakeAi[37mr[37mTemp": 10,"[37mf[37muelLevel":[37m [37m56,"mafRate[37m"[37m: 9.000000[37m,[37m"obdStandar[37md[37ms": 11,"di[37ms[37mtTravelWith[37mM[37mIL": 561,"[37md[37mistSinceCod[37me[37msCleared":[37m [37m561,"ctrlMo[37md[37mVoltage": [37m1[37m3,"ambientA[37mi[37mrTemp": 18[37m,[37m"manifoldPr[37me[37mssure": 70[37m,[37m"engineCool[37ma[37mntTemp": 8[37m7[37m,"commanded[37mT[37mhrottleActu[37ma[37mtor": 70.9[37m8[37m0392,"times[37mt[37mamp": 1234[37m5[37m678}
+[37m0[37m.[37m27
+0.[37m0[37m1
+-0.01
+0[37m.[37m00
+GYRO d[37ma[37mta updated[37m
+[37mE[37mLM327 d[37ma[37mta represe[37mn[37mting.....
+[37mi[37mn[37mstantFue[37ml[37mConsume : 3[37m0[37m.00
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mL[37mM327 Da[37mt[37ma Logging.[37m.[37m.
+[37me[37mf[37mficiencyMar[37mk[37m : 6.01 / [37m1[37m0 
+average[37mF[37muelConsume [37m:[37m 30.00
+sa[37mf[37metyMark : 8[37m.[37m07 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 7.0[37m4[37m / 10 
+ave[37mr[37magedriving[37mM[37mark : 6.85[37m [37m/ 10 
+pre_[37mi[37mnstantFuel[37mC[37monsume = 30[37m.[37m00
+pre_f_[37ma[37mccelX = -0.[37m0[37m1
+pre_f_a[37mc[37mcelY = 0.00[37m[37m
+pre_rpm =[37m [37m1047
+pre_r[37mu[37mnTime = 579[37m[37m
+pre_kph =[37m [37m51
+pre_Dat[37ma[37m Updated
+[37m[37m
+[MAIN] [MQTT[37m][37m Topic sub[37ms[37mcribed: "$a[37mw[37ms/things/c[37ma[37mr-datalogg[37me[37mra/shadow/u[37mp[37mdate/accep[37mt[37med"
+[37m[37m
+[M[37mA[37mIN] [MQTT] [37mM[37message pub[37ml[37mished: "$aw[37ms[37m/things/ca[37mr[37m-datalogge[37mr[37ma/shadow/up[37md[37mate", Mess[37ma[37mge: {"state[37m"[37m:{"reported[37m"[37m:{"name":"[37mc[37mar-datalogg[37me[37mra","enabl[37me[37md":"ELM_SUC[37mC[37mESS","geo"[37m:[37m{"latitude"[37m:[37m"37.40002"[37m,[37m"longitude"[37m:[37m"126.94254[37m"[37m}}}}
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messa[37mg[37me published[37m:[37m "dt/carda[37mt[37ma/logger/c[37ma[37mr-datalogge[37mr[37ma/car-data[37m"[37m, Message: [37m{[37m"efficiency[37mM[37mark": 6.01[37m0[37m363,"safety[37mM[37mark": 8.06[37m5[37m630,"drivin[37mg[37mMark": 7.0[37m3[37m7996,"avera[37mg[37medrivingMa[37mr[37mk": 6.84872[37m8[37m,"rpm": 10[37m4[37m7,"kph": 51[37m,[37m"engineLoa[37md[37m": 68,"runT[37mi[37mme": 579,"[37mf[37muelType": 7[37m,[37m"oilTemp":[37m [37m79,"relativ[37me[37mPedalPos":[37m [37m68,"throttl[37me[37m": 78,"rel[37ma[37mtiveThrottl[37me[37m": 41,"inta[37mk[37meAirTemp":[37m [37m16,"fuelLev[37me[37ml": 52,"ma[37mf[37mRate": 3.00[37m0[37m000,"obdSt[37ma[37mndards": 11[37m,[37m"distTrave[37ml[37mWithMIL": 5[37m8[37m0,"distSin[37mc[37meCodesClear[37me[37md": 580,"c[37mt[37mrlModVoltag[37me[37m": 12,"amb[37mi[37mentAirTemp"[37m:[37m 11,"manif[37mo[37mldPressure"[37m:[37m 100,"engin[37me[37mCoolantTem[37mp[37m": 83,"comm[37ma[37mndedThrott[37ml[37meActuator"[37m:[37m 53.725491,[37m"[37mtimestamp"[37m:[37m 12345678}[37m
+[37m0.24
+-0.0[37m2[37m
+-0.01
+0.[37m0[37m0
+GYRO dat[37ma[37m updated
+[37mE[37mL[37mM327 data [37mr[37mepresenting[37m.[37m....
+[37mi[37mn[37ms[37mt[37mantFuelCons[37mu[37mme : 8.89[37m
+[37mcommandedAi[37mr[37mFuelRatio [37m:[37m 1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data [37mL[37mogging...[37m
+[37mc[37mo[37munter[37m_[37mRpm : 12
+e[37mf[37mficiencyMa[37mr[37mk : 4.40 / [37m1[37m0 
+averag[37me[37mFuelConsume[37m [37m: 8.89
+sa[37mf[37metyMark : [37m8[37m.12 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 6.2[37m6[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 6.84 [37m/[37m 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 8.[37m8[37m9
+pre_f_a[37mc[37mcelX = -0.0[37m1[37m
+pre_f_ac[37mc[37melY = 0.00[37m
+[37mpre_rpm = [37m2[37m588
+pre_ru[37mn[37mTime = 597[37m[37m
+pre_kph = [37m4[37m6
+pre_Data[37m [37mUpdated
+[37m[37m
+[37m[MAIN] [M[37mQ[37mTT] Topic [37ms[37mubscribed: [37m"[37m$aws/thing[37ms[37m/car-datalo[37mg[37mgera/shado[37mw[37m/update/acc[37me[37mpted"
+[37m[37m
+[MA[37mI[37mN] [MQTT] M[37me[37mssage publi[37ms[37mhed: "$aws[37m/[37mthings/car-[37md[37mataloggera[37m/[37mshadow/upda[37mt[37me", Messag[37me[37m: {"state":[37m{[37m"reported"[37m:[37m{"name":"ca[37mr[37m-datalogge[37mr[37ma","enabled[37m"[37m:"ELM_SUCC[37mE[37mSS","geo":{[37m"[37mlatitude":[37m"[37m37.40002","[37ml[37mongitude":[37m"[37m126.94254"}[37m}[37m}}
+[37m[37m
+[MAIN] [MQTT[37m][37m Message p[37mu[37mblished: "d[37mt[37m/cardata/l[37mo[37mgger/car-da[37mt[37maloggera/c[37ma[37mr-data", Me[37ms[37msage: {"ef[37mf[37miciencyMark[37m"[37m: 4.396985[37m,[37m"safetyMark[37m"[37m: 8.123953[37m,[37m"drivingMar[37mk[37m": 6.260469[37m,[37m"averagedr[37mi[37mvingMark": [37m6[37m.838408,"r[37mp[37mm": 2588,"k[37mp[37mh": 46,"en[37mg[37mineLoad": 7[37m0[37m,"runTime"[37m:[37m 597,"fuelT[37my[37mpe": 7,"oi[37ml[37mTemp": 78,"[37mr[37melativePed[37ma[37mlPos": 31,"[37mt[37mhrottle": [37m7[37m0,"relative[37mT[37mhrottle": [37m4[37m1,"intakeAi[37mr[37mTemp": 12,[37m"[37mfuelLevel":[37m [37m54,"mafRat[37me[37m": 15.00000[37m0[37m,"obdStand[37ma[37mrds": 11,"d[37mi[37mstTravelWi[37mt[37mhMIL": 597,[37m"[37mdistSinceC[37mo[37mdesCleared"[37m:[37m 597,"ctrlM[37mo[37mdVoltage":[37m [37m12,"ambient[37mA[37mirTemp": 1[37m5[37m,"manifoldP[37mr[37messure": 3[37m8[37m,"engineCoo[37ml[37mantTemp": [37m8[37m3,"commande[37md[37mThrottleAc[37mt[37muator": 52.[37m9[37m41177,"tim[37me[37mstamp": 123[37m4[37m5678}
+[37m0[37m.04
+0.01[37m[37m
+0.00
+0.0[37m0[37m
+GYRO data[37m [37mupdated
+[37mE[37mL[37mM327 dat[37ma[37m representi[37mn[37mg.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 19.[37m9[37m7
+command[37me[37mdAirFuelRat[37mi[37mo : 1.00
+A[37mF[37mR : 14.70[37m
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m[37m
+[37me[37mf[37mficiencyMa[37mr[37mk : 6.18 /[37m [37m10 
+averag[37me[37mFuelConsum[37me[37m : 19.97
+c[37mo[37munter_KphR[37mp[37mm : 15
+saf[37me[37mtyMark : 8[37m.[37m04 / 10 
+C[37mo[37munter_Time [37m:[37m 0
+safety[37mS[37mcoreBuf : g[37mo[37mod
+drivin[37mg[37mMark : 7.11[37m [37m/ 10 
+ave[37mr[37magedrivingM[37ma[37mrk : 6.84 [37m/[37m 10 
+pre_i[37mn[37mstantFuelC[37mo[37mnsume = 19.[37m9[37m7
+pre_f_a[37mc[37mcelX = 0.00[37m[37m
+pre_f_acc[37me[37mlY = 0.00
+[37mp[37mre_rpm = 24[37m8[37m9
+pre_run[37mT[37mime = 613
+[37mp[37mre_kph = 6[37m2[37m
+pre_Data [37mU[37mpdated
+[37m0[37m.[37m06
+-0.00
+[37m0[37m.00
+-0.01[37m[37m
+GYRO data [37mu[37mpdated
+[37mE[37mLM327 data [37mr[37mepresenting[37m.[37m....
+[37mi[37mnst[37ma[37mntFuelCons[37mu[37mme : 0.86
+[37mc[37mommandedAi[37mr[37mFuelRatio :[37m [37m1.00
+AFR :[37m [37m14.70
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37mc[37mo[37munter_Fuel[37m [37m: 12
+effic[37mi[37mencyMark : [37m4[37m.41 / 10 [37m
+[37maverageFuel[37mC[37monsume : 0[37m.[37m86
+safetyM[37ma[37mrk : 8.05 [37m/[37m 10 
+Count[37me[37mr_Time : 0[37m[37m
+safetyScor[37me[37mBuf : good[37m[37m
+drivingMar[37mk[37m : 6.23 / [37m1[37m0 
+averag[37me[37mdrivingMark[37m [37m: 6.83 / 1[37m0[37m 
+pre_inst[37ma[37mntFuelConsu[37mm[37me = 0.86
+[37mp[37mre_f_accelX[37m [37m= 0.00
+pr[37me[37m_f_accelY =[37m [37m-0.01
+pre[37m_[37mrpm = 2947[37m
+[37mpre_runTim[37me[37m = 614
+pre[37m_[37mkph = 8
+pr[37me[37m_Data Upda[37mt[37med
+0.05
+[37m-[37m0.00
+0.00[37m
+[37m0.00
+GYRO[37m [37mdata update[37md[37m
+[37mE[37mLM3[37m2[37m7 data repr[37me[37msenting...[37m.[37m.
+[37mi[37mnstant[37mF[37muelConsume [37m:[37m 8.81
+com[37mm[37mandedAirFue[37ml[37mRatio : 1.[37m0[37m0
+AFR : 14[37m.[37m70
+[37mE[37mLM32[37m7[37m Data Loggi[37mn[37mg...
+[37me[37mf[37mficiencyMar[37mk[37m : 4.41 / [37m1[37m0 
+average[37mF[37muelConsume[37m [37m: 8.81
+cou[37mn[37mter_KphRpm[37m [37m: 16
+safet[37my[37mMark : 7.9[37m2[37m / 10 
+Cou[37mn[37mter_Time :[37m [37m0
+safetySc[37mo[37mreBuf : go[37mo[37md
+drivingM[37ma[37mrk : 6.17 [37m/[37m 10 
+avera[37mg[37medrivingMa[37mr[37mk : 6.82 / [37m1[37m0 
+pre_in[37ms[37mtantFuelCon[37ms[37mume = 8.81[37m
+[37mpre_f_acce[37ml[37mX = 0.00
+p[37mr[37me_f_accelY[37m [37m= 0.00
+pre[37m_[37mrpm = 821[37m
+[37mpre_runTim[37me[37m = 615
+pre[37m_[37mkph = 79
+[37mp[37mre_Data Upd[37ma[37mted
+[37m[37m
+[MAIN] [[37mM[37mQTT] Topic [37ms[37mubscribed:[37m [37m"$aws/thing[37ms[37m/car-datal[37mo[37mggera/shado[37mw[37m/update/ac[37mc[37mepted"
+[37m[37m
+[37m[MAIN] [M[37mQ[37mTT] Message[37m [37mpublished:[37m [37m"$aws/thing[37ms[37m/car-datal[37mo[37mggera/shad[37mo[37mw/update", [37mM[37message: {"[37ms[37mtate":{"rep[37mo[37mrted":{"na[37mm[37me":"car-dat[37ma[37mloggera","e[37mn[37mabled":"EL[37mM[37m_SUCCESS","[37mg[37meo":{"lati[37mt[37mude":"37.40[37m0[37m02","longi[37mt[37mude":"126.9[37m4[37m254"}}}}
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Message[37m [37mpublished:[37m [37m"dt/cardata[37m/[37mlogger/car[37m-[37mdataloggera[37m/[37mcar-data", [37mM[37message: {"[37me[37mfficiencyMa[37mr[37mk": 4.4146[37m3[37m4,"safetyMa[37mr[37mk": 7.9186[37m9[37m9,"drivingM[37ma[37mrk": 6.166[37m6[37m67,"average[37md[37mrivingMark[37m"[37m: 6.821636,[37m"[37mrpm": 821,[37m"[37mkph": 79,"e[37mn[37mgineLoad":[37m [37m43,"runTime[37m"[37m: 615,"fue[37ml[37mType": 7,"o[37mi[37mlTemp": 87[37m,[37m"relativePe[37md[37malPos": 57,[37m"[37mthrottle":[37m [37m68,"relativ[37me[37mThrottle":[37m [37m22,"intakeA[37mi[37mrTemp": 15[37m,[37m"fuelLevel"[37m:[37m 51,"mafRa[37mt[37me": 26.0000[37m0[37m0,"obdStan[37md[37mards": 11,"[37md[37mistTravelW[37mi[37mthMIL": 615[37m,[37m"distSince[37mC[37modesCleared[37m"[37m: 615,"ctr[37ml[37mModVoltage"[37m:[37m 13,"ambie[37mn[37mtAirTemp": [37m1[37m6,"manifol[37md[37mPressure": [37m4[37m2,"engineC[37mo[37molantTemp":[37m [37m83,"comman[37md[37medThrottleA[37mc[37mtuator": 76[37m.[37m862747,"ti[37mm[37mestamp": 12[37m3[37m45678}
+0.[37m2[37m0
+-0.02
+-[37m0[37m.00
+-0.01[37m[37m
+GYRO data [37mu[37mpdated
+[37mE[37mLM327 da[37mt[37ma represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 8.[37m3[37m8
+commande[37md[37mAirFuelRat[37mi[37mo : 1.00
+A[37mF[37mR : 14.70[37m
+[37mE[37mL[37mM327 Da[37mt[37ma Logging.[37m.[37m.
+[37me[37mffic[37mi[37mencyMark :[37m [37m4.43 / 10 [37m
+[37maverageFue[37ml[37mConsume : 8[37m.[37m38
+safetyM[37ma[37mrk : 7.96 [37m/[37m 10 
+Count[37me[37mr_Time : 0[37m[37m
+safetyScor[37me[37mBuf : good[37m[37m
+drivingMar[37mk[37m : 6.19 / [37m1[37m0 
+average[37md[37mrivingMark[37m [37m: 6.81 / 10[37m [37m
+pre_inst[37ma[37mntFuelConsu[37mm[37me = 8.38
+[37mp[37mre_f_accelX[37m [37m= -0.00
+p[37mr[37me_f_accelY [37m=[37m -0.01
+pr[37me[37m_rpm = 1838[37m[37m
+pre_runTi[37mm[37me = 628
+pr[37me[37m_kph = 26
+[37mp[37mre_Data Up[37md[37mated
+[37m0[37m.[37m20
+-0.01[37m[37m
+-0.01
+-0.[37m0[37m1
+GYRO da[37mt[37ma updated
+[37mE[37mLM327 data [37mr[37mepresenting[37m.[37m....
+[37mi[37mns[37mt[37mantFuelCons[37mu[37mme : 7.04[37m
+[37mcommandedAi[37mr[37mFuelRatio [37m:[37m 1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37mc[37mounte[37mr[37m_Fuel : 13[37m[37m
+efficiency[37mM[37mark : 4.43[37m [37m/ 10 
+aver[37ma[37mgeFuelCons[37mu[37mme : 7.04
+[37mc[37mounter_Kph[37mR[37mpm : 17
+sa[37mf[37metyMark : [37m7[37m.84 / 10 
+[37mC[37mounter_Tim[37me[37m : 0
+safet[37my[37mScoreBuf :[37m [37mgood
+drivi[37mn[37mgMark : 6.[37m1[37m3 / 10 
+av[37me[37mragedrivin[37mg[37mMark : 6.80[37m [37m/ 10 
+pre[37m_[37minstantFuel[37mC[37monsume = 7.[37m0[37m4
+pre_f_a[37mc[37mcelX = -0.0[37m1[37m
+pre_f_ac[37mc[37melY = -0.01[37m[37m
+pre_rpm = 1892
+pre_r[37mu[37mnTime = 62[37m9[37m
+pre_kph =[37m [37m51
+pre_Data Updated
+[37m[37m
+[MAIN] [37m[[37mMQTT] Topic[37m [37msubscribed[37m:[37m "$aws/thin[37mg[37ms/car-data[37ml[37moggera/shad[37mo[37mw/update/a[37mc[37mcepted"
+[37m[37m
+[MAIN] [[37mM[37mQTT] Messa[37mg[37me publishe[37md[37m: "$aws/thi[37mn[37mgs/car-dat[37ma[37mloggera/sha[37md[37mow/update"[37m,[37m Message: {[37m"[37mstate":{"re[37mp[37morted":{"n[37ma[37mme":"car-da[37mt[37maloggera",[37m"[37menabled":"E[37mL[37mM_SUCCESS"[37m,[37m"geo":{"lat[37mi[37mtude":"37.[37m4[37m0002","long[37mi[37mtude":"126[37m.[37m94254"}}}}[37m
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Message[37m [37mpublished:[37m [37m"dt/cardata[37m/[37mlogger/car[37m-[37mdataloggera[37m/[37mcar-data",[37m [37mMessage: {"[37me[37mfficiencyM[37ma[37mrk": 4.4276[37m6[37m3,"safetyMa[37mr[37mk": 7.8378[37m3[37m8,"driving[37mM[37mark": 6.132[37m7[37m51,"averag[37me[37mdrivingMark[37m"[37m: 6.800406[37m,[37m"rpm": 1892[37m,[37m"kph": 51,[37m"[37mengineLoad"[37m:[37m 35,"runTi[37mm[37me": 629,"fu[37me[37mlType": 7,[37m"[37moilTemp": 8[37m4[37m,"relativeP[37me[37mdalPos": 3[37m0[37m,"throttle"[37m:[37m 74,"relat[37mi[37mveThrottle"[37m:[37m 51,"intak[37me[37mAirTemp": 1[37m8[37m,"fuelLeve[37ml[37m": 54,"mafR[37ma[37mte": 21.00[37m0[37m000,"obdSta[37mn[37mdards": 11[37m,[37m"distTravel[37mW[37mithMIL": 6[37m3[37m0,"distSinc[37me[37mCodesCleare[37md[37m": 630,"ct[37mr[37mlModVoltage[37m"[37m: 13,"ambi[37me[37mntAirTemp":[37m [37m19,"manifo[37ml[37mdPressure"[37m:[37m 43,"engine[37mC[37moolantTemp[37m"[37m: 81,"comma[37mn[37mdedThrottl[37me[37mActuator": [37m3[37m7.647060,"t[37mi[37mmestamp": [37m1[37m2345678}
+[37m0[37m.20
+0.02[37m
+[37m0.01
+-0.0[37m0[37m
+GYRO data[37m [37mupdated
+[37mE[37mL[37mM327 data re[37mp[37mresenting.[37m.[37m...
+[37mi[37mnsta[37mn[37mtFuelConsum[37me[37m : 30.00
+[37mc[37mommandedAir[37mF[37muelRatio :[37m [37m1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37me[37mf[37mficienc[37my[37mMark : 5.80[37m [37m/ 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 30.00[37m
+[37msafetyMark[37m [37m: 7.88 / 1[37m0[37m 
+Counter_[37mT[37mime : 0
+s[37ma[37mfetyScoreBu[37mf[37m : good
+dr[37mi[37mvingMark :[37m [37m6.84 / 10 [37m
+[37maveragedri[37mv[37mingMark : 6[37m.[37m80 / 10 
+[37mp[37mre_instantF[37mu[37melConsume [37m=[37m 30.00
+pre[37m_[37mf_accelX =[37m [37m0.01
+pre_f[37m_[37maccelY = -[37m0[37m.00
+pre_rp[37mm[37m = 1133
+p[37mr[37me_runTime =[37m [37m643
+pre_k[37mp[37mh = 57
+pre[37m_[37mData Update[37md[37m
+0.18
+0.[37m0[37m1
+-0.01
+-[37m0[37m.00
+GYRO [37md[37mata update[37md[37m
+[37mE[37mLM327[37m [37mdata repres[37me[37mnting.....[37m[37m
+[37mi[37mn[37mstantFu[37me[37mlConsume : [37m7[37m.97
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mLM327[37m [37mData Loggin[37mg[37m...
+[37mc[37mo[37munter_Fu[37me[37ml : 14
+ef[37mf[37miciencyMark[37m [37m: 4.44 / 1[37m0[37m 
+averageF[37mu[37melConsume [37m:[37m 7.97
+safe[37mt[37myMark : 7.8[37m9[37m / 10 
+Co[37mu[37mnter_Time :[37m [37m0
+safetyS[37mc[37moreBuf : go[37mo[37md
+driving[37mM[37mark : 6.16[37m [37m/ 10 
+aver[37ma[37mgedrivingMa[37mr[37mk : 6.79 /[37m [37m10 
+pre_in[37ms[37mtantFuelCo[37mn[37msume = 7.97[37m[37m
+pre_f_acc[37me[37mlX = -0.01[37m
+[37mpre_f_acce[37ml[37mY = -0.00
+[37mp[37mre_rpm = 1[37m3[37m86
+pre_run[37mT[37mime = 644[37m
+[37mpre_kph = 7[37m7[37m
+pre_Data [37mU[37mpdated
+0.[37m1[37m8
+0.01
+0[37m.[37m02
+0.00
+G[37mY[37mRO data up[37md[37mated
+[37mE[37mLM327 dat[37ma[37m represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 21.[37m3[37m8
+commande[37md[37mAirFuelRat[37mi[37mo : 1.00
+A[37mF[37mR : 14.70[37m
+[37mE[37mL[37mM327 Dat[37ma[37m Logging...[37m[37m
+[37me[37mf[37mficiency[37mM[37mark : 5.53[37m [37m/ 10 
+aver[37ma[37mgeFuelConsu[37mm[37me : 21.38[37m
+[37msafetyMark [37m:[37m 7.89 / 10[37m [37m
+Counter_T[37mi[37mme : 0
+sa[37mf[37metyScoreBu[37mf[37m : good
+dr[37mi[37mvingMark : [37m6[37m.71 / 10 [37m
+[37maveragedriv[37mi[37mngMark : 6[37m.[37m79 / 10 
+p[37mr[37me_instantF[37mu[37melConsume =[37m [37m21.38
+pre[37m_[37mf_accelX = [37m0[37m.02
+pre_f[37m_[37maccelY = 0.[37m0[37m0
+pre_rpm [37m=[37m 1080
+pre[37m_[37mrunTime = 6[37m4[37m5
+pre_kph[37m [37m= 59
+pre_[37mD[37mata Updated[37m[37m
+[37m[37m
+[MAI[37mN[37m] [MQTT] To[37mp[37mic subscri[37mb[37med: "$aws/t[37mh[37mings/car-d[37ma[37mtaloggera/s[37mh[37madow/updat[37me[37m/accepted"[37m
+[37m[37m
+[MAIN][37m [37m[MQTT] Mes[37ms[37mage publish[37me[37md: "$aws/t[37mh[37mings/car-da[37mt[37maloggera/s[37mh[37madow/update[37m"[37m, Message:[37m [37m{"state":{"[37mr[37meported":{[37m"[37mname":"car-[37md[37mataloggera"[37m,[37m"enabled":[37m"[37mELM_SUCCES[37mS[37m","geo":{"l[37ma[37mtitude":"3[37m7[37m.40002","lo[37mn[37mgitude":"1[37m2[37m6.94254"}}}[37m}[37m
+[37m[37m
+[[37mMAIN] [MQTT[37m][37m Message pu[37mb[37mlished: "d[37mt[37m/cardata/lo[37mg[37mger/car-dat[37ma[37mloggera/ca[37mr[37m-data", Me[37ms[37msage: {"eff[37mi[37mciencyMark[37m"[37m: 5.534883,[37m"[37msafetyMark[37m"[37m: 7.891473,[37m"[37mdrivingMar[37mk[37m": 6.713178[37m,[37m"averagedr[37mi[37mvingMark": [37m6[37m.789936,"r[37mp[37mm": 1080,"k[37mp[37mh": 59,"eng[37mi[37mneLoad": 2[37m0[37m,"runTime":[37m [37m645,"fuelT[37my[37mpe": 7,"oil[37mT[37memp": 81,"[37mr[37melativePeda[37ml[37mPos": 43,"[37mt[37mhrottle": 1[37m5[37m,"relative[37mT[37mhrottle": 3[37m0[37m,"intakeAi[37mr[37mTemp": 10,"[37mf[37muelLevel":[37m [37m57,"mafRate[37m"[37m: 8.000000[37m,[37m"obdStandar[37md[37ms": 11,"di[37ms[37mtTravelWith[37mM[37mIL": 645,"[37md[37mistSinceCod[37me[37msCleared": [37m6[37m45,"ctrlMo[37md[37mVoltage": 1[37m3[37m,"ambientA[37mi[37mrTemp": 12,[37m"[37mmanifoldPr[37me[37mssure": 44,[37m"[37mengineCool[37ma[37mntTemp": 85[37m,[37m"commanded[37mT[37mhrottleActu[37ma[37mtor": 33.7[37m2[37m5491,"times[37mt[37mamp": 1234[37m5[37m678}
+[37m0[37m.[37m22
+-0.01
+-[37m0[37m.00
+0.00[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mLM327[37m [37mdata repre[37ms[37menting.....[37m[37m
+[37mi[37mn[37mstantF[37mu[37melConsume :[37m [37m3.81
+comm[37ma[37mndedAirFuel[37mR[37matio : 1.0[37m0[37m
+AFR : 14[37m.[37m70
+[37mE[37mLM32[37m7[37m Data Logg[37mi[37mng...
+[37mc[37mounter[37m_[37mFuel : 15
+[37me[37mfficiencyMa[37mr[37mk : 4.47 /[37m [37m10 
+averag[37me[37mFuelConsum[37me[37m : 3.81
+sa[37mf[37metyMark : [37m7[37m.99 / 10 
+[37mC[37mounter_Tim[37me[37m : 0
+safet[37my[37mScoreBuf :[37m [37mgood
+drivi[37mn[37mgMark : 6.[37m2[37m3 / 10 
+av[37me[37mragedriving[37mM[37mark : 6.78[37m [37m/ 10 
+pre[37m_[37minstantFuel[37mC[37monsume = 3[37m.[37m81
+pre_f_a[37mc[37mcelX = -0.[37m0[37m0
+pre_f_ac[37mc[37melY = 0.00[37m
+[37mpre_rpm = [37m1[37m101
+pre_ru[37mn[37mTime = 675[37m[37m
+pre_kph = [37m2[37m1
+pre_Dat[37ma[37m Updated
+[37m[37m
+[MAIN] [MQTT] Message published: "$aws/things/car-[37md[37mataloggera/[37ms[37mhadow/upda[37mt[37me", Message[37m:[37m {"state":[37m{[37m"reported":[37m{[37m"name":"ca[37mr[37m-datalogger[37ma[37m","enabled[37m"[37m:"ELM_SUCCE[37mS[37mS","geo":{[37m"[37mlatitude":"[37m3[37m7.40002","[37ml[37mongitude":"[37m1[37m26.94254"}}[37m}[37m}
+[37m[37m
+[MA[37mI[37mN] [MQTT] M[37me[37mssage publi[37ms[37mhed: "dt/c[37ma[37mrdata/logge[37mr[37m/car-datal[37mo[37mggera/car-d[37ma[37mta", Messa[37mg[37me: {"effici[37me[37mncyMark": [37m4[37m.466667,"sa[37mf[37metyMark": [37m7[37m.985185,"dr[37mi[37mvingMark":[37m [37m6.225926,"a[37mv[37meragedrivin[37mg[37mMark": 6.7[37m8[37m1391,"rpm"[37m:[37m 1101,"kph"[37m:[37m 21,"engin[37me[37mLoad": 65,"[37mr[37munTime": 6[37m7[37m5,"fuelType[37m"[37m: 7,"oilTem[37mp[37m": 84,"rel[37ma[37mtivePedalPo[37ms[37m": 42,"thr[37mo[37mttle": 53,"[37mr[37melativeThr[37mo[37mttle": 0,"[37mi[37mntakeAirTem[37mp[37m": 13,"fuel[37mL[37mevel": 50,[37m"[37mmafRate": 1[37m6[37m.000000,"o[37mb[37mdStandards"[37m:[37m 11,"distT[37mr[37mavelWithMIL[37m"[37m: 675,"dis[37mt[37mSinceCodesC[37ml[37meared": 67[37m5[37m,"ctrlModVo[37ml[37mtage": 12,[37m"[37mambientAirT[37me[37mmp": 12,"ma[37mn[37mifoldPress[37mu[37mre": 49,"en[37mg[37mineCoolant[37mT[37memp": 88,"[37mc[37mommandedThr[37mo[37mttleActuat[37mo[37mr": 64.7058[37m8[37m7,"timestam[37mp[37m": 12345678}
+0.22
+-0.01
+0.00
+0.01
+GYRO d[37ma[37mta updated[37m[37m
+[37mE[37mLM327 data repres[37me[37mnting.....[37m[37m
+[37mi[37mn[37mstantFu[37me[37mlConsume :[37m [37m30.00
+comm[37ma[37mndedAirFue[37ml[37mRatio : 1.0[37m0[37m
+AFR : 14[37m.[37m70
+[37mE[37mLM327[37m [37mData Loggin[37mg[37m...
+[37me[37mf[37mficie[37mn[37mcyMark : 5[37m.[37m91 / 10 
+a[37mv[37merageFuelC[37mo[37mnsume : 30.[37m0[37m0
+safetyM[37ma[37mrk : 8.18 /[37m [37m10 
+Counte[37mr[37m_Time : 0[37m
+[37msafetyScor[37me[37mBuf : good[37m
+[37mdrivingMar[37mk[37m : 7.05 / 1[37m0[37m 
+average[37md[37mrivingMark [37m:[37m 6.79 / 10 [37m[37m
+pre_insta[37mn[37mtFuelConsum[37me[37m = 30.00
+[37mp[37mre_f_accelX[37m [37m= 0.00
+pr[37me[37m_f_accelY =[37m [37m0.01
+pre_[37mr[37mpm = 1512
+[37mp[37mre_runTime[37m [37m= 749
+pre_[37mk[37mph = 25
+p[37mr[37me_Data Upda[37mt[37med
+[37m0[37m.22
+0.[37m0[37m0
+-0.01
+[37m0[37m.01
+GYRO d[37ma[37mta updated[37m[37m
+[37mE[37mLM327 data represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 11.8[37m0[37m
+commande[37md[37mAirFuelRati[37mo[37m : 1.00
+A[37mF[37mR : 14.70
+[37mE[37mLM327 Dat[37ma[37m Logging...[37m[37m
+[37me[37mfficie[37mn[37mcyMark : 4[37m.[37m52 / 10 
+a[37mv[37merageFuelCo[37mn[37msume : 11.[37m8[37m0
+counter_[37mK[37mphRpm : 18[37m[37m
+safetyMark[37m [37m: 8.08 / 1[37m0[37m 
+Counter_[37mT[37mime : 0
+s[37ma[37mfetyScoreBu[37mf[37m : good
+d[37mr[37mivingMark :[37m [37m6.30 / 10 [37m[37m
+averagedri[37mv[37mingMark : 6[37m.[37m78 / 10 
+[37mp[37mre_instantF[37mu[37melConsume [37m=[37m 11.80
+pr[37me[37m_f_accelX =[37m [37m-0.01
+pre[37m_[37mf_accelY = [37m0[37m.01
+pre_rp[37mm[37m = 1074
+p[37mr[37me_runTime =[37m [37m750
+pre_k[37mp[37mh = 57
+pre[37m_[37mData Updat[37me[37md
+[37m[37m
+[MAIN] [MQTT] Message p[37mu[37mblished: "[37m$[37maws/things/[37mc[37mar-datalog[37mg[37mera/shadow/[37mu[37mpdate", Me[37ms[37msage: {"sta[37mt[37me":{"repor[37mt[37med":{"name"[37m:[37m"car-datal[37mo[37mggera","ena[37mb[37mled":"ELM_[37mS[37mUCCESS","ge[37mo[37m":{"latitud[37me[37m":"37.4000[37m2[37m","longitu[37md[37me":"126.942[37m5[37m4"}}}}
+[37m[37m
+[37m[MAIN] [MQ[37mT[37mT] Message [37mp[37mublished: [37m"[37mdt/cardata/[37ml[37mogger/car-d[37ma[37mtaloggera/[37mc[37mar-data", M[37me[37mssage: {"e[37mf[37mficiencyMar[37mk[37m": 4.52000[37m0[37m,"safetyMar[37mk[37m": 8.08000[37m0[37m,"drivingMa[37mr[37mk": 6.3000[37m0[37m0,"averaged[37mr[37mivingMark"[37m:[37m 6.778253,"[37mr[37mpm": 1074,"kph": 57,"engineLoad": 95,"runTime[37m"[37m: 750,"fue[37ml[37mType": 7,"o[37mi[37mlTemp": 86[37m,[37m"relativePe[37md[37malPos": 56[37m,[37m"throttle":[37m [37m71,"relativ[37me[37mThrottle":[37m [37m84,"intakeA[37mi[37mrTemp": 15[37m,[37m"fuelLevel"[37m:[37m 56,"mafRa[37mt[37me": 14.000000,"obdStandards": 11,"[37md[37mistTravelW[37mi[37mthMIL": 751[37m,[37m"distSince[37mC[37modesCleared[37m"[37m: 751,"ctr[37ml[37mModVoltage"[37m:[37m 13,"ambie[37mn[37mtAirTemp": [37m1[37m7,"manifol[37md[37mPressure": [37m8[37m7,"engineC[37mo[37molantTemp":[37m [37m83,"comman[37md[37medThrottleA[37mc[37mtuator": 45[37m.[37m882355,"ti[37mm[37mestamp": 1[37m2[37m345678}
+0.[37m2[37m0
+-0.01
+-[37m0[37m.00
+0.00[37m
+[37mGYRO data u[37mp[37mdated
+[37mE[37mLM327 data r[37me[37mpresenting.[37m.[37m...
+[37mi[37mnst[37ma[37mntFuelConsu[37mm[37me : 4.24
+[37mc[37mommandedAir[37mF[37muelRatio :[37m [37m1.00
+AFR :[37m [37m14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37mc[37mo[37munter_Fu[37me[37ml : 16
+ef[37mf[37miciencyMark[37m [37m: 4.55 / 1[37m0[37m 
+averageF[37mu[37melConsume [37m:[37m 4.24
+saf[37me[37mtyMark : 8.[37m1[37m9 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : g[37mo[37mod
+driving[37mM[37mark : 6.37[37m [37m/ 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 6.77 /[37m [37m10 
+pre_i[37mn[37mstantFuelCo[37mn[37msume = 4.2[37m4[37m
+pre_f_acc[37me[37mlX = -0.00[37m[37m
+pre_f_acce[37ml[37mY = 0.00
+p[37mr[37me_rpm = 15[37m5[37m4
+pre_runT[37mi[37mme = 796
+[37mp[37mre_kph = 38[37m[37m
+pre_Data [37mU[37mpdated
+[37m0[37m.20[37m[37m
+0.00
+-0.0[37m1[37m
+-0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mE[37mLM32[37m7[37m data repre[37ms[37menting....[37m.[37m
+[37mi[37mn[37mstantFu[37me[37mlConsume :[37m [37m14.74
+com[37mm[37mandedAirFue[37ml[37mRatio : 1.[37m0[37m0
+AFR : 14[37m.[37m70
+[37mE[37mLM32[37m7[37m Data Loggi[37mn[37mg...
+[37mc[37mounter_Rp[37mm[37m : 13
+eff[37mi[37mciencyMark [37m:[37m 5.90 / 10[37m [37m
+averageFu[37me[37mlConsume : [37m1[37m4.74
+coun[37mt[37mer_KphRpm [37m:[37m 19
+safety[37mM[37mark : 8.09[37m [37m/ 10 
+Coun[37mt[37mer_Time : [37m0[37m
+safetySco[37mr[37meBuf : good[37m[37m
+drivingMa[37mr[37mk : 6.99 / [37m1[37m0 
+averag[37me[37mdrivingMark[37m [37m: 6.78 / 1[37m0[37m 
+pre_inst[37ma[37mntFuelCons[37mu[37mme = 14.74[37m
+[37mpre_f_acce[37ml[37mX = -0.01
+[37mp[37mre_f_accel[37mY[37m = -0.00
+p[37mr[37me_rpm = 28[37m7[37m2
+pre_runT[37mi[37mme = 797
+p[37mr[37me_kph = 61[37m[37m
+pre_Data U[37mp[37mdated
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Topic sub[37ms[37mcribed: "$a[37mw[37ms/things/c[37ma[37mr-datalogge[37mr[37ma/shadow/u[37mp[37mdate/accept[37me[37md"
+[37m[37m
+[MAIN] [MQ[37mTT] Message[37m [37mpublished: [37m"[37m$aws/things[37m/[37mcar-datalo[37mg[37mgera/shadow[37m/[37mupdate", M[37me[37mssage: {"st[37ma[37mte":{"repo[37mr[37mted":{"name[37m"[37m:"car-data[37ml[37moggera","en[37ma[37mbled":"ELM[37m_[37mSUCCESS","g[37me[37mo":{"latit[37mu[37mde":"37.400[37m0[37m2","longit[37mu[37mde":"126.94[37m2[37m54"}}}}
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Messag[37me[37m published:[37m [37m"dt/cardat[37ma[37m/logger/car[37m-[37mdataloggera[37m/[37mcar-data",[37m [37mMessage: {"[37me[37mfficiencyM[37ma[37mrk": 5.8971[37m1[37m4,"safetyM[37ma[37mrk": 8.092[37m8[37m48,"driving[37mM[37mark": 6.994[37m9[37m81,"averag[37me[37mdrivingMark[37m"[37m: 6.775507[37m,[37m"rpm": 2872[37m,[37m"kph": 61,[37m"[37mengineLoad": 46,"runTi[37mm[37me": 797,"fuelType": 7,[37m"[37moilTemp": 7[37m9[37m,"relative[37mP[37medalPos": 7[37m8[37m,"throttle[37m"[37m: 26,"relat[37mi[37mveThrottle"[37m:[37m 21,"intak[37me[37mAirTemp": 1[37m8[37m,"fuelLeve[37ml[37m": 52,"maf[37mR[37mate": 12.00[37m0[37m000,"obdSt[37ma[37mndards": 11[37m,[37m"distTravel[37mW[37mithMIL": 7[37m9[37m8,"distSinc[37me[37mCodesClear[37me[37md": 798,"ct[37mr[37mlModVoltag[37me[37m": 13,"ambi[37me[37mntAirTemp"[37m:[37m 17,"manifo[37ml[37mdPressure"[37m:[37m 46,"engine[37mC[37moolantTemp[37m"[37m: 89,"comma[37mn[37mdedThrottl[37me[37mActuator": [37m4[37m7.843140,"t[37mi[37mmestamp": [37m1[37m2345678}
+[37m0[37m.06
+0.01
+[37m-[37m0.01
+-0.0[37m0[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM327 data r[37me[37mpresenting[37m.[37m....
+[37mi[37mnst[37ma[37mntFuelCons[37mu[37mme : 15.95[37m
+[37mcommandedAi[37mr[37mFuelRatio [37m:[37m 1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data L[37mo[37mgging...
+[37me[37mf[37mf[37miciencyMark[37m [37m: 5.97 / 1[37m0[37m 
+averageF[37mu[37melConsume :[37m [37m15.95
+saf[37me[37mtyMark : 8.[37m1[37m3 / 10 
+C[37mo[37munter_Time [37m:[37m 0
+safety[37mScoreBuf : g[37mo[37mod
+drivin[37mg[37mMark : 7.05[37m [37m/ 10 
+ave[37mr[37magedrivingM[37ma[37mrk : 6.78 [37m/[37m 10 
+pre_i[37mn[37mstantFuelC[37mo[37mnsume = 15.[37m9[37m5
+pre_f_ac[37mc[37melX = -0.0[37m1[37m
+pre_f_acc[37me[37mlY = -0.00[37m[37m
+pre_rpm =[37m [37m2603
+pre_r[37mu[37mnTime = 81[37m2[37m
+pre_kph =[37m 55
+pre_Dat[37ma[37m Updated
+[37m0[37m.[37m06
+-0.00[37m[37m
+0.00
+-0.0[37m0[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM3[37m27 data repr[37me[37msenting...[37m.[37m.
+[37mi[37mnstan[37mt[37mFuelConsume[37m [37m: 12.43
+co[37mm[37mmandedAirF[37mu[37melRatio : 1[37m.[37m00
+AFR : [37m1[37m4.70
+[37mE[37mLM32[37m7[37m Data Logg[37mi[37mng...
+[37me[37mff[37mi[37mciencyMark[37m [37m: 5.98 / 10[37m [37m
+averageF[37mu[37melConsume :[37m [37m12.43
+saf[37me[37mtyMark : 8.[37m1[37m3 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : g[37mo[37mod
+driving[37mM[37mark : 7.05[37m [37m/ 10 
+aver[37ma[37mgedrivingM[37ma[37mrk : 6.78 /[37m [37m10 
+pre_i[37mn[37mstantFuelCo[37mn[37msume = 12.[37m4[37m3
+pre_f_ac[37mc[37melX = 0.00[37m
+[37mpre_f_acce[37ml[37mY = -0.00[37m
+[37mpre_rpm = 1[37m3[37m58
+pre_ru[37mn[37mTime = 813[37m
+[37mpre_kph = [37m3[37m0
+pre_Data[37m [37mUpdated
+[37m[37m
+[MAIN] [37m[[37mMQTT] Topi[37mc[37m subscribed[37m:[37m "$aws/thin[37mg[37ms/car-data[37ml[37moggera/shad[37mo[37mw/update/a[37mc[37mcepted"
+[37m[37m
+[MAIN][37m [37m[MQTT] Mess[37ma[37mge publish[37me[37md: "$aws/th[37mi[37mngs/car-dat[37ma[37mloggera/sh[37ma[37mdow/update"[37m,[37m Message: [37m{[37m"state":{"r[37me[37mported":{"[37mn[37mame":"car-d[37ma[37mtaloggera"[37m,[37m"enabled":"[37mE[37mLM_SUCCESS[37m"[37m,"geo":{"la[37mt[37mitude":"37[37m.[37m40002","lon[37mg[37mitude":"12[37m6[37m.94254"}}}}[37m[37m
+[37m[37m
+[37m[MAIN] [M[37mQ[37mTT] Message[37m [37mpublished:[37m [37m"dt/cardata[37m/[37mlogger/car[37m-[37mdataloggera[37m/[37mcar-data",[37m [37mMessage: {"[37me[37mfficiencyM[37ma[37mrk": 5.9778[37m6[37m0,"safetyM[37ma[37mrk": 8.1303[37m8[37m2,"driving[37mM[37mark": 7.054[37m1[37m21,"averag[37me[37mdrivingMark[37m"[37m: 6.783196[37m,[37m"rpm": 1358[37m,[37m"kph": 30,[37m"[37mengineLoad"[37m:[37m 13,"runTi[37mm[37me": 813,"fu[37me[37mlType": 7,[37m"[37moilTemp": 8[37m6[37m,"relativeP[37me[37mdalPos": 3[37m3[37m,"throttle"[37m:[37m 14,"relat[37mi[37mveThrottle"[37m:[37m 44,"intak[37me[37mAirTemp": [37m1[37m1,"fuelLeve[37ml[37m": 53,"mafR[37ma[37mte": 7.000[37m0[37m00,"obdStan[37md[37mards": 11,[37m"[37mdistTravelW[37mi[37mthMIL": 81[37m4[37m,"distSince[37mC[37modesCleare[37md[37m": 814,"ctr[37ml[37mModVoltage[37m"[37m: 13,"ambie[37mn[37mtAirTemp":[37m [37m15,"manifol[37md[37mPressure":[37m [37m47,"engineC[37mo[37molantTemp":[37m [37m83,"comman[37md[37medThrottleA[37mc[37mtuator": 5[37m1[37m.764706,"ti[37mm[37mestamp": 1[37m2[37m345678}
+0[37m.[37m22
+-0.02
+[37m0[37m.00
+0.00
+[37mG[37mYRO data u[37mp[37mdated
+[37mE[37mLM327 data [37mrepresenting[37m.[37m....
+[37mi[37mns[37mt[37mantFuelConsume : 4.35[37m
+commandedAi[37mr[37mFuelRatio [37m:[37m 1.00
+AFR [37m:[37m 14.70
+[37mE[37mL[37mM327 Data [37mL[37mogging...[37m
+[37mc[37mounter_[37mF[37muel : 17
+e[37mf[37mficiencyMa[37mr[37mk : 4.53 /[37m [37m10 
+averag[37me[37mFuelConsum[37me[37m : 4.35
+sa[37mf[37metyMark : 8[37m.[37m17 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 6.3[37m5[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 6.78[37m [37m/ 10 
+pre_[37mi[37mnstantFuel[37mC[37monsume = 4.[37m3[37m5
+pre_f_a[37mc[37mcelX = 0.00[37m[37m
+pre_f_acc[37me[37mlY = 0.00
+[37mp[37mre_rpm = 2[37m1[37m10
+pre_run[37mT[37mime = 829[37m
+[37mpre_kph = 1[37m5[37m
+pre_Data[37m [37mUpdated
+[37m0[37m.20
+-0.[37m0[37m2
+0.00
+-[37m0[37m.01
+GYRO d[37ma[37mta updated[37m[37m
+[37mE[37mLM3[37m2[37m7 data repr[37me[37msenting...[37m.[37m.
+[37mi[37mn[37mstant[37mF[37muelConsume [37m:[37m 28.41
+co[37mm[37mmandedAirFu[37me[37mlRatio : 1[37m.[37m00
+AFR : 1[37m4[37m.70
+[37mE[37mLM3[37m2[37m7 Data Log[37mg[37ming...
+[37mc[37mo[37munter_[37mR[37mpm : 14
+ef[37mf[37miciencyMar[37mk[37m : 5.81 / 1[37m0[37m 
+average[37mF[37muelConsume [37m:[37m 28.41
+sa[37mf[37metyMark : 8[37m.[37m17 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 6.9[37m9[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 6.78 [37m/[37m 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 28[37m.[37m41
+pre_f_a[37mc[37mcelX = 0.0[37m0[37m
+pre_f_ac[37mc[37melY = -0.01[37m[37m
+pre_rpm = [37m2[37m222
+pre_r[37mu[37mnTime = 830[37m[37m
+pre_kph =[37m [37m49
+pre_Dat[37ma[37m Updated
+[37m[37m
+[MAIN][37m [37m[MQTT] Top[37mi[37mc subscribe[37md[37m: "$aws/th[37mi[37mngs/car-dat[37ma[37mloggera/sh[37ma[37mdow/update/[37ma[37mccepted"
+[37m[37m
+[MAIN] [37m[[37mMQTT] Messa[37mg[37me publishe[37md[37m: "$aws/thi[37mn[37mgs/car-data[37ml[37moggera/sha[37md[37mow/update",[37m [37mMessage: {[37m"[37mstate":{"re[37mp[37morted":{"n[37ma[37mme":"car-d[37ma[37mtaloggera",[37m"[37menabled":"[37mE[37mLM_SUCCESS"[37m,[37m"geo":{"lat[37mi[37mtude":"37.[37m4[37m0002","long[37mi[37mtude":"126[37m.[37m94254"}}}}[37m
+[37m[37m
+[MAIN[37m][37m [MQTT] Me[37ms[37msage publis[37mh[37med: "dt/ca[37mr[37mdata/logger[37m/[37mcar-datalo[37mg[37mgera/car-da[37mt[37ma", Messag[37me[37m: {"efficie[37mn[37mcyMark": 5[37m.[37m807229,"saf[37me[37mtyMark": 8.[37m1[37m68674,"dri[37mv[37mingMark": [37m6[37m.987952,"av[37me[37mragedrivin[37mg[37mMark": 6.78[37m0083,"rpm":[37m [37m2222,"kph": 49,"engineL[37mo[37mad": 48,"r[37mu[37mnTime": 830[37m,[37m"fuelType"[37m:[37m 7,"oilTemp[37m"[37m: 82,"rela[37mt[37mivePedalPos[37m"[37m: 54,"thro[37mt[37mtle": 20,"[37mr[37melativeThro[37mt[37mtle": 72,"i[37mn[37mtakeAirTem[37mp[37m": 13,"fuel[37mL[37mevel": 54,[37m"[37mmafRate": 5[37m.[37m000000,"ob[37md[37mStandards": 11,"distTr[37ma[37mvelWithMIL"[37m:[37m 831,"dist[37mS[37minceCodesCl[37me[37mared": 831[37m,[37m"ctrlModVol[37mt[37mage": 12,"[37ma[37mmbientAirTe[37mm[37mp": 10,"man[37mi[37mfoldPressu[37mr[37me": 90,"eng[37mi[37mneCoolantT[37me[37mmp": 84,"co[37mm[37mmandedThro[37mt[37mtleActuato[37mr[37m": 60.78431[37m3[37m,"timestamp[37m"[37m: 12345678[37m}[37m
+[37m0[37m.[37m19
+-0.02
+0[37m.[37m00
+0.00
+G[37mY[37mRO data up[37md[37mated
+[37mE[37mLM327 data rep[37mr[37mesenting..[37m.[37m..
+[37mi[37mnsta[37mn[37mtFuelConsum[37me[37m : 1.93
+c[37mo[37mmmandedAirF[37mu[37melRatio : [37m1[37m.00
+AFR : [37m1[37m4.70
+[37mE[37mLM[37m3[37m27 Data Log[37mg[37ming...
+[37mc[37mo[37munter_Fuel [37m:[37m 18
+effici[37me[37mncyMark : [37m4[37m.50 / 10 
+[37ma[37mverageFuelC[37mo[37mnsume : 1.[37m9[37m3
+safetyMa[37mrk : 8.21 /[37m [37m10 
+Counte[37mr[37m_Time : 0[37m
+[37msafetyScore[37mB[37muf : good[37m
+[37mdrivingMark[37m [37m: 6.36 / 1[37m0[37m 
+averaged[37mr[37mivingMark [37m:[37m 6.77 / 10 [37m[37m
+pre_insta[37mn[37mtFuelConsum[37me[37m = 1.93
+pr[37me[37m_f_accelX [37m=[37m 0.00
+pre[37m_[37mf_accelY = [37m0[37m.00
+pre_r[37mp[37mm = 2533
+p[37mr[37me_runTime [37m=[37m 848
+pre_k[37mp[37mh = 10
+pre[37m_[37mData Updat[37me[37md
+0.20
+-0[37m.[37m01
+0.00
+[37m0[37m.00
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mLM327[37m [37mdata repres[37me[37mnting.....[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : [37m1[37m1.60
+comma[37mn[37mdedAirFuel[37mR[37matio : 1.00[37m[37m
+AFR : 14.[37m7[37m0
+[37mE[37mLM327 D[37ma[37mta Logging[37m.[37m..
+[37me[37mf[37mficiencyMark[37m [37m: 4.51 / 1[37m0[37m 
+averageF[37mu[37melConsume [37m:[37m 11.60
+saf[37me[37mtyMark : 8[37m.[37m21 / 10 
+C[37mo[37munter_Time[37m [37m: 0
+safety[37mS[37mcoreBuf : g[37mo[37mod
+drivin[37mg[37mMark : 6.36[37m [37m/ 10 
+ave[37mr[37magedriving[37mM[37mark : 6.77 [37m/[37m 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 11.[37m6[37m0
+pre_f_a[37mc[37mcelX = 0.00[37m[37m
+pre_f_acc[37me[37mlY = 0.00
+[37mp[37mre_rpm = 2[37m9[37m86
+pre_run[37mT[37mime = 849[37m
+[37mpre_kph = 3[37m2[37m
+pre_Data[37m [37mUpdated
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Topic su[37mb[37mscribed: "$[37ma[37mws/things/[37mc[37mar-datalog[37mg[37mera/shadow/[37mu[37mpdate/acce[37mp[37mted"
+[37m[37m
+[MAIN[37m][37m [MQTT] Me[37ms[37msage publis[37mh[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/[37ms[37mhadow/updat[37me[37m", Message[37m:[37m {"state":{[37m"[37mreported":[37m{[37m"name":"car[37m-[37mdatalogger[37ma[37m","enabled"[37m:[37m"ELM_SUCCES[37mS[37m","geo":{"[37ml[37matitude":"[37m3[37m7.40002","l[37mo[37mngitude":"[37m1[37m26.94254"}}[37m}[37m}
+[37m[37m
+[MAIN] [MQTT][37m [37mMessage pu[37mb[37mlished: "d[37mt[37m/cardata/lo[37mg[37mger/car-da[37mt[37maloggera/ca[37mr[37m-data", Mes[37ms[37mage: {"eff[37mi[37mciencyMark"[37m:[37m 4.505301,[37m"[37msafetyMark"[37m:[37m 8.209659,[37m"[37mdrivingMark[37m"[37m: 6.357480[37m,[37m"averagedri[37mv[37mingMark": [37m6[37m.768943,"rp[37mm[37m": 2986,"k[37mp[37mh": 32,"eng[37mi[37mneLoad": 7[37m6[37m,"runTime":[37m [37m849,"fuelTy[37mp[37me": 7,"oil[37mT[37memp": 81,"r[37me[37mlativePeda[37ml[37mPos": 77,"[37mt[37mhrottle": 7[37m0[37m,"relative[37mT[37mhrottle": 4[37m9[37m,"intakeAi[37mr[37mTemp": 19,"[37mf[37muelLevel": [37m5[37m2,"mafRate[37m"[37m: 8.000000,[37m"[37mobdStandar[37md[37ms": 11,"dis[37mt[37mTravelWith[37mM[37mIL": 849,"d[37mi[37mstSinceCod[37me[37msCleared": [37m8[37m49,"ctrlMo[37md[37mVoltage": 1[37m2[37m,"ambientA[37mi[37mrTemp": 16,[37m"[37mmanifoldPre[37ms[37msure": 88,[37m"[37mengineCool[37ma[37mntTemp": 80[37m,[37m"commanded[37mT[37mhrottleActu[37ma[37mtor": 78.8[37m2[37m3532,"times[37mt[37mamp": 12345[37m6[37m78}
+0.21[37m
+[37m-0.02
+0.00[37m[37m
+-0.00
+GY[37mR[37mO data upda[37mt[37med
+[37mE[37mLM327 [37md[37mata represe[37mn[37mting.....[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : [37m1[37m.58
+comman[37md[37medAirFuelR[37ma[37mtio : 1.00[37m
+[37mAFR : 14.7[37m0[37m
+[37mE[37mL[37mM327 D[37ma[37mta Logging.[37m.[37m.
+[37mc[37mo[37munter_[37mF[37muel : 19
+[37me[37mfficiencyMa[37mr[37mk : 4.52 /[37m [37m10 
+averag[37me[37mFuelConsum[37me[37m : 1.58
+sa[37mf[37metyMark : [37m8[37m.24 / 10 
+[37mC[37mounter_Tim[37me[37m : 0
+safet[37my[37mScoreBuf :[37m [37mgood
+drivi[37mn[37mgMark : 6.[37m3[37m8 / 10 
+av[37me[37mragedriving[37mM[37mark : 6.76[37m [37m/ 10 
+pre[37m_[37minstantFuel[37mC[37monsume = 1[37m.[37m58
+pre_f_a[37mc[37mcelX = 0.0[37m0[37m
+pre_f_acc[37me[37mlY = -0.00[37m
+[37mpre_rpm = [37m1[37m857
+pre_ru[37mn[37mTime = 866[37m[37m
+pre_kph = [37m1[37m2
+pre_Dat[37ma[37m Updated
+[37m[37m
+[M[37mA[37mIN] [MQTT][37m [37mTopic subsc[37mr[37mibed: "$aw[37ms[37m/things/car[37m-[37mdataloggera[37m/[37mshadow/upd[37ma[37mte/accepted[37m"[37m
+[37m[37m
+[M[37mA[37mIN] [MQTT] [37mM[37message pub[37ml[37mished: "$aw[37ms[37m/things/ca[37mr[37m-datalogge[37mr[37ma/shadow/up[37md[37mate", Mess[37ma[37mge: {"state[37m"[37m:{"reporte[37md[37m":{"name":"[37mc[37mar-datalogg[37me[37mra","enabl[37me[37md":"ELM_SUC[37mC[37mESS","geo"[37m:[37m{"latitude"[37m:[37m"37.40002"[37m,[37m"longitude"[37m:[37m"126.94254[37m"[37m}}}}
+[37m[37m
+[M[37mA[37mIN] [MQTT][37m [37mMessage pub[37ml[37mished: "dt[37m/[37mcardata/log[37mg[37mer/car-dat[37ma[37mloggera/car[37m-[37mdata", Mes[37ms[37mage: {"effi[37mc[37miencyMark"[37m:[37m 4.515012,"[37ms[37mafetyMark"[37m:[37m 8.244803,"[37md[37mrivingMark[37m"[37m: 6.379908,[37m"[37maveragedriv[37mi[37mngMark": 6[37m.[37m763891,"rpm[37m"[37m: 1857,"kp[37mh[37m": 12,"engi[37mn[37meLoad": 20[37m,[37m"runTime":[37m [37m866,"fuelTy[37mp[37me": 7,"oilT[37me[37mmp": 75,"r[37me[37mlativePedal[37mP[37mos": 58,"t[37mh[37mrottle": 61[37m,[37m"relativeT[37mh[37mrottle": 33[37m,[37m"intakeAir[37mT[37memp": 11,"f[37mu[37melLevel": [37m5[37m3,"mafRate"[37m:[37m 22.000000,"obdStandards": 11,"di[37mstTravelWithMIL": 867,"[37md[37mistSinceCod[37me[37msCleared": [37m8[37m67,"ctrlMo[37md[37mVoltage": 1[37m3[37m,"ambientA[37mi[37mrTemp": 15,[37m"[37mmanifoldPr[37me[37mssure": 93[37m,[37m"engineCool[37ma[37mntTemp": 80[37m,[37m"commanded[37mT[37mhrottleActu[37ma[37mtor": 20.7[37m8[37m4313,"times[37mt[37mamp": 1234[37m5[37m678}
+0.24[37m
+[37m-0.01
+-0.[37m0[37m1
+0.02
+GY[37mR[37mO data upd[37ma[37mted
+[37mE[37mLM327 data representin[37mg[37m.....
+[37mi[37mn[37mstantFuelCon[37ms[37mume : 2.68[37m
+[37mcommandedA[37mi[37mrFuelRatio [37m:[37m 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM327 Data[37m [37mLogging...[37m
+[37me[37mf[37mficiencyMar[37mk[37m : 4.52 / [37m1[37m0 
+average[37mF[37muelConsume[37m [37m: 2.68
+saf[37me[37mtyMark : 8[37m.[37m28 / 10 
+C[37mo[37munter_Time [37m:[37m 0
+safety[37mS[37mcoreBuf : [37mg[37mood
+drivin[37mg[37mMark : 6.4[37m0[37m / 10 
+ave[37mr[37magedriving[37mM[37mark : 6.76 [37m/[37m 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 2.6[37m8[37m
+pre_f_ac[37mc[37melX = -0.01[37m[37m
+pre_f_acc[37me[37mlY = 0.02
+[37mp[37mre_rpm = 2[37m0[37m93
+pre_run[37mT[37mime = 884[37m
+[37mpre_kph = 2[37m4[37m
+pre_Data[37m [37mUpdated
+[37m0[37m.24
+-0.00[37m[37m
+0.00
+0.00[37m[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM[37m327 data rep[37mr[37mesenting..[37m.[37m..
+[37mi[37mnstan[37mt[37mFuelConsume[37m [37m: 24.93
+c[37mo[37mmmandedAirF[37mu[37melRatio : [37m1[37m.00
+AFR : [37m1[37m4.70
+[37mE[37mLM3[37m2[37m7 Data Log[37mg[37ming...
+[37me[37mf[37mficiencyMar[37mk[37m : 5.66 / 1[37m0[37m 
+average[37mF[37muelConsume [37m:[37m 24.93
+sa[37mf[37metyMark : 8[37m.[37m28 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safet[37my[37mScoreBuf : [37mg[37mood
+drivi[37mn[37mgMark : 6.9[37m7[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 6.76 [37m/[37m 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 24[37m.[37m93
+pre_f_[37ma[37mccelX = 0.0[37m0[37m
+pre_f_ac[37mc[37melY = 0.00[37m
+[37mpre_rpm = [37m6[37m68
+pre_run[37mT[37mime = 885
+[37mp[37mre_kph = 4[37m3[37m
+pre_Data [37mU[37mpdated
+[37m[37m
+[37m[MAIN] [MQTT[37m][37m Topic sub[37ms[37mcribed: "$a[37mw[37ms/things/c[37ma[37mr-datalogge[37mr[37ma/shadow/u[37mp[37mdate/accept[37me[37md"
+[37m[37m
+[37m[MAIN] [MQT[37mT[37m] Message [37mp[37mublished: "[37m$[37maws/things[37m/[37mcar-datalog[37mg[37mera/shadow/[37mu[37mpdate", Me[37ms[37msage: {"sta[37mt[37me":{"repor[37mt[37med":{"name"[37m:[37m"car-datal[37mo[37mggera","ena[37mb[37mled":"ELM_[37mS[37mUCCESS","ge[37mo[37m":{"latitu[37md[37me":"37.4000[37m2[37m","longitu[37md[37me":"126.942[37m5[37m4"}}}}
+[37m[37m
+[MAIN] [MQTT[37m][37m Message pu[37mb[37mlished: "dt[37m/[37mcardata/lo[37mg[37mger/car-dat[37ma[37mloggera/ca[37mr[37m-data", Mes[37ms[37mage: {"eff[37mi[37mciencyMark"[37m:[37m 5.661017,[37m"[37msafetyMark"[37m:[37m 8.282486,[37m"[37mdrivingMark[37m"[37m: 6.971751[37m,[37m"averagedri[37mv[37mingMark": [37m6[37m.761950,"rp[37mm[37m": 668,"kph[37m"[37m: 43,"engi[37mn[37meLoad": 1,"[37mr[37munTime": 8[37m8[37m5,"fuelTyp[37me[37m": 7,"oilTe[37mm[37mp": 70,"re[37ml[37mativePedalP[37mo[37ms": 68,"thr[37mo[37mttle": 11,[37m"[37mrelativeThr[37mo[37mttle": 40,[37m"[37mintakeAirTe[37mm[37mp": 14,"fu[37me[37mlLevel": 51[37m,[37m"mafRate":[37m [37m5.000000,"o[37mb[37mdStandards[37m"[37m: 11,"distT[37mr[37mavelWithMI[37mL[37m": 885,"dis[37mt[37mSinceCodes[37mC[37mleared": 88[37m5[37m,"ctrlModVo[37ml[37mtage": 13,[37m"[37mambientAirT[37me[37mmp": 17,"m[37ma[37mnifoldPres[37ms[37mure": 89,"e[37mn[37mgineCoolan[37mt[37mTemp": 83,"[37mc[37mommandedThr[37mo[37mttleActuat[37mo[37mr": 45.8823[37m5[37m5,"timesta[37mm[37mp": 1234567[37m8[37m}
+0.22
+-[37m0[37m.01
+0.00
+[37m0[37m.00
+GYRO [37md[37mata updated[37m[37m
+[37mE[37mLM327[37m [37mdata repres[37me[37mnting.....[37m[37m
+[37mi[37mn[37mstantFu[37me[37mlConsume :[37m [37m3.75
+comma[37mn[37mdedAirFuel[37mR[37matio : 1.0[37m0[37m
+AFR : 14.[37m7[37m0
+[37mE[37mLM32[37m7[37m Data Logg[37mi[37mng...
+[37mc[37mo[37munter[37m_[37mFuel : 20[37m
+[37mefficiencyM[37ma[37mrk : 4.53 [37m/[37m 10 
+avera[37mg[37meFuelConsu[37mm[37me : 3.75
+s[37ma[37mfetyMark :[37m [37m8.31 / 10 [37m
+[37mCounter_Ti[37mm[37me : 0
+safe[37mt[37myScoreBuf [37m:[37m good
+driv[37mi[37mngMark : 6[37m.[37m42 / 10 
+a[37mv[37meragedrivin[37mg[37mMark : 6.7[37m6[37m / 10 
+pr[37me[37m_instantFue[37ml[37mConsume = [37m3[37m.75
+pre_f_[37ma[37mccelX = 0.[37m0[37m0
+pre_f_ac[37mcelY = 0.00[37m
+pre_rpm = [37m1[37m591
+pre_ru[37mn[37mTime = 901
+pre_kph = 22
+pre_Data Updated
+0[37m.[37m22
+-0.02
+0.00
+0.00
+GYRO data [37mu[37mpdated
+[37mE[37mL[37mM327 dat[37ma[37m representi[37mn[37mg.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 5.59[37m[37m
+commanded[37mA[37mirFuelRatio[37m [37m: 1.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327 Da[37mt[37ma Logging..[37m.[37m
+[37mc[37mo[37munter[37m_[37mRpm : 15
+[37me[37mfficiencyMa[37mr[37mk : 4.50 / [37m1[37m0 
+averag[37me[37mFuelConsum[37me[37m : 5.59
+co[37mu[37mnter_KphRp[37mm[37m : 20
+safe[37mt[37myMark : 8.[37m2[37m3 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : go[37mo[37md
+driving[37mM[37mark : 6.36 [37m/[37m 10 
+aver[37ma[37mgedrivingMa[37mr[37mk : 6.75 /[37m [37m10 
+pre_in[37ms[37mtantFuelCo[37mn[37msume = 5.59[37m[37m
+pre_f_acc[37me[37mlX = 0.00
+[37mp[37mre_f_accel[37mY[37m = 0.00
+pr[37me[37m_rpm = 299[37m2[37m
+pre_runTi[37mm[37me = 902
+p[37mr[37me_kph = 54[37m
+[37mpre_Data Up[37md[37mated
+0.22[37m[37m
+-0.03
+0.[37m0[37m0
+-0.00
+G[37mY[37mRO data up[37md[37mated
+[37mE[37mL[37mM327 data r[37me[37mpresenting.[37m.[37m...
+[37mi[37mnsta[37mn[37mtFuelConsu[37mm[37me : 30.00
+[37mcommandedAi[37mr[37mFuelRatio : 1.00
+AFR : 14.70
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37me[37mfficie[37mn[37mcyMark : 5.[37m5[37m1 / 10 
+a[37mv[37merageFuelCo[37mn[37msume : 30.[37m0[37m0
+safetyMa[37mr[37mk : 8.23 /[37m [37m10 
+Counte[37mr[37m_Time : 0[37m
+[37msafetyScore[37mB[37muf : good[37m
+[37mdrivingMark[37m [37m: 6.87 / 10[37m [37m
+averaged[37mr[37mivingMark [37m:[37m 6.75 / 10 [37m[37m
+pre_insta[37mn[37mtFuelConsum[37me[37m = 30.00
+[37mp[37mre_f_accelX[37m [37m= 0.00
+pr[37me[37m_f_accelY =[37m [37m-0.00
+pre_[37mr[37mpm = 1206[37m
+[37mpre_runTime[37m [37m= 903
+pre[37m_[37mkph = 68
+p[37mr[37me_Data Upd[37ma[37mted
+[37m[37m
+[[37mM[37mAIN] [MQTT][37m [37mTopic subs[37mc[37mribed: "$aw[37ms[37m/things/ca[37mr[37m-datalogger[37ma[37m/shadow/up[37md[37mate/accepte[37md[37m"
+[37m[37m
+[MAIN] [MQ[37mT[37mT] Message [37mp[37mublished: [37m"[37m$aws/things[37m/[37mcar-datalo[37mg[37mgera/shadow[37m/[37mupdate", Me[37ms[37msage: {"st[37ma[37mte":{"repor[37mt[37med":{"name[37m"[37m:"car-data[37ml[37moggera","en[37ma[37mbled":"ELM[37m_[37mSUCCESS","g[37me[37mo":{"latit[37mu[37mde":"37.400[37m0[37m2","longitu[37md[37me":"126.94[37m2[37m54"}}}}
+[37m[37m
+[MAIN[37m][37m [MQTT] Me[37ms[37msage publis[37mh[37med: "dt/ca[37mr[37mdata/logger[37m/[37mcar-datalo[37mg[37mgera/car-da[37mt[37ma", Messag[37me[37m: {"efficie[37mn[37mcyMark": 5[37m.[37m514950,"saf[37me[37mtyMark": 8[37m.[37m228128,"dri[37mv[37mingMark": [37m6[37m.871539,"av[37me[37mragedrivin[37mg[37mMark": 6.75[37m4[37m300,"rpm":[37m [37m1206,"kph":[37m [37m68,"engineL[37mo[37mad": 73,"r[37mu[37mnTime": 903[37m,[37m"fuelType"[37m:[37m 7,"oilTemp[37m"[37m: 76,"rela[37mt[37mivePedalPo[37ms[37m": 61,"thro[37mt[37mtle": 67,"r[37me[37mlativeThro[37mt[37mtle": 58,"i[37mn[37mtakeAirTem[37mp[37m": 18,"fuel[37mL[37mevel": 55,[37m"[37mmafRate": 2[37m.[37m000000,"ob[37md[37mStandards":[37m [37m11,"distTr[37ma[37mvelWithMIL"[37m:[37m 903,"distS[37mi[37mnceCodesCl[37me[37mared": 904,[37m"[37mctrlModVol[37mt[37mage": 13,"[37ma[37mmbientAirTe[37mm[37mp": 15,"ma[37mn[37mifoldPressu[37mr[37me": 73,"eng[37mi[37mneCoolantT[37me[37mmp": 83,"co[37mm[37mmandedThro[37mt[37mtleActuator[37m"[37m: 41.96078[37m5[37m,"timestamp[37m"[37m: 12345678[37m}[37m
+0.21
+-0.[37m0[37m1
+0.00
+0[37m.[37m00
+GYRO da[37mt[37ma updated[37m
+[37mE[37mL[37mM327 data re[37mp[37mresenting.[37m.[37m...
+[37mi[37mn[37msta[37mn[37mtFuelConsu[37mm[37me : 8.70
+c[37mo[37mmmandedAir[37mF[37muelRatio : [37m1[37m.00
+AFR : [37m1[37m4.70
+[37mE[37mL[37mM327 Data [37mL[37mogging...
+[37me[37mff[37mi[37mciencyMark [37m:[37m 4.52 / 10 [37m[37m
+averageFu[37me[37mlConsume : [37m8[37m.70
+safet[37my[37mMark : 8.28[37m [37m/ 10 
+Cou[37mn[37mter_Time : [37m0[37m
+safetySc[37mo[37mreBuf : goo[37md[37m
+drivingM[37ma[37mrk : 6.40 /[37m [37m10 
+avera[37mg[37medrivingMar[37mk[37m : 6.75 / [37m1[37m0 
+pre_ins[37mt[37mantFuelCons[37mu[37mme = 8.70[37m
+[37mpre_f_accel[37mX[37m = 0.00
+p[37mr[37me_f_accelY[37m [37m= 0.00
+pre[37m_[37mrpm = 1771[37m[37m
+pre_runTim[37me[37m = 930
+pre[37m_[37mkph = 33
+[37mp[37mre_Data Upd[37ma[37mted
+[37m[37m
+[MAI[37mN] [MQTT] T[37mo[37mpic subscri[37mb[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/s[37mh[37madow/updat[37me[37m/accepted"[37m
+[37m[37m
+[MAIN[37m][37m [MQTT] Mes[37ms[37mage publis[37mh[37med: "$aws/things/car-d[37ma[37mtaloggera/s[37mh[37madow/updat[37me[37m", Message:[37m [37m{"state":{[37m"[37mreported":{[37m"[37mname":"car[37m-[37mdataloggera[37m"[37m,"enabled":[37m"[37mELM_SUCCES[37mS[37m","geo":{"l[37ma[37mtitude":"3[37m7[37m.40002","lo[37mn[37mgitude":"1[37m2[37m6.94254"}}[37m}[37m}
+[37m[37m
+[MAIN] [M[37mQ[37mTT] Messag[37me[37m published: "dt/cardat[37ma[37m/logger/car[37m-[37mdatalogger[37ma[37m/car-data",[37m Message: {[37m"[37mefficiencyM[37ma[37mrk": 4.516[37m1[37m29,"safetyM[37ma[37mrk": 8.279[37m5[37m70,"driving[37mM[37mark": 6.39[37m7[37m849,"averag[37me[37mdrivingMar[37mk[37m": 6.750006[37m,[37m"rpm": 177[37m1[37m,"kph": 33,[37m"[37mengineLoad[37m"[37m: 50,"runTi[37mm[37me": 930,"f[37mu[37melType": 7,"oilTemp": 70,"relativePedalPos": 60,"throttle[37m"[37m: 60,"relat[37mi[37mveThrottle[37m"[37m: 2,"intake[37mA[37mirTemp": 1[37m6[37m,"fuelLevel[37m"[37m: 52,"mafR[37ma[37mte": 11.000[37m0[37m00,"obdSta[37mn[37mdards": 11,[37m"[37mdistTravel[37mW[37mithMIL": 93[37m0[37m,"distSinc[37me[37mCodesCleare[37md[37m": 930,"ctr[37ml[37mModVoltage[37m"[37m: 12,"ambie[37mn[37mtAirTemp":[37m [37m16,"manifo[37ml[37mdPressure":[37m [37m72,"engine[37mC[37moolantTemp"[37m:[37m 82,"comman[37md[37medThrottle[37mA[37mctuator": 7[37m7[37m.647057,"t[37mi[37mmestamp": 1[37m2[37m345678}
+[37m0[37m.[37m20
+-[37m0[37m.01
+-0.00[37m[37m
+-0.01
+GYR[37mO[37m data upda[37mt[37med
+[37mE[37mLM327 data re[37mp[37mresenting..[37m.[37m..
+[37mi[37mnsta[37mn[37mtFuelConsum[37me[37m : 4.04
+c[37mo[37mmmandedAirF[37mu[37melRatio : [37m1[37m.00
+AFR : [37m1[37m4.70
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37mc[37mounte[37mr[37m_Fuel : 21[37m
+[37mefficiencyM[37ma[37mrk : 4.52 [37m/[37m 10 
+avera[37mg[37meFuelConsu[37mm[37me : 4.04
+s[37ma[37mfetyMark :[37m [37m8.29 / 10 [37m
+[37mCounter_Ti[37mm[37me : 0
+safe[37mt[37myScoreBuf [37m:[37m good
+driv[37mi[37mngMark : 6[37m.[37m41 / 10 
+a[37mv[37meragedrivi[37mn[37mgMark : 6.7[37m5[37m / 10 
+pr[37me[37m_instantFue[37ml[37mConsume = [37m4[37m.04
+pre_f_[37ma[37mccelX = -0[37m.[37m00
+pre_f_a[37mc[37mcelY = -0.0[37m1[37m
+pre_rpm [37m=[37m 1219
+pre_[37mr[37munTime = 9[37m3[37m8
+pre_kph[37m [37m= 39
+pre_D[37ma[37mta Updated[37m[37m
+[37m[37m
+[37m[MAIN] [M[37mQ[37mTT] Topic s[37mu[37mbscribed: "[37m$[37maws/things[37m/[37mcar-datalog[37mg[37mera/shadow[37m/[37mupdate/acce[37mp[37mted"
+[37m[37m
+[MAIN] [37m[[37mMQTT] Mess[37ma[37mge publishe[37md[37m: "$aws/th[37mi[37mngs/car-dat[37ma[37mloggera/sh[37ma[37mdow/update"[37m,[37m Message: [37m{[37m"state":{"r[37me[37mported":{"[37mn[37mame":"car-d[37ma[37mtaloggera",[37m"[37menabled":"[37mE[37mLM_SUCCESS"[37m,[37m"geo":{"la[37mt[37mitude":"37[37m.[37m40002","lon[37mg[37mitude":"12[37m6[37m.94254"}}}}[37m[37m
+[37m[37m
+[MAIN] [37m[[37mMQTT] Messa[37mg[37me publishe[37md[37m: "dt/cardata/logger/c[37mar-datalogge[37mr[37ma/car-data[37m"[37m, Message: [37m{[37m"efficienc[37my[37mMark": 4.52[37m0[37m256,"safet[37my[37mMark": 8.29[37m4[37m243,"drivi[37mn[37mgMark": 6.4[37m0[37m7249,"aver[37ma[37mgedrivingMa[37mr[37mk": 6.7459[37m2[37m5,"rpm": 12[37m1[37m9,"kph": 39[37m,[37m"engineLoad": 69,"runTime": 938,"[37mf[37muelType": 7[37m,[37m"oilTemp":[37m [37m88,"relati[37mv[37mePedalPos":[37m [37m70,"throttl[37me[37m": 32,"rel[37ma[37mtiveThrottl[37me[37m": 22,"int[37ma[37mkeAirTemp":[37m [37m10,"fuelLe[37mv[37mel": 58,"ma[37mf[37mRate": 28.[37m0[37m00000,"obdS[37mt[37mandards": [37m1[37m1,"distTrav[37me[37mlWithMIL":[37m [37m939,"distSi[37mn[37mceCodesCle[37ma[37mred": 939,"[37mc[37mtrlModVolta[37mg[37me": 12,"am[37mb[37mientAirTemp[37m"[37m: 10,"mani[37mf[37moldPressur[37me[37m": 95,"engi[37mn[37meCoolantTe[37mm[37mp": 84,"com[37mm[37mandedThrott[37ml[37meActuator"[37m:[37m 40.784313,[37m"[37mtimestamp"[37m:[37m 12345678}[37m
+[37m0.20
+-0.0[37m1[37m
+0.00
+0.0[37m1[37m
+GYRO dat[37ma[37m updated
+[37mE[37mLM327 data representing.....
+[37mi[37mn[37mstantF[37mu[37melConsume [37m:[37m 6.81
+com[37mm[37mandedAirFue[37ml[37mRatio : 1.0[37m0[37m
+AFR : 14[37m.[37m70
+[37mE[37mLM327 Data Logging...
+[37me[37mfficie[37mn[37mcyMark : 4.[37m5[37m2 / 10 
+a[37mv[37merageFuelCo[37mn[37msume : 6.81[37m[37m
+safetyMar[37mk[37m : 8.30 / 1[37m0[37m 
+Counter[37m_[37mTime : 0
+s[37ma[37mfetyScoreB[37mu[37mf : good
+d[37mr[37mivingMark [37m:[37m 6.41 / 10 [37m[37m
+averagedr[37mi[37mvingMark : [37m6[37m.74 / 10 [37m
+[37mpre_instant[37mFuelConsume [37m=[37m 6.81
+pre[37m_[37mf_accelX = [37m0[37m.00
+pre_f[37m_[37maccelY = 0[37m.[37m01
+pre_rpm[37m [37m= 1331
+pr[37me[37m_runTime = [37m9[37m42
+pre_kph = 47
+pre_[37mD[37mata Updated[37m[37m
+[37m[37m
+[MAIN] [37m[[37mMQTT] Topi[37mc[37m subscribe[37md[37m: "$aws/thi[37mn[37mgs/car-dat[37ma[37mloggera/sha[37md[37mow/update/a[37mc[37mcepted"
+[37m[37m
+[MAIN][37m [37m[MQTT] Mess[37ma[37mge publish[37me[37md: "$aws/th[37mi[37mngs/car-da[37mt[37maloggera/sh[37ma[37mdow/update", Message: [37m{[37m"state":{"[37mr[37meported":{"[37mn[37mame":"car-[37md[37mataloggera"[37m,[37m"enabled":[37m"[37mELM_SUCCESS[37m"[37m,"geo":{"l[37ma[37mtitude":"37[37m.[37m40002","lon[37mg[37mitude":"12[37m6[37m.94254"}}}}[37m[37m
+[37m[37m
+[37m[MAIN] [MQTT[37m][37m Message p[37mu[37mblished: "d[37mt[37m/cardata/lo[37mg[37mger/car-da[37mt[37maloggera/c[37ma[37mr-data", Me[37ms[37msage: {"ef[37mf[37miciencyMark[37m"[37m: 4.522293[37m,[37m"safetyMark[37m"[37m: 8.301486[37m,[37m"drivingMar[37mk[37m": 6.411890[37m,[37m"averagedr[37mi[37mvingMark": [37m6[37m.741995,"r[37mp[37mm": 1331,"k[37mp[37mh": 47,"en[37mg[37mineLoad": [37m2[37m9,"runTime"[37m:[37m 942,"fuelT[37my[37mpe": 7,"oi[37ml[37mTemp": 70,"[37mr[37melativePed[37ma[37mlPos": 73,"[37mt[37mhrottle": [37m4[37m7,"relative[37mT[37mhrottle": [37m2[37m1,"intakeAi[37mr[37mTemp": 14,[37m"[37mfuelLevel":[37m [37m49,"mafRat[37me[37m": 20.00000[37m0[37m,"obdStand[37ma[37mrds": 11,"d[37mi[37mstTravelWit[37mh[37mMIL": 942,[37m"[37mdistSinceCo[37md[37mesCleared"[37m:[37m 942,"ctrlM[37mo[37mdVoltage":[37m [37m12,"ambien[37mt[37mAirTemp": 1[37m1[37m,"manifoldP[37mr[37messure": 8[37m4[37m,"engineCoo[37ml[37mantTemp": [37m8[37m6,"commande[37md[37mThrottleAc[37mt[37muator": 29.[37m8[37m03923,"tim[37me[37mstamp": 123[37m4[37m5678}
+0.2[37m2[37m
+-0.01
+0.[37m0[37m1
+0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mE[37mLM327 data re[37mp[37mresenting..[37m.[37m..
+[37mi[37mnsta[37mn[37mtFuelConsum[37me[37m : 5.80
+c[37mo[37mmmandedAirF[37mu[37melRatio : [37m1[37m.00
+AFR : [37m1[37m4.70
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37mc[37mo[37munter_R[37mp[37mm : 16
+ef[37mf[37miciencyMark[37m [37m: 4.49 / 1[37m0[37m 
+averageF[37mu[37melConsume [37m:[37m 5.80
+safe[37mt[37myMark : 8.[37m3[37m1 / 10 
+Co[37mu[37mnter_Time [37m:[37m 0
+safetyS[37mc[37moreBuf : g[37mo[37mod
+driving[37mM[37mark : 6.40[37m [37m/ 10 
+aver[37ma[37mgedrivingMa[37mr[37mk : 6.74 /[37m [37m10 
+pre_in[37ms[37mtantFuelCo[37mn[37msume = 5.80[37m[37m
+pre_f_acc[37me[37mlX = 0.01
+[37mp[37mre_f_accel[37mY[37m = 0.00
+p[37mr[37me_rpm = 247[37m8[37m
+pre_runTi[37mm[37me = 946
+p[37mr[37me_kph = 18[37m
+[37mpre_Data U[37mp[37mdated
+0.19[37m[37m
+-0.01
+-0[37m.[37m00
+-0.00
+[37mG[37mYRO data u[37mp[37mdated
+[37mE[37mLM327[37m [37mdata repre[37ms[37menting.....[37m[37m
+[37mi[37mn[37mstantFu[37me[37mlConsume :[37m 6.23
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mLM327[37m [37mData Loggi[37mn[37mg...
+[37me[37mfficienc[37my[37mMark : 4.49[37m [37m/ 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 6.23[37m
+[37msafetyMark [37m:[37m 8.31 / 10[37m [37m
+Counter_[37mT[37mime : 0
+sa[37mf[37metyScoreBu[37mf[37m : good
+dr[37mi[37mvingMark : [37m6[37m.40 / 10 [37m
+[37maveragedriv[37mi[37mngMark : 6[37m.[37m73 / 10 
+p[37mr[37me_instantF[37mu[37melConsume =[37m [37m6.23
+pre_[37mf[37m_accelX = -[37m0[37m.00
+pre_f[37m_[37maccelY = -0[37m.[37m00
+pre_rp[37mm[37m = 1825
+pr[37me[37m_runTime = [37m9[37m47
+pre_kp[37mh[37m = 43
+pre_[37mD[37mata Update[37md[37m
+[37m0[37m.[37m20
+-0.[37m0[37m1
+0.00
+0.[37m0[37m1
+GYRO da[37mt[37ma updated
+[37mE[37mLM327 dat[37ma[37m representing.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 4.4[37m7[37m
+commande[37md[37mAirFuelRati[37mo[37m : 1.00
+A[37mF[37mR : 14.70
+[37mE[37mL[37mM327 Dat[37ma[37m Logging...[37m[37m
+[37me[37mf[37mficienc[37my[37mMark : 4.49[37m [37m/ 10 
+ave[37mr[37mageFuelCons[37mu[37mme : 4.47[37m
+[37msafetyMark [37m:[37m 8.31 / 10[37m [37m
+Counter_T[37mi[37mme : 0
+saf[37me[37mtyScoreBuf[37m [37m: good
+dri[37mv[37mingMark : [37m6[37m.40 / 10 [37m
+[37maveragedriv[37mi[37mngMark : 6[37m.[37m73 / 10 
+p[37mr[37me_instantFu[37me[37mlConsume =[37m [37m4.47
+pre_f[37m_[37maccelX = 0[37m.[37m00
+pre_f_a[37mc[37mcelY = 0.0[37m1[37m
+pre_rpm =[37m [37m952
+pre_r[37mu[37mnTime = 948[37m[37m
+pre_kph =[37m [37m37
+pre_Dat[37ma[37m Updated
+[37m[37m
+[37m[MAIN[37m][37m [MQTT] To[37mp[37mic subscrib[37me[37md: "$aws/t[37mh[37mings/car-da[37mt[37maloggera/s[37mh[37madow/update[37m/[37maccepted"[37m
+[37m[37m
+[M[37mA[37mIN] [MQTT][37m [37mMessage pub[37ml[37mished: "$a[37mw[37ms/things/ca[37mr[37m-datalogge[37mr[37ma/shadow/up[37md[37mate", Mess[37ma[37mge: {"state[37m"[37m:{"reported[37m"[37m:{"name":"[37mc[37mar-datalogg[37me[37mra","enabl[37me[37md":"ELM_SUC[37mC[37mESS","geo"[37m:[37m{"latitude[37m"[37m:"37.40002"[37m,[37m"longitude"[37m:[37m"126.94254[37m"[37m}}}}
+[37m[37m
+[MAI[37mN[37m] [MQTT] Me[37ms[37msage publi[37ms[37mhed: "dt/ca[37mr[37mdata/logge[37mr[37m/car-datalo[37mg[37mgera/car-d[37ma[37mta", Messag[37me[37m: {"effici[37me[37mncyMark": 4[37m.[37m493671,"saf[37me[37mtyMark": 8[37m.[37m312237,"dr[37mi[37mvingMark": [37m6[37m.402954,"av[37me[37mragedrivin[37mg[37mMark": 6.73[37m0[37m397,"rpm":[37m [37m952,"kph":[37m [37m37,"engineL[37mo[37mad": 88,"r[37mu[37mnTime": 948[37m,[37m"fuelType":[37m [37m7,"oilTemp[37m"[37m: 80,"relat[37mi[37mvePedalPos[37m"[37m: 24,"throt[37mt[37mle": 20,"r[37me[37mlativeThrot[37mt[37mle": 73,"i[37mn[37mtakeAirTemp[37m"[37m: 16,"fuel[37mL[37mevel": 57,"[37mm[37mafRate": 2[37m4[37m.000000,"ob[37md[37mStandards"[37m:[37m 11,"distTr[37ma[37mvelWithMIL"[37m:[37m 949,"dist[37mS[37minceCodesCl[37me[37mared": 949[37m,[37m"ctrlModVo[37ml[37mtage": 13,"[37ma[37mmbientAirT[37me[37mmp": 17,"ma[37mn[37mifoldPressu[37mr[37me": 95,"en[37mg[37mineCoolantT[37me[37mmp": 89,"c[37mo[37mmmandedThro[37mt[37mtleActuato[37mr[37m": 69.80392[37m5[37m,"timestamp": 12345678}
+0.20
+-0[37m.[37m03
+0.01
+0[37m.[37m00
+GYRO d[37ma[37mta updated[37m
+[37mE[37mLM327 [37md[37mata represe[37mn[37mting.....
+[37mi[37mn[37mstantFue[37ml[37mConsume : [37m1[37m1.60
+comma[37mn[37mdedAirFuelR[37ma[37mtio : 1.00[37m[37m
+AFR : 14.7[37m0[37m
+[37mE[37mLM327 [37mD[37mata Logging[37m.[37m..
+[37me[37mfficiency[37mM[37mark : 4.50 [37m/[37m 10 
+aver[37ma[37mgeFuelConsu[37mm[37me : 11.60[37m
+[37mcounter_Kph[37mR[37mpm : 21
+s[37ma[37mfetyMark : [37m8[37m.24 / 10 [37m
+[37mCounter_Tim[37me[37m : 0
+safet[37my[37mScoreBuf :[37m [37mgood
+drivi[37mn[37mgMark : 6.[37m3[37m7 / 10 
+av[37me[37mragedrivin[37mg[37mMark : 6.7[37m3[37m / 10 
+pre[37m_[37minstantFuel[37mC[37monsume = 1[37m1[37m.60
+pre_f_[37ma[37mccelX = 0.[37m0[37m1
+pre_f_ac[37mc[37melY = 0.00[37m[37m
+pre_rpm = [37m2[37m179
+pre_r[37mu[37mnTime = 952[37m[37m
+pre_kph =[37m [37m52
+pre_Dat[37ma[37m Updated
+[37m0[37m.21
+-0.02[37m
+[37m0.00
+-0.0[37m0[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM327 data[37m [37mrepresenti[37mn[37mg.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 5.68[37m[37m
+commandedA[37mi[37mrFuelRatio[37m [37m: 1.00
+AFR[37m [37m: 14.70
+[37mE[37mL[37mM327 Dat[37ma[37m Logging...[37m[37m
+[37mc[37mo[37munter_Fue[37ml[37m : 22
+eff[37mi[37mciencyMark [37m:[37m 4.50 / 10[37m [37m
+averageFu[37me[37mlConsume : 5.68
+safet[37my[37mMark : 8.2[37m4[37m / 10 
+Cou[37mn[37mter_Time :[37m [37m0
+safetySc[37mo[37mreBuf : goo[37md[37m
+drivingM[37ma[37mrk : 6.37 /[37m [37m10 
+avera[37mg[37medrivingMa[37mr[37mk : 6.72 / [37m1[37m0 
+pre_in[37ms[37mtantFuelCon[37ms[37mume = 5.68[37m
+[37mpre_f_acce[37ml[37mX = 0.00
+p[37mr[37me_f_accelY[37m [37m= -0.00
+pr[37me[37m_rpm = 212[37m3[37m
+pre_runTi[37mm[37me = 953
+p[37mr[37me_kph = 47[37m
+[37mpre_Data U[37mp[37mdated
+0.21[37m[37m
+-0.02
+0.[37m0[37m1
+0.01
+GY[37mR[37mO data upd[37ma[37mted
+[37mE[37mLM[37m3[37m27 data re[37mp[37mresenting..[37m.[37m..
+[37mi[37mn[37mstan[37mt[37mFuelConsume[37m [37m: 5.53
+co[37mm[37mmandedAirFu[37me[37mlRatio : 1[37m.[37m00
+AFR : 1[37m4[37m.70
+[37mE[37mLM[37m3[37m27 Data Lo[37mg[37mging...
+[37mc[37mo[37munter_Rpm[37m [37m: 17
+effi[37mc[37miencyMark :[37m [37m4.46 / 10 [37m
+[37maverageFue[37ml[37mConsume : 5[37m.[37m53
+safety[37mM[37mark : 8.24 [37m/[37m 10 
+Coun[37mt[37mer_Time : 0[37m[37m
+safetySco[37mr[37meBuf : good[37m[37m
+drivingMa[37mr[37mk : 6.35 / [37m1[37m0 
+averag[37me[37mdrivingMark[37m [37m: 6.72 / 1[37m0[37m 
+pre_inst[37ma[37mntFuelCons[37mu[37mme = 5.53
+[37mp[37mre_f_accel[37mX[37m = 0.01
+pr[37me[37m_f_accelY [37m=[37m 0.01
+pre_[37mr[37mpm = 2706[37m
+[37mpre_runTime[37m [37m= 953
+pre[37m_[37mkph = 42
+p[37mr[37me_Data Upda[37mt[37med
+[37m[37m
+[M[37mA[37mIN] [MQTT] [37mT[37mopic subsc[37mr[37mibed: "$aws[37m/[37mthings/car[37m-[37mdataloggera[37m/[37mshadow/upd[37ma[37mte/accepted[37m"[37m
+[37m[37m
+[37m[MAIN] [MQ[37mT[37mT] Message [37mp[37mublished: [37m"[37m$aws/things[37m/[37mcar-datalo[37mg[37mgera/shadow[37m/[37mupdate", M[37me[37mssage: {"st[37ma[37mte":{"repo[37mr[37mted":{"name[37m"[37m:"car-data[37ml[37moggera","en[37ma[37mbled":"ELM[37m_[37mSUCCESS","g[37me[37mo":{"latitu[37md[37me":"37.400[37m0[37m2","longit[37mu[37mde":"126.94[37m2[37m54"}}}}
+[37m[37m
+[MAIN] [MQTT] Mes[37ms[37mage publis[37mh[37med: "dt/car[37md[37mata/logger[37m/[37mcar-datalog[37mg[37mera/car-da[37mt[37ma", Message[37m:[37m {"efficie[37mn[37mcyMark": 4.[37m4[37m64848,"saf[37me[37mtyMark": 8.[37m2[37m37146,"dri[37mv[37mingMark": 6[37m.[37m350997,"ave[37mr[37magedriving[37mM[37mark": 6.718[37m2[37m23,"rpm": [37m2[37m706,"kph":[37m [37m42,"engineL[37mo[37mad": 51,"r[37mu[37mnTime": 953[37m,[37m"fuelType"[37m:[37m 7,"oilTemp[37m"[37m: 82,"relat[37mi[37mvePedalPos[37m"[37m: 43,"throt[37mt[37mle": 40,"r[37me[37mlativeThrot[37mt[37mle": 73,"i[37mn[37mtakeAirTemp[37m"[37m: 11,"fuel[37mL[37mevel": 52,"[37mm[37mafRate": 2[37m2[37m.000000,"ob[37md[37mStandards"[37m:[37m 11,"distTr[37ma[37mvelWithMIL"[37m:[37m 954,"dist[37mS[37minceCodesC[37ml[37meared": 954[37m,[37m"ctrlModVo[37ml[37mtage": 13,"[37ma[37mmbientAirT[37me[37mmp": 17,"ma[37mn[37mifoldPressu[37mr[37me": 50,"en[37mg[37mineCoolantT[37me[37mmp": 89,"c[37mo[37mmmandedThro[37mt[37mtleActuato[37mr[37m": 60.00000[37m0[37m,"timestam[37mp[37m": 12345678[37m}[37m
+0.22
+-0[37m.[37m03
+0.00
+0[37m.[37m00
+GYRO d[37ma[37mta updated[37m
+[37mE[37mLM[37m327 data rep[37mr[37mesenting..[37m.[37m..
+[37mi[37mn[37mstan[37mt[37mFuelConsume[37m [37m: 2.42
+co[37mm[37mmandedAirFu[37me[37mlRatio : 1[37m.[37m00
+AFR : 1[37m4[37m.70
+[37mE[37mL[37mM[37m327 Data Lo[37mg[37mging...
+[37me[37mf[37mficiencyMa[37mr[37mk : 4.47 / [37m1[37m0 
+averag[37me[37mFuelConsume[37m [37m: 2.42
+sa[37mf[37metyMark : 8[37m.[37m25 / 10 
+[37mC[37mounter_Time[37m [37m: 0
+safety[37mS[37mcoreBuf : [37mg[37mood
+drivin[37mg[37mMark : 6.3[37m6[37m / 10 
+av[37me[37mragedriving[37mM[37mark : 6.71[37m [37m/ 10 
+pre_[37mi[37mnstantFuelC[37mo[37mnsume = 2.[37m4[37m2
+pre_f_ac[37mc[37melX = 0.00[37m[37m
+pre_f_accelY = 0.00
+[37mp[37mre_rpm = 2666
+pre_run[37mT[37mime = 958
+pre_kph = 5
+pre_Data Updated
+[37m0[37m.20
+-0.0[37m2[37m
+-0.00
+0[37m.[37m01
+GYRO da[37mt[37ma updated[37m
+[37mE[37mLM327 [37md[37mata repres[37me[37mnting.....[37m
+[37mi[37mn[37mstantFue[37ml[37mConsume : [37m2[37m.90
+comman[37md[37medAirFuelR[37ma[37mtio : 1.00[37m
+[37mAFR : 14.70[37m[37m
+[37mE[37mLM327 D[37ma[37mta Logging.[37m.[37m.
+[37me[37mf[37mficiencyMar[37mk[37m : 4.47 / [37m1[37m0 
+average[37mF[37muelConsume[37m [37m: 2.90
+saf[37me[37mtyMark : 8[37m.[37m25 / 10 
+C[37mo[37munter_Time[37m [37m: 0
+safety[37mS[37mcoreBuf : [37mg[37mood
+drivin[37mg[37mMark : 6.3[37m6[37m / 10 
+ave[37mr[37magedrivingM[37ma[37mrk : 6.71 [37m/[37m 10 
+pre_i[37mn[37mstantFuelC[37mo[37mnsume = 2.[37m9[37m0
+pre_f_ac[37mc[37melX = -0.0[37m0[37m
+pre_f_acc[37me[37mlY = 0.01
+[37mp[37mre_rpm = 2[37m8[37m31
+pre_run[37mT[37mime = 959[37m
+[37mpre_kph = 2[37m0[37m
+pre_Data[37m [37mUpdated
+[37m0[37m.[37m21
+-0.02
+[37m-[37m0.01
+-0.0[37m0[37m
+GYRO data[37m [37mupdated
+[37mE[37mLM327 da[37mt[37ma represent[37mi[37mng.....
+[37mi[37mn[37mstantFuelC[37mo[37mnsume : 30.[37m0[37m0
+command[37me[37mdAirFuelRat[37mi[37mo : 1.00
+A[37mF[37mR : 14.70[37m
+[37mE[37mL[37mM327 Da[37mt[37ma Logging..[37m.[37m
+[37me[37mf[37mficiencyMar[37mk[37m : 5.34 / 1[37m0[37m 
+average[37mF[37muelConsume[37m [37m: 30.00
+co[37mu[37mnter_KphRp[37mm[37m : 22
+safe[37mt[37myMark : 8.1[37m7[37m / 10 
+Co[37mu[37mnter_Time :[37m [37m0
+safetyS[37mc[37moreBuf : go[37mo[37md
+driving[37mM[37mark : 6.76 [37m/[37m 10 
+aver[37ma[37mgedrivingMa[37mr[37mk : 6.71 /[37m [37m10 
+pre_in[37ms[37mtantFuelCo[37mn[37msume = 30.0[37m0[37m
+pre_f_ac[37mc[37melX = -0.01[37m[37m
+pre_f_acce[37ml[37mY = -0.00[37m
+[37mpre_rpm = [37m2[37m643
+pre_ru[37mn[37mTime = 960[37m[37m
+pre_kph = [37m5[37m4
+pre_Dat[37ma[37m Updated
+[37m[37m
+[MAI[37mN[37m] [MQTT] T[37mo[37mpic subscri[37mb[37med: "$aws/[37mt[37mhings/car-[37md[37mataloggera/[37ms[37mhadow/updat[37me[37m/accepted"[37m[37m
+[37m[37m
+[MAIN[37m][37m [MQTT] Me[37ms[37msage publis[37mh[37med: "$aws/[37mt[37mhings/car-d[37ma[37mtaloggera/[37ms[37mhadow/updat[37me[37m", Message:[37m [37m{"state":{[37m"[37mreported":{[37m"[37mname":"car[37m-[37mdataloggera[37m"[37m,"enabled"[37m:[37m"ELM_SUCCES[37mS[37m","geo":{"[37ml[37matitude":"3[37m7[37m.40002","l[37mo[37mngitude":"1[37m2[37m6.94254"}}[37m}[37m}
+[37m[37m
+[37m[MAIN] [MQTT[37m][37m Message p[37mu[37mblished: "d[37mt[37m/cardata/l[37mo[37mgger/car-da[37mt[37maloggera/c[37ma[37mr-data", Me[37ms[37msage: {"ef[37mf[37miciencyMark[37m"[37m: 5.343750[37m,[37m"safetyMark[37m"[37m: 8.166667,[37m"[37mdrivingMar[37mk[37m": 6.755208[37m,[37m"averagedr[37mi[37mvingMark":[37m [37m6.710943,"r[37mp[37mm": 2643,"[37mk[37mph": 54,"en[37mg[37mineLoad": 7[37m7[37m,"runTime"[37m:[37m 960,"fuelT[37my[37mpe": 7,"oi[37ml[37mTemp": 74,"[37mr[37melativePed[37ma[37mlPos": 46,"[37mt[37mhrottle": [37m1[37m2,"relative[37mT[37mhrottle": [37m4[37m0,"intakeAi[37mr[37mTemp": 16,[37m"[37mfuelLevel":[37m [37m57,"mafRat[37me[37m": 2.000000[37m,[37m"obdStanda[37mr[37mds": 11,"di[37ms[37mtTravelWith[37mM[37mIL": 960,"[37md[37mistSinceCod[37me[37msCleared":[37m [37m961,"ctrlM[37mo[37mdVoltage": [37m1[37m3,"ambient[37mA[37mirTemp": 11[37m,[37m"manifoldPr[37me[37mssure": 67[37m,[37m"engineCool[37ma[37mntTemp": 8[37m1[37m,"commanded[37mT[37mhrottleAct[37mu[37mator": 33.7[37m2[37m5491,"time[37ms[37mtamp": 1234[37m5[37m678}
+0.20[37m[37m
+-0.01
+-0.[37m0[37m1
+0.00
+G[37mY[37mRO data upd[37ma[37mted
+[37mE[37mL[37mM327 data[37m [37mrepresenti[37mn[37mg.....
+[37mi[37mn[37mstantFuelCo[37mn[37msume : 6.32[37m[37m
+commanded[37mA[37mirFuelRatio[37m [37m: 1.00
+AF[37mR[37m : 14.70
+[37mE[37mL[37mM327 Da[37mt[37ma Logging..[37m.[37m
+[37mc[37mou[37mn[37mter_Fuel :[37m [37m23
+efficie[37mn[37mcyMark : 4.[37m4[37m7 / 10 
+a[37mv[37merageFuelCo[37mn[37msume : 6.3[37m2[37m
+safetyMar[37mk[37m : 8.18 / [37m1[37m0 
+Counter[37m_[37mTime : 0
+[37ms[37mafetyScoreB[37mu[37mf : good
+[37md[37mrivingMark [37m:[37m 6.32 / 10[37m [37m
+averagedr[37mi[37mvingMark : [37m6[37m.71 / 10 [37m
+[37mpre_instant[37mF[37muelConsume[37m [37m= 6.32
+pr[37me[37m_f_accelX =[37m [37m-0.01
+pre[37m_[37mf_accelY = [37m0[37m.00
+pre_rp[37mm[37m = 711
+pr[37me[37m_runTime = [37m9[37m65
+pre_kp[37mh[37m = 61
+pre_[37mD[37mata Update[37md[37m
+0.22
+-0.[37m0[37m1
+0.00
+-[37m0[37m.00
+GYRO d[37ma[37mta updated[37m[37m
+[37mE[37mL[37mM327 data r[37me[37mpresenting.[37m.[37m...
+[37mi[37mn[37mst[37ma[37mntFuelConsu[37mm[37me : 7.73
+c[37mo[37mmmandedAir[37mF[37muelRatio : [37m1[37m.00
+AFR :[37m [37m14.70
+[37mE[37mL[37mM327 Data Lo[37mg[37mging...
+[37me[37mff[37mi[37mciencyMark [37m:[37m 4.47 / 10[37m [37m
+averageFu[37me[37mlConsume : [37m7[37m.73
+safet[37my[37mMark : 8.1[37m8[37m / 10 
+Cou[37mn[37mter_Time :[37m [37m0
+safetySc[37mo[37mreBuf : go[37mo[37md
+drivingM[37ma[37mrk : 6.33 /[37m [37m10 
+avera[37mg[37medrivingMar[37mk[37m : 6.70 / [37m1[37m0 
+pre_ins[37mt[37mantFuelCon[37ms[37mume = 7.73[37m
+[37mpre_f_acce[37ml[37mX = 0.00
+p[37mr[37me_f_accelY[37m [37m= -0.00
+pr[37me[37m_rpm = 200[37m8[37m
+pre_runTi[37mm[37me = 966
+p[37mr[37me_kph = 32[37m
+[37mpre_Data U[37mp[37mdated

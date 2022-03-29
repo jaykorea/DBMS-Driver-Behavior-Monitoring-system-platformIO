@@ -1,0 +1,10 @@
+[37miv:1
+load:0[37m�����bb�[37m�[37m�4
+load:0x[37m3[37mfff001c,len[37m:[37m1044
+load[37m:[37m0x40078000,[37ml[37men:10124
+l[37mo[37mad:0x400804[37m0[37m0,len:5856[37m
+[37mentry 0x40[37m0[37m806a8
+[37mI[37mn[37mitializi[37mn[37mg I2C devi[37mc[37mes...
+[37mT[37me[37mstin[37mg[37m device con[37mn[37mections...[37m[37m
+MPU6050 co[37mn[37mnection su[37mc[37mcessful
+In[37mi[37mtializing D[37mM[37mP...

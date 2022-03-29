@@ -1,0 +1,111 @@
+[37mI[37mn[37mitializing [37mI[37m2C devices.[37m.[37m.
+[37mT[37me[37msting de[37mv[37mice connect[37mi[37mons...
+MP[37mU[37m6050 connec[37mt[37mion succes[37ms[37mful
+Initi[37ma[37mlizing DMP.[37m.[37m.
+[37m
+[37mReading se[37mn[37msors for f[37mi[37mrst time...[37m[37m
+[37m.[37m.[37m.
+3Second[37ms[37m
+
+Calcula[37mt[37ming offsets[37m.[37m..
+[37m
+[37mF[37mINISHED!
+
+[37mS[37mensor read[37mi[37mngs with of[37mf[37msets:	
+[37mg[37myro[37mX_offset = [37m-[37m142.00
+gyr[37mo[37mY_offset =[37m [37m-106.00
+gy[37mr[37moZ_offset [37m=[37m -6.00
+acc[37me[37mlX_offset [37m=[37m -3983.00
+[37ma[37mccelY_offs[37me[37mt = 833.00[37m
+[37maccelZ_offs[37me[37mt = 1167.0[37m0[37m
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+/[37m/[37m          [37m [37mX Accel  Y [37mA[37mccel  Z Ac[37mc[37mel   X Gyro[37m [37m  Y Gyro  [37m [37mZ Gyro
+//OF[37mF[37mSETS    -3[37m9[37m95,     863[37m,[37m    1173,  [37m [37m -141,    [37m-[37m105,      -[37m6[37m
+Enabling [37mD[37mMP...
+Enab[37ml[37ming interr[37mu[37mpt detectio[37mn[37m (Arduino [37me[37mxternal in[37mt[37merrupt 13).[37m.[37m.
+DMP read[37my[37m! Waiting [37mf[37mor first in[37mt[37merrupt...[37m
+[37mC[37ml[37mearing inpu[37mt[37m serial buf[37mf[37mer
+Sendin[37mg[37m the follow[37mi[37mng command[37m/[37mquery: AT D[37m[37m
+	Received[37m [37mchar: A
+	R[37me[37mceived cha[37mr[37m: T
+	Recei[37mv[37med char:  [37m[37m
+	Received [37mc[37mhar: D
+	R[37me[37mceived char[37m:[37m \r
+	Recei[37mv[37med char: \[37mr[37m
+	Received[37m [37mchar: O
+	[37mR[37meceived ch[37ma[37mr: K
+	Rece[37mi[37mved char: [37m\[37mr
+	Receive[37md[37m char: \r[37m
+[37m	Received c[37mh[37mar: >
+Deli[37mm[37miter found[37m[37m
+All chars [37mr[37meceived: A[37mT[37mDOK
+[37mC[37ml[37mearing input[37m [37mserial buf[37mf[37mer
+Sending[37m [37mthe follow[37mi[37mng command[37m/[37mquery: AT Z[37m[37m
+	Received[37m [37mchar: A
+	R[37me[37mceived cha[37mr[37m: T
+	Recei[37mv[37med char:  [37m
+[37m	Received [37mc[37mhar: Z
+	Re[37mc[37meived char[37m:[37m \r
+[37m	[37mRe[37mceived char:[37m [37m\r
+	Recei[37mv[37med char: \r[37m[37m
+	Received[37m [37mchar: E
+	R[37me[37mceived char[37m:[37m L
+	Recei[37mv[37med char: M[37m[37m
+	Received [37mchar: 3
+	R[37me[37mceived char[37m:[37m 2
+	Recei[37mv[37med char: 7[37m
+[37m	Received c[37mh[37mar:  
+	Re[37mc[37meived char:[37m [37mv
+	Receiv[37me[37md char: 1
+[37m	[37mReceived c[37mh[37mar: .
+	Rec[37me[37mived char:[37m [37m5
+	Receive[37md[37m char: \r[37m
+[37m	Received char: \r
+	R[37me[37mceived char[37m:[37m >
+Delimi[37mt[37mer found
+A[37mll chars rec[37me[37mived: ATZE[37mL[37mM327v15
+[37mC[37ml[37mearing input[37m [37mserial buf[37mf[37mer
+Sending[37m [37mthe follow[37mi[37mng command/[37mq[37muery: AT E[37m0[37m
+	Received[37m [37mchar: A
+	[37mR[37meceived cha[37mr[37m: T
+	Rece[37mi[37mved char:  [37m[37m
+	Received[37m [37mchar: E
+	R[37me[37mceived char[37m:[37m 0
+	Recei[37mv[37med char: \r[37m[37m
+	Received[37m [37mchar: O
+	R[37me[37mceived cha[37mr[37m: K
+	Recei[37mv[37med char: \[37mr[37m
+	Receive[37md[37m char: \r
+[37m	[37mReceived ch[37ma[37mr: >
+Deli[37mm[37miter found[37m
+[37mAll chars [37mr[37meceived: AT[37mE[37m0OK
+[37mC[37ml[37mearing input[37m [37mserial buf[37mf[37mer
+Sending[37m [37mthe follow[37mi[37mng command/query: AT S[37m0[37m
+	Received[37m [37mchar: O
+	R[37me[37mceived cha[37mr[37m: K
+	Recei[37mv[37med char: \[37mr[37m
+	Receive[37md[37m char: \r
+[37m	[37mReceived c[37mh[37mar: >
+Deli[37mm[37miter found[37m[37m
+All chars [37mr[37meceived: OK[37m[37m
+[37mC[37mlearing input[37m [37mserial buf[37mf[37mer
+Sending[37m [37mthe follow[37mi[37mng command/[37mq[37muery: AT A[37mL[37m
+	Received[37m [37mchar: O
+	[37mR[37meceived cha[37mr[37m: K
+	Rece[37mi[37mved char: \[37mr[37m
+	Received[37m [37mchar: \r
+[37m	[37mReceived ch[37ma[37mr: >
+Deli[37mm[37miter found[37m
+[37mAll chars [37mr[37meceived: O[37mK[37m
+[37mC[37ml[37mearing inp[37mu[37mt serial bu[37mf[37mfer
+Sendi[37mn[37mg the follo[37mw[37ming comman[37md[37m/query: AT [37mT[37mP A0
+	Rece[37mi[37mved char: [37mO[37m
+	Received[37m [37mchar: K
+	Received cha[37mr[37m: \r
+	Rec[37me[37mived char: [37m\[37mr
+	Receiv[37me[37md char: >
+[37mD[37melimiter f[37mo[37mund
+All ch[37ma[37mrs receive[37md[37m: OK
+ELM32[37m7[37m Connected[37m[37m
+[37mI[37mni[37mt[37mializing S[37mD[37m card...[37mc[37mar[37md[37m initialize[37md[37m.

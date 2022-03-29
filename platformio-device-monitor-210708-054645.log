@@ -1,0 +1,87 @@
+[37mI[37mn[37mitializing[37m [37mI2C devices[37m.[37m..
+[37mT[37me[37msting d[37me[37mvice conne[37mc[37mtions...
+[37mM[37mPU6050 conn[37me[37mction succe[37ms[37msful
+Init[37mi[37malizing DMP[37m.[37m..
+[37m
+[37mReading [37ms[37mensors for [37mf[37mirst time.[37m.[37m.
+[37m.[37m.[37m.
+3Seco[37mn[37mds
+
+Calcul[37ma[37mting offse[37mt[37ms...
+[37m
+[37mF[37mINISHED![37m
+[37m
+Sensor rea[37md[37mings with [37mo[37mffsets:	
+[37mg[37my[37mroX_offset =[37m [37m-144.00
+g[37my[37mroY_offset [37m=[37m -104.00
+[37mg[37myroZ_offset[37m [37m= -7.00
+a[37mc[37mcelX_offset[37m [37m= -3951.00[37m[37m
+accelY_off[37ms[37met = 832.0[37m0[37m
+accelZ_of[37mf[37mset = 1179[37m.[37m00
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+[37m//         [37m [37m X Accel  [37mY[37m Accel  Z A[37mc[37mcel   X Gy[37mr[37mo   Y Gyro [37m [37m Z Gyro
+//[37mO[37mFFSETS    -[37m3[37m959,     86[37m4[37m,    1185,[37m [37m   -143,   [37m [37m-103,     [37m [37m-6
+Enabling[37m [37mDMP...
+En[37ma[37mbling inter[37mr[37mupt detect[37mi[37mon (Arduin[37mo[37m external i[37mn[37mterrupt 13)[37m.[37m..
+DMP re[37ma[37mdy! Waiting[37m [37mfor first [37mi[37mnterrupt...[37m[37m
+[37mE[37mLM327 C[37mo[37mnnected
+[37mI[37mn[37mitializing [37mS[37mD card...[37mc[37ma[37mrd initiali[37mz[37med.
+[37mL[37mogg[37mi[37mng to: LOG0[37m1[37m136.CSV
+[37mF[37mree s[37mp[37mace KB: 296[37m4[37m0800
+Free[37m [37mspace in MB[37m:[37m 28946
+[37m[37m
+[MAIN][37m [37mWaiting for[37m [37mCat.M1 Mod[37mu[37mle Ready...[37m[37m
+[37m[37m
+[[37mM[37mAIN] BG96 [37ma[37mlready avai[37ml[37mable
+
+[M[37mA[37mIN] System [37mI[37mnit Comple[37mt[37me
+
+[MAIN][37m [37mWIZnet IoT [37mS[37mhield for [37mA[37mrduino
+[MA[37mI[37mN] LTE Cat[37m.[37mM1 Version[37m[37m
+[MAIN] ===[37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m===========[37m[37m
+[MAIN] >> [37mT[37marget Boar[37md[37m: WIoT-QC01[37m [37m(Quectel B[37mG[37m96)
+[MAIN][37m [37m>> Sample [37mC[37mode:  AWS I[37mo[37mT Pub/Sub [37m([37mBuilt-in TL[37mS[37m)
+[MAIN] [37m=[37m===========[37m=[37m==========[37m=[37m===========[37m=[37m==========[37m=[37m==
+
+[BG96[37m][37m Echo Off:[37m [37mSuccess
+
+[37m[[37mBG96] USIM [37mS[37mtatus: REA[37mD[37mY
+
+[BG96][37m [37mNetwork St[37ma[37mtus: Attach[37m[37m
+[37m[37m
+[37m[BG9[37m6[37m] Echo Off[37m:[37m Success
+[37m[37m
+[37m[[37mBG96] USIM [37mS[37mtatus: REA[37mD[37mY
+[37m[37m
+[BG96] Ne[37mt[37mwork Status[37m:[37m Attach
+[37m
+[37m[BG96] Chec[37mk[37ming APN...[37m[37m
+[37m[37m
+[37m[BG96][37m [37mAPN Check D[37mo[37mne
+
+[MAI[37mN[37m] [FILE] Sa[37mv[37me and check[37m [37mAWS certif[37mi[37mcates
+[37m[37m
+[37m[BG96][37m [37mPDP Context[37m [37mActivation[37m:[37m Success
+[37m[37m
+[37m[MAIN] [FI[37mL[37mE] Erase BG[37m9[37m6 storage [37mc[37momplete
+[37m[37m
+[BG96][37m [37mFile saved:[37m [37mAmazonRoot[37mC[37mA1.pem, 118[37m8[37m, 2d13
+[37m[37m
+[37m[BG96] File [37ms[37maved: certi[37mf[37micate.pem.[37mc[37mrt, 1224, 7[37ma[37m0f
+[37m[37m
+[37m[BG96] Fi[37ml[37me saved: p[37mr[37mivate.pem.k[37me[37my, 1679, 7a[37m5[37m0
+[37m[37m
+[37m[MAIN] [SS[37mL[37m/TLS] Set B[37mG[37m96 SSL/TLS[37m [37mconfigurati[37mo[37mn
+[37m[37m
+[37m[MAI[37mN[37m] [MQTT] Co[37mn[37mnect to AW[37mS[37m IoT "a3q2g[37m5[37mzrbgdsc1-a[37mt[37ms.iot.us-ea[37ms[37mt-1.amazon[37ma[37mws.com:8883[37m"[37m
+[37m[37m
+[37m[BG96][37m [37mGPS Power:[37m [37mOn
+
+[MAIN[37m][37m GPS On
+[37m-[37m0[37m.01
+[37m-[37m0.01
+0.01[37m
+[37m-0.00
+GYR[37mO[37m data updat[37me[37md
+Distingu[37mi[37mshing Powe[37mr[37mtrain

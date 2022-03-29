@@ -1,0 +1,32 @@
+[37mad:0x3fff001![37m[37m�+��0x4007[37m8[37m000,len:101[37m2[37m4
+load:0x4[37m0[37m080400,len:[37m5[37m856
+entry [37m0[37mx400806a8[37m
+[37mI[37mniti[37ma[37mlizing I2C [37md[37mevices...[37m
+[37mT[37me[37msting devic[37me[37m connectio[37mn[37ms...
+MPU60[37m5[37m0 connecti[37mo[37mn successfu[37ml[37m
+Initializ[37mi[37mng DMP...[37m
+[37m
+[37mReading senso[37mr[37ms for firs[37mt[37m time...
+[37m.[37m..[37m
+3Seconds[37m
+[37m
+Calculatin[37mg[37m offsets...[37m[37m
+[37m
+[37mFIN[37mI[37mSHED!
+
+Se[37mn[37msor reading[37ms[37m with offs[37me[37mts:	
+[37mg[37myroX_[37moffset = -14[37m2[37m.00
+gyroY[37m_offset = -1[37m0[37m9.00
+gyro[37mZ[37m_offset = -[37m7[37m.00
+accel[37mX[37m_offset = -[37m3[37m925.00
+acc[37me[37mlY_offset [37m=[37m 839.00
+ac[37mc[37melZ_offset[37m [37m= 1175.00[37m
+[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m>[37m.[37m.[37m.[37m.[37m.[37m.[37m[37m
+[37m
+// [37m [37m         X [37mA[37mccel  Y Ac[37mc[37mel  Z Accel[37m [37m  X Gyro  [37m [37mY Gyro   Z [37mG[37myro
+//OFFS[37mE[37mTS    -3941[37m,[37m     869,  [37m [37m 1175,    [37m-[37m142,    -10[37m6[37m,      -6
+[37mE[37mnabling DMP[37m.[37m..
+Enabli[37mn[37mg interrup[37mt[37m detection [37m([37mArduino ext[37me[37mrnal inter[37mr[37mupt 13)...[37m
+[37mDMP ready![37m [37mWaiting for[37m [37mfirst inte[37mr[37mrupt...
+[37mE[37mLM327 Conne[37mc[37mted
+[37mI[37mniti[37ma[37mlizing SD c[37ma[37mrd...[37mc[37mard [37mi[37mnitialized.[37m[37m

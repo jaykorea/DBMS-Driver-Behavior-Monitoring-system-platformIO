@@ -1,0 +1,11 @@
+[37m,len:4
+load&�����len:1044
+load:0x400780[37m00,len:10124[37m[37m
+load:0x400[37m8[37m0400,len:58[37m5[37m6
+entry 0x[37m4[37m00806a8
+[37mI[37mn[37mitial[37mi[37mzing I2C de[37mv[37mices...
+[37mT[37mest[37mi[37mng device c[37mo[37mnnections.[37m.[37m.
+MPU6050 [37mc[37monnection [37ms[37muccessful
+[37mI[37mnitializing DMP...
+[37m
+[37mRead[37ming sensors[37m [37mfor first t[37mi[37mme...
